@@ -1,5 +1,8 @@
 {
  "https://eurocop.nu/rss.xml": [
+  "http://www.eurocop.nu/?n=1495",
+  "http://www.eurocop.nu/?n=1494",
+  "http://www.eurocop.nu/?n=1493",
   "http://www.eurocop.nu/?n=1492",
   "http://www.eurocop.nu/?n=1491",
   "http://www.eurocop.nu/?n=1490",
@@ -259,5 +262,15 @@
   "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-17.36-trafikolycka-sundsvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-19.40-trafikolycka-linkoping/",
   "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-18.22-stold-boden/"
+ ],
+ "http://eurocop.nu/medlem/lunarcoprss.xml": [
+  "http://www.eurocop.nu/medlem/?n=2255",
+  "http://www.eurocop.nu/medlem/?n=2254",
+  "http://www.eurocop.nu/medlem/?n=2253",
+  "http://www.eurocop.nu/medlem/?n=2252",
+  "http://www.eurocop.nu/medlem/?n=2251",
+  "http://www.eurocop.nu/medlem/?n=2250",
+  "http://www.eurocop.nu/medlem/?n=2249",
+  "http://www.eurocop.nu/medlem/?n=2248"
  ]
 }
