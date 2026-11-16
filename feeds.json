@@ -1,0 +1,4 @@
+[
+  { "name": "Eurocop", "url": "https://eurocop.nu/rss.xml", "webhook_secret": "WEBHOOK_EUROCOP" },
+  { "name": "Borås Tidning", "url": "https://www.bt.se/rss", "webhook_secret": "WEBHOOK_BT" }
+]
