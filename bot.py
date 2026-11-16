@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """RSS -> Discord. Ett flöde per kanal via webhooks. Läser feeds.json, sparar sedda i seen.json."""
-import json, os, time, html, re, urllib.request, urllib.error
+import email.utils, datetime, json, os, time, html, re, urllib.request, urllib.error
 import xml.etree.ElementTree as ET
 
 UA = "Mozilla/5.0 (X11; Linux x86_64) rss-discord-bot"
@@ -31,10 +31,10 @@ def parse(data):
     items = []
     for it in root.iter("item"):
         items.append({"id": text(it, "guid", "link", "title"), "title": text(it, "title"),
-                      "link": text(it, "link"), "summary": text(it, "description")})
+                      "link": text(it, "link"), "summary": text(it, "description"), "date": text(it, "pubDate", "{http://purl.org/dc/elements/1.1/}date")})
     for it in root.iter(A + "entry"):
         items.append({"id": text(it, A + "id", A + "link"), "title": text(it, A + "title"),
-                      "link": text(it, A + "link"), "summary": text(it, A + "summary", A + "content")})
+                      "link": text(it, A + "link"), "summary": text(it, A + "summary", A + "content"), "date": text(it, A + "published", A + "updated")})
     return items
 
 def clean(s, n=4000):
@@ -43,9 +43,21 @@ def clean(s, n=4000):
     s = re.sub(r"\n\s*\n+", "\n\n", s).strip()
     return s[:n] + ("…" if len(s) > n else "")
 
+def iso(d):
+    if not d: return None
+    try:
+        t = email.utils.parsedate_to_datetime(d)
+    except Exception:
+        try: t = datetime.datetime.fromisoformat(d.replace("Z", "+00:00"))
+        except Exception: return None
+    if t.tzinfo is None: t = t.replace(tzinfo=datetime.timezone.utc)
+    return t.astimezone(datetime.timezone.utc).isoformat()
+
 def post(webhook, feed_name, item, color=None, label=None):
     embed = {"title": clean(item["title"], 250) or "(utan rubrik)", "description": clean(item["summary"])}
     if color: embed["color"] = int(color.lstrip("#"), 16)
+    ts = iso(item.get("date"))
+    if ts: embed["timestamp"] = ts
     if label: embed["author"] = {"name": label}
     if item["link"]: embed["url"] = item["link"]
     body = json.dumps({"username": feed_name, "embeds": [embed]}).encode()
