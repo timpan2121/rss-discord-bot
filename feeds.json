@@ -16,11 +16,15 @@
   {
     "name": "Borås Tidning",
     "url": "https://www.bt.se/rss",
-    "webhook_secret": "WEBHOOK_BT"
+    "webhook_secret": "WEBHOOK_BT",
+    "label": "📰 BORÅS TIDNING",
+    "color": "#d1242f"
   },
   {
     "name": "Polisen",
     "url": "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/",
-    "webhook_secret": "WEBHOOK_POLISEN"
+    "webhook_secret": "WEBHOOK_POLISEN",
+    "label": "🚨 POLISEN",
+    "color": "#f0b400"
   }
 ]
