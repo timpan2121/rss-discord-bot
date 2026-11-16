@@ -10,6 +10,16 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "24d82e79-8a83-42c4-94b5-8ff5b76168d6",
+  "a0ef2a13-7097-43c6-b24d-92278de65780",
+  "1c7b6a53-7594-4892-9223-21e7880dd407",
+  "4ff464bc-c527-4085-87f2-2132e85f5443",
+  "da9d29a9-2d3e-4549-85bb-df9a21fc86ae",
+  "b272a967-d16c-490e-984f-50d2cf5dad03",
+  "af3d7d9e-14ca-4b7a-890c-38e4edd144f7",
+  "b55fe80a-bd49-4552-91bb-6fb9b114ddd1",
+  "734bff7a-09bc-452b-8534-b606c8c5b525",
+  "10937d56-65f3-4324-8d46-e975c2d8f695",
   "fa6a992a-e725-4c53-8fe2-eb3f8f0de37d",
   "9ec70196-a3e7-4e58-a5c5-0359b7b71daa",
   "6e9e4d26-b394-4a17-8bae-c9edb8463e3d",
@@ -73,6 +83,16 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-18.55-misshandel-ostersund/",
+  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-21.21-trafikolycka-vilt-jamtlands-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-19.14-fylleri-skelleftea/",
+  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-19.39-brand-ekero/",
+  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-14.41-trafikolycka-smedjebacken/",
+  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-19.58-trafikolycka-smitning-fran-lidingo/",
+  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-19.23-misshandel-hoganas/",
+  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-17.12-misshandel-uddevalla/",
+  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-18.27-trafikolycka-personskada-stockholm/",
+  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-18.49-trafikolycka-lulea/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-09.26-trafikolycka-boras/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-09.36-skadegorelse-alingsas/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-09.08-fylleri-ostersund/",
@@ -285,6 +305,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-18.22-stold-boden/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
+  "http://www.eurocop.nu/medlem/?s=0",
   "http://www.eurocop.nu/medlem/?n=2255",
   "http://www.eurocop.nu/medlem/?n=2254",
   "http://www.eurocop.nu/medlem/?n=2253",
