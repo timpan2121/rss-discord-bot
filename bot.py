@@ -32,8 +32,10 @@ def parse(data):
                       "link": text(it, A + "link"), "summary": text(it, A + "summary", A + "content")})
     return items
 
-def clean(s, n=300):
-    s = html.unescape(re.sub(r"<[^>]+>", "", s or "")).strip()
+def clean(s, n=4000):
+    s = re.sub(r"(?i)<br\s*/?>|</p>|</div>|</li>", "\n", s or "")
+    s = html.unescape(re.sub(r"<[^>]+>", "", s))
+    s = re.sub(r"\n\s*\n+", "\n\n", s).strip()
     return s[:n] + ("…" if len(s) > n else "")
 
 def post(webhook, feed_name, item):
