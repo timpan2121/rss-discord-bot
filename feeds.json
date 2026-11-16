@@ -1,7 +1,16 @@
 [
   {
-    "name": "Eurocop",
+    "name": "EUROCOP",
     "url": "https://eurocop.nu/rss.xml",
+    "webhook_secret": "WEBHOOK_EUROCOP",
+    "label": "🚓 EUROCOP",
+    "color": "#1f6feb"
+  },
+  {
+    "name": "LUNARCOP",
+    "label": "🌙 LUNARCOP",
+    "color": "#a371f7",
+    "url": "http://eurocop.nu/medlem/lunarcoprss.xml",
     "webhook_secret": "WEBHOOK_EUROCOP"
   },
   {

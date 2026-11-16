@@ -9,8 +9,13 @@ KEEP = 500
 
 def fetch(url):
     req = urllib.request.Request(url, headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return r.read()
+    for n in range(4):
+        try:
+            with urllib.request.urlopen(req, timeout=30) as r:
+                return r.read()
+        except Exception:
+            if n == 3: raise
+            time.sleep(10 * (n + 1))
 
 def text(el, *tags):
     for t in tags:
@@ -38,8 +43,10 @@ def clean(s, n=4000):
     s = re.sub(r"\n\s*\n+", "\n\n", s).strip()
     return s[:n] + ("…" if len(s) > n else "")
 
-def post(webhook, feed_name, item):
+def post(webhook, feed_name, item, color=None, label=None):
     embed = {"title": clean(item["title"], 250) or "(utan rubrik)", "description": clean(item["summary"])}
+    if color: embed["color"] = int(color.lstrip("#"), 16)
+    if label: embed["author"] = {"name": label}
     if item["link"]: embed["url"] = item["link"]
     body = json.dumps({"username": feed_name, "embeds": [embed]}).encode()
     req = urllib.request.Request(webhook, data=body, headers={"Content-Type": "application/json", "User-Agent": UA})
@@ -69,7 +76,7 @@ def main():
         new = [i for i in items if i["id"] not in old][:MAX_PER_RUN]
         for i in reversed(new):
             try:
-                post(hook, f["name"], i)
+                post(hook, f["name"], i, f.get("color"), f.get("label"))
             except Exception as e:
                 print(f"[{f['name']}] post misslyckades: {e}"); break
             old.insert(0, i["id"]); time.sleep(1)
