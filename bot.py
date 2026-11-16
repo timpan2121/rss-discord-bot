@@ -70,9 +70,9 @@ def main():
         except Exception as e:
             print(f"[{f['name']}] kunde inte hämta: {e}"); continue
         old = seen.get(f["url"])
-        if old is None:  # första körningen: markera allt som sett
-            seen[f["url"]] = [i["id"] for i in items][:KEEP]
-            print(f"[{f['name']}] första körning, {len(items)} markerade som sedda"); continue
+        if old is None:  # första körningen: posta bara de 3 senaste
+            old = [i["id"] for i in items[3:]][:KEEP]
+            print(f"[{f['name']}] första körning, postar 3 senaste")
         new = [i for i in items if i["id"] not in old][:MAX_PER_RUN]
         for i in reversed(new):
             try:
