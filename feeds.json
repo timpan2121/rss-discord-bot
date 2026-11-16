@@ -1,4 +1,17 @@
 [
-  { "name": "Eurocop", "url": "https://eurocop.nu/rss.xml", "webhook_secret": "WEBHOOK_EUROCOP" },
-  { "name": "Borås Tidning", "url": "https://www.bt.se/rss", "webhook_secret": "WEBHOOK_BT" }
+  {
+    "name": "Eurocop",
+    "url": "https://eurocop.nu/rss.xml",
+    "webhook_secret": "WEBHOOK_EUROCOP"
+  },
+  {
+    "name": "Borås Tidning",
+    "url": "https://www.bt.se/rss",
+    "webhook_secret": "WEBHOOK_BT"
+  },
+  {
+    "name": "Polisen",
+    "url": "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/",
+    "webhook_secret": "WEBHOOK_POLISEN"
+  }
 ]

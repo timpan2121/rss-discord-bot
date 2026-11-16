@@ -17,6 +17,7 @@ jobs:
         env:
           WEBHOOK_EUROCOP: ${{ secrets.WEBHOOK_EUROCOP }}
           WEBHOOK_BT: ${{ secrets.WEBHOOK_BT }}
+          WEBHOOK_POLISEN: ${{ secrets.WEBHOOK_POLISEN }}
       - name: Spara sedda
         run: |
           git config user.name "rss-bot"; git config user.email "rss-bot@users.noreply.github.com"
