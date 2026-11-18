@@ -10,6 +10,8 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "99c6774c-69f4-4760-a9b0-6ba8d873dd3a",
+  "5b4c6f66-b375-4f51-980b-78d2883bc4b7",
   "18c15e9d-f741-42f8-8021-104577dc3eb0",
   "f24ef637-11df-49e2-b20a-7e9dc04d4984",
   "638f5649-38c0-4290-a2f4-82844a890a7e",
@@ -184,6 +186,8 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-18.19-stold-umea/",
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-19.47-skadegorelse-borlange/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-19.45-stoldinbrott-orebro/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-18.40-trafikolycka-kungsor/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-19.23-fylleri-nykoping/",
@@ -599,9 +603,9 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795024915.04567,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795024915.7233396,
-  "https://www.bt.se/rss": 1795028271.8058164,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795028272.6036017
+  "https://eurocop.nu/rss.xml": 1795028574.5319657,
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795028595.270587,
+  "https://www.bt.se/rss": 1795028600.3745081,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795028603.6186805
  }
 }
