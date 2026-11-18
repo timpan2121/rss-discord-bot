@@ -175,6 +175,8 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-16.01-trafikolycka-personskada-surahammar/",
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-17.25-trafikolycka-katrineholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-16.32-trafikolycka-personskada-knivsta/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-15.30-trafikbrott-katrineholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-14.16-trafikolycka-lycksele/",
@@ -578,7 +580,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795017599.968367,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795017610.5820258,
-  "https://www.bt.se/rss": 1795020652.948406,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795020653.8903255
+  "https://www.bt.se/rss": 1795020955.786239,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795020956.5927625
  }
 }
