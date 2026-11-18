@@ -171,6 +171,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-15.20-trafikolycka-sundsvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-11.57-valdhot-mot-tjansteman-partille/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-14.00-ovrigt-stockholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-11.14-stoldinbrott-lund/",
@@ -566,9 +567,9 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795009982.1040514,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795010081.8679135,
-  "https://www.bt.se/rss": 1795013515.049117,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795013515.9702456
+  "https://eurocop.nu/rss.xml": 1795013818.382476,
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795013917.6303043,
+  "https://www.bt.se/rss": 1795013942.4701607,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795013943.6010237
  }
 }
