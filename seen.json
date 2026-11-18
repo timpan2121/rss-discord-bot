@@ -178,6 +178,9 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-18.51-trafikolycka-vilt-jamtlands-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-18.50-trafikolycka-vilt-vasternorrlands-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-18.49-trafikolycka-vilt-vasterbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-18.46-trafikolycka-vilt-norrbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-18.08-trafikolycka-lulea/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-15.29-trafikolycka-personskada-vallentuna/",
@@ -586,7 +589,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795021261.1118543,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795021266.7935698,
-  "https://www.bt.se/rss": 1795024000.722206,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795024001.4689822
+  "https://www.bt.se/rss": 1795024305.9034116,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795024306.691559
  }
 }
