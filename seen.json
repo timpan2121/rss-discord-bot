@@ -191,6 +191,9 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-21.41-trafikkontroll-vasternorrlands-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-21.41-trafikkontroll-vasterbottens-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-21.40-trafikkontroll-jamtlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-21.35-olovlig-korning-orebro/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-21.11-trafikkontroll-norrbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-20.08-trafikolycka-boras/",
@@ -613,7 +616,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795032246.5694242,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795032287.439312,
-  "https://www.bt.se/rss": 1795034421.2660224,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795034422.065941
+  "https://www.bt.se/rss": 1795034727.0934236,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795034740.0776286
  }
 }
