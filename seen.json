@@ -160,6 +160,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-13.11-stoldinbrott-lund/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-09.50-olaga-hot-skelleftea/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-10.24-stold-uppsala/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-11.42-fylleri-ornskoldsvik/",
@@ -553,7 +554,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795002459.2344766,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795002480.068503,
-  "https://www.bt.se/rss": 1795003701.122448,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795003701.8507066
+  "https://www.bt.se/rss": 1795004004.1406412,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795004005.2404916
  }
 }
