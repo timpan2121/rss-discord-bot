@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "de679797-14e5-4c72-bebd-4528a0de57f2",
   "0202f197-b9e1-43f3-a425-37ee2af583f9",
   "0e4d79c0-a88f-4ce1-b2b2-962caf4080ef",
   "be882e25-ec02-4e3f-840a-21e92b52d03b",
@@ -173,6 +174,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-16.02-trafikolycka-personskada-haninge/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-15.20-trafikolycka-sundsvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-11.57-valdhot-mot-tjansteman-partille/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-14.00-ovrigt-stockholm/",
@@ -571,7 +573,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795013818.382476,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795013917.6303043,
-  "https://www.bt.se/rss": 1795016687.7558012,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795016688.516829
+  "https://www.bt.se/rss": 1795016990.6081617,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795016992.5447304
  }
 }
