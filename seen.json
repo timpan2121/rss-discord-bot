@@ -169,6 +169,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-11.57-valdhot-mot-tjansteman-partille/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-14.00-ovrigt-stockholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-11.14-stoldinbrott-lund/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-13.11-stoldinbrott-lund/",
@@ -565,7 +566,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795009982.1040514,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795010081.8679135,
-  "https://www.bt.se/rss": 1795010479.0666618,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795010479.9382021
+  "https://www.bt.se/rss": 1795010782.446492,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795010783.2248244
  }
 }
