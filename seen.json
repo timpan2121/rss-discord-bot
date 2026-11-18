@@ -184,6 +184,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-19.45-stoldinbrott-orebro/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-18.40-trafikolycka-kungsor/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-19.23-fylleri-nykoping/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-19.14-smallar-orebro/",
@@ -600,7 +601,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795024915.04567,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795024915.7233396,
-  "https://www.bt.se/rss": 1795027361.793896,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795027362.6487043
+  "https://www.bt.se/rss": 1795027664.7945373,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795027665.5363662
  }
 }
