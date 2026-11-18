@@ -188,6 +188,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-21.11-trafikkontroll-norrbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-20.08-trafikolycka-boras/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-18.19-stold-umea/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-19.47-skadegorelse-borlange/",
@@ -608,7 +609,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795032246.5694242,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795032287.439312,
-  "https://www.bt.se/rss": 1795032595.1159375,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795032595.9934177
+  "https://www.bt.se/rss": 1795032899.3047864,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795032900.0267277
  }
 }
