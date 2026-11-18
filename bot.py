@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """RSS -> Discord. Ett flöde per kanal via webhooks. Läser feeds.json, sparar sedda i seen.json."""
+from zoneinfo import ZoneInfo
 import email.utils, datetime, json, os, time, html, re, urllib.request, urllib.error
 import xml.etree.ElementTree as ET
 
@@ -73,7 +74,13 @@ def post(webhook, feed_name, item, color=None, label=None):
 def main():
     feeds = json.load(open("feeds.json", encoding="utf-8"))
     seen = json.load(open("seen.json")) if os.path.exists("seen.json") else {}
+    last = seen.setdefault("_last", {})
+    now = datetime.datetime.now(ZoneInfo("Europe/Stockholm"))
     for f in feeds:
+        iv = f.get("interval_sunday" if now.weekday() == 6 else "interval", 0)
+        if iv and time.time() - last.get(f["url"], 0) < iv * 60 - 30:
+            continue
+        last[f["url"]] = time.time()
         hook = os.environ.get(f["webhook_secret"])
         if not hook:
             print(f"[{f['name']}] saknar secret {f['webhook_secret']}, hoppar över"); continue

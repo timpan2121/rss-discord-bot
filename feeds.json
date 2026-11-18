@@ -4,14 +4,18 @@
     "url": "https://eurocop.nu/rss.xml",
     "webhook_secret": "WEBHOOK_EUROCOP",
     "label": "🚓 EUROCOP",
-    "color": "#1f6feb"
+    "color": "#1f6feb",
+    "interval": 60,
+    "interval_sunday": 10
   },
   {
     "name": "LUNARCOP",
     "label": "🌙 LUNARCOP",
     "color": "#a371f7",
     "url": "http://eurocop.nu/medlem/lunarcoprss.xml",
-    "webhook_secret": "WEBHOOK_EUROCOP"
+    "webhook_secret": "WEBHOOK_EUROCOP",
+    "interval": 60,
+    "interval_sunday": 10
   },
   {
     "name": "Borås Tidning",

@@ -9,3 +9,5 @@ Varje flöde postar till en egen kanal via en Discord-webhook. Körs var 10:e mi
 4. Lägg till `WEBHOOK_GP: ${{ secrets.WEBHOOK_GP }}` under `env:` i `.github/workflows/rss.yml`.
 
 Ett nytt flöde postar sina 3 senaste inlägg vid första körningen, resten räknas som sedda.
+
+Valfritt per flöde: `"interval": 60` (minuter mellan kontroller) och `"interval_sunday": 10` (söndagar). Utan dessa kontrolleras flödet varje varv (var 5:e minut).
