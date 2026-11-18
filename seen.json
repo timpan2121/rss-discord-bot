@@ -154,6 +154,16 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-23.14-misshandel-stockholm/",
+  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-02.14-hemfridsbrott-upplands-vasby/",
+  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-01.12-stold-stockholm/",
+  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-00.17-stoldinbrott-botkyrka/",
+  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-07.31-sammanfattning-natt-jamtlands-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-07.36-sammanfattning-natt-ostergotlands-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-07.36-sammanfattning-natt-sodermanlands-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-07.36-sammanfattning-natt-jonkopings-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-07.26-sammanfattning-natt-dalarnas-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-07.28-sammanfattning-natt-orebro-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-14.21-bedrageri-boras/",
   "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-13.03-rattfylleri-sundsvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-15.10-fylleri-skelleftea/",
@@ -469,7 +479,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1794995005.2460124,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1794995020.6460798,
-  "https://www.bt.se/rss": 1794995352.9506662,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1794995356.2491543
+  "https://www.bt.se/rss": 1794995670.8018982,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1794995671.5539644
  }
 }
