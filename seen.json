@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "18c15e9d-f741-42f8-8021-104577dc3eb0",
   "f24ef637-11df-49e2-b20a-7e9dc04d4984",
   "638f5649-38c0-4290-a2f4-82844a890a7e",
   "f5b4942d-2d9b-4734-9954-f36fea19d5d7",
@@ -183,6 +184,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-19.23-fylleri-nykoping/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-19.14-smallar-orebro/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-19.10-ovrigt-lindesberg/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-19.08-misshandel-helsingborg/",
@@ -597,7 +599,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795024915.04567,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795024915.7233396,
-  "https://www.bt.se/rss": 1795026144.7739422,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795026146.697807
+  "https://www.bt.se/rss": 1795026449.9724371,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795026451.9390275
  }
 }
