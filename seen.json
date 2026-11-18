@@ -157,6 +157,10 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-06.45-misshandel-kavlinge/",
+  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-23.07-inbrott-vaxjo/",
+  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-22.43-narkotikabrott-malmo/",
+  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-06.09-misshandel-malmo/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-03.34-skadegorelse-stockholms-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-07.32-sammanfattning-natt-jamtlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-06.51-trafikolycka-helsingborg/",
@@ -542,7 +546,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1794995005.2460124,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1794995020.6460798,
-  "https://www.bt.se/rss": 1794997568.3302195,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1794997569.177115
+  "https://www.bt.se/rss": 1794997883.7721398,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1794997884.6679482
  }
 }
