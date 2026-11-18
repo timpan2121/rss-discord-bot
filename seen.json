@@ -10,6 +10,8 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "2c2ce3f7-04ab-4191-b5f7-a47aae7abda7",
+  "b79fd4d5-7209-48da-a434-4634783e32de",
   "dbabbc24-fda4-4f98-b766-6cc24d0da32c",
   "4d526820-eb2b-4b41-94a9-da907ff2c902",
   "f454114f-561a-4e4d-97bb-997cd628b4b3",
@@ -152,6 +154,16 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-14.21-bedrageri-boras/",
+  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-13.03-rattfylleri-sundsvall/",
+  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-15.10-fylleri-skelleftea/",
+  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-15.03-stold-jonkoping/",
+  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-09.33-vapenlagen-kungsbacka/",
+  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-13.39-rattfylleri-arvika/",
+  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-13.27-rattfylleri-hammaro/",
+  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-03.00-forsvunnen-person-hudiksvall/",
+  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-22.30-olaga-hot-stockholm/",
+  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-22.43-misshandel-sodertalje/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-00.12-rattfylleri-emmaboda/",
   "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-22.04-brand-malmo/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-03.09-brand-trelleborg/",
@@ -457,7 +469,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1794995005.2460124,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1794995020.6460798,
-  "https://www.bt.se/rss": 1794995025.9364057,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1794995038.1846623
+  "https://www.bt.se/rss": 1794995352.9506662,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1794995356.2491543
  }
 }
