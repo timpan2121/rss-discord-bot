@@ -182,6 +182,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-19.10-ovrigt-lindesberg/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-19.08-misshandel-helsingborg/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-18.51-trafikolycka-vilt-jamtlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-18.50-trafikolycka-vilt-vasternorrlands-lan/",
@@ -594,7 +595,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795024915.04567,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795024915.7233396,
-  "https://www.bt.se/rss": 1795025536.9035802,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795025537.6409109
+  "https://www.bt.se/rss": 1795025840.7318418,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795025841.583037
  }
 }
