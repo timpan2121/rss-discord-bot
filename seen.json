@@ -10,6 +10,15 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "dbabbc24-fda4-4f98-b766-6cc24d0da32c",
+  "4d526820-eb2b-4b41-94a9-da907ff2c902",
+  "f454114f-561a-4e4d-97bb-997cd628b4b3",
+  "94fbd879-c3e9-4ac3-a95f-655c3951248a",
+  "0fab749a-6fb2-4b22-b4ff-b9035d5b6bf8",
+  "28421109-97c5-471c-93cc-3a4b15b8a0c8",
+  "0afe57ae-7338-47ad-93f0-f966f4f493d1",
+  "78f40548-6af0-4ccc-957b-6a13fac349f0",
+  "233e3398-158c-419f-9e1b-da1d44201c71",
   "c48318ed-d5d0-4ef0-a198-19da765222f5",
   "e4f0613e-e10d-4121-9d74-f53c6c37656c",
   "71fff6c2-5d0c-4c55-9989-5e2a4c9ab355",
@@ -143,6 +152,16 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-00.12-rattfylleri-emmaboda/",
+  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-22.04-brand-malmo/",
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-03.09-brand-trelleborg/",
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-02.07-explosion-helsingborg/",
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-02.07-misshandel-grov-osby/",
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-05.00-mordbrand-partille/",
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-04.19-brand-trollhattan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-15.43-trafikolycka-personskada-sigtuna/",
+  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-16.51-kontroll-nykoping/",
+  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-16.02-trafikolycka-orebro/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-07.17-sammanfattning-natt-jamtlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-01.11-stold-stockholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-00.00-rattfylleri-sodertalje/",
@@ -434,5 +453,11 @@
   "http://www.eurocop.nu/medlem/?n=2250",
   "http://www.eurocop.nu/medlem/?n=2249",
   "http://www.eurocop.nu/medlem/?n=2248"
- ]
+ ],
+ "_last": {
+  "https://eurocop.nu/rss.xml": 1794995005.2460124,
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1794995020.6460798,
+  "https://www.bt.se/rss": 1794995025.9364057,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1794995038.1846623
+ }
 }
