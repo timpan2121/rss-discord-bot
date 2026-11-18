@@ -159,6 +159,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-11.14-trafikolycka-pitea/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-06.45-misshandel-kavlinge/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-23.07-inbrott-vaxjo/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-22.43-narkotikabrott-malmo/",
@@ -548,7 +549,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1794998799.4984255,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1794998809.3227947,
-  "https://www.bt.se/rss": 1795000030.729642,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795000031.4651372
+  "https://www.bt.se/rss": 1795000333.8158083,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795000334.8893533
  }
 }
