@@ -205,6 +205,8 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-08.14-trafikolycka-burlov/",
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-08.19-trafikolycka-kristianstad/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-08.16-information-varmlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-08.16-information-dalarnas-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-08.16-information-orebro-lan/",
@@ -657,7 +659,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795072969.219338,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795073023.9618227,
-  "https://www.bt.se/rss": 1795073029.7104928,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795073030.5521486
+  "https://www.bt.se/rss": 1795073338.0959582,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795073339.1663985
  }
 }
