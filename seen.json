@@ -228,6 +228,8 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-14.23-trafikolycka-sundsvall/",
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-14.11-trafikolycka-sundsvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-13.37-trafikolycka-harnosand/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-12.50-trafikolycka-lycksele/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-13.26-fylleri-sundsvall/",
@@ -708,7 +710,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795095260.4402275,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795095265.9652588,
-  "https://www.bt.se/rss": 1795097414.019772,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795097414.8033807
+  "https://www.bt.se/rss": 1795097717.004086,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795097717.872678
  }
 }
