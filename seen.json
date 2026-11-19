@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "7c5b567f-90f3-4d0f-8832-632676c609cf",
   "a3c2d76c-aaff-4b16-aca6-6638b6318907",
   "f807df07-b4fd-4d16-ab98-7646f8658aed",
   "94b9375b-0039-49f2-af4b-5272492c7f15",
@@ -237,6 +238,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-16.45-trafikolycka-lulea/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-16.42-trafikolycka-singel-hedemora/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-16.47-trafikolycka-avesta/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-15.52-trafikolycka-ostersund/",
@@ -735,7 +737,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795102663.2546225,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795102677.567966,
-  "https://www.bt.se/rss": 1795104213.373916,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795104215.4765193
+  "https://www.bt.se/rss": 1795104518.5905066,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795104520.594173
  }
 }
