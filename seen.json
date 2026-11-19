@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "a491cfaa-e09e-433a-8315-459f0aea4476",
   "0ec011a5-df7d-40da-a54b-6e73a894ce50",
   "51416b2c-06f9-4ac7-bb30-4e7fc8d73bd9",
   "115cd63e-fbdb-49f7-a146-05d461108732",
@@ -249,6 +250,8 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-16.11-bedrageri-vannas/",
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-17.11-trafikolycka-nynashamn/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-18.12-trafikolycka-solleftea/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-17.18-stold-sundsvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-16.51-trafikolycka-personskada-uppsala/",
@@ -746,8 +749,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-18.42-brand-bjuv/",
   "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-19.37-rattfylleri-borlange/",
   "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-17.36-trafikolycka-sundsvall/",
-  "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-19.40-trafikolycka-linkoping/",
-  "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-18.22-stold-boden/"
+  "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-19.40-trafikolycka-linkoping/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -763,7 +765,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795113669.9697328,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795113684.929052,
-  "https://www.bt.se/rss": 1795113987.8538294,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795113988.5893831
+  "https://www.bt.se/rss": 1795114291.2452354,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795114293.2158563
  }
 }
