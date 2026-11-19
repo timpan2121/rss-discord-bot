@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "f807df07-b4fd-4d16-ab98-7646f8658aed",
   "94b9375b-0039-49f2-af4b-5272492c7f15",
   "0abbee15-8b28-4066-b40a-122a07b9f59a",
   "9b2fb5fd-e86c-4707-b83a-b6f7d2c68376",
@@ -235,6 +236,8 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-16.18-trafikolycka-orebro/",
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-16.24-trafikolycka-kumla/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-15.40-trafikolycka-karlstad/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-15.28-brand-gnosjo/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-15.31-trafikolycka-ulricehamn/",
@@ -723,9 +726,9 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795098945.6042478,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795099006.6498177,
-  "https://www.bt.se/rss": 1795102360.3959157,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795102361.1949856
+  "https://eurocop.nu/rss.xml": 1795102663.2546225,
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795102677.567966,
+  "https://www.bt.se/rss": 1795102686.5526693,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795102688.7457557
  }
 }
