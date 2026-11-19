@@ -246,6 +246,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-17.18-stold-sundsvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-16.51-trafikolycka-personskada-uppsala/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-13.07-stold-sorsele/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-18.06-rattfylleri-borlange/",
@@ -758,7 +759,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795110008.0880613,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795110013.67772,
-  "https://www.bt.se/rss": 1795110627.9582417,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795110629.9445758
+  "https://www.bt.se/rss": 1795110932.3937316,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795110932.9693842
  }
 }
