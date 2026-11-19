@@ -10,6 +10,10 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "6722d12e-b1bf-4829-9be7-f8ba6fcf138c",
+  "de956704-01c0-4889-898c-f794feea83ea",
+  "e560fbf5-6c72-4ee7-b4ce-a512077d5e7c",
+  "57999b05-fffd-44dd-9862-d82c4a32b287",
   "4ce45f02-4fff-444b-810f-3f89b4bf4fbd",
   "34c595b1-51e3-425d-912b-42bba7a3d457",
   "f07e7d31-d97a-4bac-bb91-6b68dee18e4d",
@@ -206,6 +210,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.36-trafikolycka-uppsala/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-06.45-arbetsplatsolycka-gavle/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-08.25-arbetsplatsolycka-lund/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-08.14-trafikolycka-burlov/",
@@ -662,7 +667,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795072969.219338,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795073023.9618227,
-  "https://www.bt.se/rss": 1795075474.4490085,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795075475.3059297
+  "https://www.bt.se/rss": 1795075778.128913,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795075783.8677635
  }
 }
