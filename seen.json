@@ -235,6 +235,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-15.28-brand-gnosjo/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-15.31-trafikolycka-ulricehamn/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-15.14-trafikolycka-umea/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-14.51-skadegorelse-kristinehamn/",
@@ -723,7 +724,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795098945.6042478,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795099006.6498177,
-  "https://www.bt.se/rss": 1795101143.340492,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795101144.1235213
+  "https://www.bt.se/rss": 1795101446.3369381,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795101446.9982612
  }
 }
