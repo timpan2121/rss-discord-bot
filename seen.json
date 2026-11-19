@@ -212,6 +212,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-09.10-trafikolycka-hjo/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-08.45-trafikolycka-lulea/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.35-arbetsplatsolycka-ostersund/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-09.03-trafikolycka-kiruna/",
@@ -672,7 +673,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795076695.83833,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795076794.729156,
-  "https://www.bt.se/rss": 1795077512.6997879,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795077513.3118
+  "https://www.bt.se/rss": 1795077816.3719747,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795077817.0692518
  }
 }
