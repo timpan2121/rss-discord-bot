@@ -197,6 +197,8 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-06.26-trafikolycka-vimmerby/",
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-21.04-brand-malmo/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-00.51-ovrigt-malmo/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-22.00-ovrigt-vastra-gotalands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-22.00-ovrigt-hallands-lan/",
@@ -625,7 +627,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795065498.1636786,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795065593.0418866,
-  "https://www.bt.se/rss": 1795066816.9711785,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795066817.7749782
+  "https://www.bt.se/rss": 1795067120.6469383,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795067121.4673815
  }
 }
