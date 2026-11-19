@@ -219,6 +219,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-11.35-fylleri-sundsvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-11.53-brand-pitea/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-11.16-trafikolycka-sundsvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-10.58-trafikolycka-asele/",
@@ -687,7 +688,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795087872.913291,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795087923.855546,
-  "https://www.bt.se/rss": 1795088541.3347626,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795088543.3787956
+  "https://www.bt.se/rss": 1795088847.283167,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795088848.3098485
  }
 }
