@@ -232,6 +232,8 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-14.48-trafikolycka-skelleftea/",
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-132.49-brand-bjurholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-13.49-brand-bjurholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-14.23-trafikolycka-sundsvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-14.11-trafikolycka-sundsvall/",
@@ -713,9 +715,9 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795095260.4402275,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795095265.9652588,
-  "https://www.bt.se/rss": 1795098634.41806,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795098636.2978225
+  "https://eurocop.nu/rss.xml": 1795098945.6042478,
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795099006.6498177,
+  "https://www.bt.se/rss": 1795099011.5855985,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795099012.2990909
  }
 }
