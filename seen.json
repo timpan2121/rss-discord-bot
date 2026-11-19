@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "f07e7d31-d97a-4bac-bb91-6b68dee18e4d",
   "ccfccd4d-c7f0-45a1-910f-465e7dae6e02",
   "9fb75f27-c355-4cf6-b395-7158f96fd538",
   "09bc1aa4-be1e-41dd-a0f4-20d3504bcc82",
@@ -203,6 +204,8 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-08.00-trafikolycka-karlskrona/",
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.52-trafikolycka-eksjo/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-20.53-morddrap-enkoping/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.37-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.02-sammanfattning-kvall-och-natt-hallands-lan/",
@@ -650,7 +653,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795069263.6428313,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795069292.4988832,
-  "https://www.bt.se/rss": 1795071742.5374057,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795071749.3757184
+  "https://www.bt.se/rss": 1795072051.7745357,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795072053.8246746
  }
 }
