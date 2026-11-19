@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "86a15fa6-aacc-413e-84d6-0e3e3663152f",
   "8c45d6c4-4797-4df2-972c-a3ba9a7946df",
   "79d5dd6c-8fcc-4c08-9803-cbc7e4d4bc52",
   "efa900a1-bccd-434f-b693-f22ffdb24c53",
@@ -218,6 +219,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-11.53-brand-pitea/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-11.16-trafikolycka-sundsvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-10.58-trafikolycka-asele/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-11.29-kontroll-katrineholm/",
@@ -685,7 +687,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795087872.913291,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795087923.855546,
-  "https://www.bt.se/rss": 1795088238.4668295,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795088239.238372
+  "https://www.bt.se/rss": 1795088541.3347626,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795088543.3787956
  }
 }
