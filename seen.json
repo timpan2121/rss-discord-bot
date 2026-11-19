@@ -198,6 +198,9 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.00-sammanfattning-natt-orebro-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.00-sammanfattning-natt-dalarnas-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.00-sammanfattning-natt-varmlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-06.38-trafikolycka-tingsryd/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-06.26-trafikolycka-vimmerby/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-21.04-brand-malmo/",
@@ -629,7 +632,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795065498.1636786,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795065593.0418866,
-  "https://www.bt.se/rss": 1795068036.5417113,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795068038.5818424
+  "https://www.bt.se/rss": 1795068343.3140137,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795068344.2486274
  }
 }
