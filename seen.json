@@ -238,6 +238,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-16.17-trafikolycka-alvsbyn/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-16.45-trafikolycka-lulea/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-16.42-trafikolycka-singel-hedemora/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-16.47-trafikolycka-avesta/",
@@ -737,7 +738,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795102663.2546225,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795102677.567966,
-  "https://www.bt.se/rss": 1795104518.5905066,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795104520.594173
+  "https://www.bt.se/rss": 1795104824.6761386,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795104825.480517
  }
 }
