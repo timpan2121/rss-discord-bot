@@ -218,6 +218,8 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-11.16-trafikolycka-sundsvall/",
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-10.58-trafikolycka-asele/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-11.29-kontroll-katrineholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-06.32-kontroll-stockholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-10.22-arbetsplatsolycka-vastervik/",
@@ -681,9 +683,9 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795084200.877289,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795084221.5276222,
-  "https://www.bt.se/rss": 1795087570.0488594,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795087570.8341882
+  "https://eurocop.nu/rss.xml": 1795087872.913291,
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795087923.855546,
+  "https://www.bt.se/rss": 1795087928.8696523,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795087929.4630451
  }
 }
