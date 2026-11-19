@@ -216,6 +216,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-11.29-kontroll-katrineholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-06.32-kontroll-stockholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-10.22-arbetsplatsolycka-vastervik/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-09.32-farligt-foremal-misstankt-goteborg/",
@@ -680,7 +681,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795084200.877289,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795084221.5276222,
-  "https://www.bt.se/rss": 1795084226.4672801,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795084229.5683563
+  "https://www.bt.se/rss": 1795084532.5868475,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795084533.24128
  }
 }
