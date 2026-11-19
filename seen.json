@@ -198,6 +198,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-20.53-morddrap-enkoping/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.37-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.02-sammanfattning-kvall-och-natt-hallands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.17-sammanfattning-natt-norrbottens-lan/",
@@ -644,7 +645,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795069263.6428313,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795069292.4988832,
-  "https://www.bt.se/rss": 1795070828.8179832,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795070829.6350002
+  "https://www.bt.se/rss": 1795071131.9756515,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795071132.7943404
  }
 }
