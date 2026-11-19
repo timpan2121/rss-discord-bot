@@ -10,6 +10,8 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "bbebe663-a35a-4573-940d-1158fa4e74e6",
+  "3cc158c2-9f54-42a8-971a-100903772fdc",
   "759f235b-61c1-44bf-bbe3-265631df7f61",
   "0087f609-033d-4a48-85e9-0aab09f9271a",
   "3f9f04af-b8c1-467b-b2a6-b9f0951df1ca",
@@ -256,6 +258,8 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-21.55-ovrigt-vastra-gotalands-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-21.55-ovrigt-hallands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-21.34-trafikkontroll-vasterbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-21.20-trafikolycka-strangnas/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-21.12-forsvunnen-person-gnesta/",
@@ -753,9 +757,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-22.00-ovrigt-vastra-gotalands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-22.00-ovrigt-hallands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-19.26-trafikolycka-vilt-jamtlands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-18.16-motorfordon-stold-ystad/",
-  "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-16.42-trafikolycka-karlstad/",
-  "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-20.48-trafikolycka-harnosand/"
+  "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-18.16-motorfordon-stold-ystad/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -771,7 +773,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795121015.6739314,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795121156.9278684,
-  "https://www.bt.se/rss": 1795121591.9960759,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795121594.318477
+  "https://www.bt.se/rss": 1795121897.2116036,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795121901.5884151
  }
 }
