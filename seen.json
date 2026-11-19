@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "4b804daf-32f0-4b71-a954-a820d0a747c0",
   "39b32b1f-d031-4f74-89f4-a95a0b94f629",
   "36926c5b-9f77-4af7-b52e-7c3a7470fac5",
   "108a3a0e-ab0b-464d-b262-4c7c10838733",
@@ -223,6 +224,8 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-13.32-trafikkontroll-norrbottens-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-13.31-trafikkontroll-vasterbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-12.42-trafikolycka-kramfors/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-13.15-ran-orebro/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-09.27-stold-umea/",
@@ -695,9 +698,9 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795087872.913291,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795087923.855546,
-  "https://www.bt.se/rss": 1795091288.5635347,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795091289.3147843
+  "https://eurocop.nu/rss.xml": 1795091592.2142258,
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795091612.8561378,
+  "https://www.bt.se/rss": 1795091613.171881,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795091615.243177
  }
 }
