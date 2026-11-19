@@ -240,6 +240,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-17.05-trafikolycka-lulea/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-17.29-ovrigt-sundsvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-17.20-trafikolycka-singel-forshaga/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-16.17-trafikolycka-alvsbyn/",
@@ -740,9 +741,9 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795102663.2546225,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795102677.567966,
-  "https://www.bt.se/rss": 1795106038.5451543,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795106041.9411485
+  "https://eurocop.nu/rss.xml": 1795106345.3518977,
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795106345.9369261,
+  "https://www.bt.se/rss": 1795106350.6263828,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795106351.2523232
  }
 }
