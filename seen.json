@@ -206,6 +206,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-06.45-arbetsplatsolycka-gavle/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-08.25-arbetsplatsolycka-lund/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-08.14-trafikolycka-burlov/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-08.19-trafikolycka-kristianstad/",
@@ -661,7 +662,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795072969.219338,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795073023.9618227,
-  "https://www.bt.se/rss": 1795074865.4809074,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795074866.2877944
+  "https://www.bt.se/rss": 1795075168.663608,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795075169.4735367
  }
 }
