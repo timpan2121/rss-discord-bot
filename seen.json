@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "94b9375b-0039-49f2-af4b-5272492c7f15",
   "0abbee15-8b28-4066-b40a-122a07b9f59a",
   "9b2fb5fd-e86c-4707-b83a-b6f7d2c68376",
   "204119df-b73e-4471-ba23-6d3827b51a68",
@@ -234,6 +235,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-15.31-trafikolycka-ulricehamn/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-15.14-trafikolycka-umea/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-14.51-skadegorelse-kristinehamn/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-14.48-trafikolycka-skelleftea/",
@@ -721,7 +723,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795098945.6042478,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795099006.6498177,
-  "https://www.bt.se/rss": 1795100231.972025,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795100232.6507807
+  "https://www.bt.se/rss": 1795100534.9200354,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795100536.9017627
  }
 }
