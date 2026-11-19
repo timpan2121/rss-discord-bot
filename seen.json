@@ -252,6 +252,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-18.56-narkotikabrott-harnosand/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-18.26-misshandel-molndal/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-17.12-misshandel-sundsvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-16.11-bedrageri-vannas/",
@@ -750,8 +751,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-20.56-trafikolycka-vilt-norrbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-20.47-trafikkontroll-vasterbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-20.12-trafikolycka-umea/",
-  "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-18.42-brand-bjuv/",
-  "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-19.37-rattfylleri-borlange/"
+  "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-18.42-brand-bjuv/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -765,9 +765,9 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795113669.9697328,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795113684.929052,
-  "https://www.bt.se/rss": 1795117028.3206577,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795117029.31614
+  "https://eurocop.nu/rss.xml": 1795117331.448837,
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795117341.666771,
+  "https://www.bt.se/rss": 1795117347.1035848,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795117347.7578723
  }
 }
