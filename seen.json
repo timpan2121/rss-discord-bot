@@ -243,6 +243,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-16.51-trafikolycka-personskada-uppsala/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-13.07-stold-sorsele/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-18.06-rattfylleri-borlange/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-12.05-misshandel-grov-vasteras/",
@@ -754,7 +755,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795106345.3518977,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795106345.9369261,
-  "https://www.bt.se/rss": 1795109399.2122643,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795109399.8908446
+  "https://www.bt.se/rss": 1795109703.2517967,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795109704.0103729
  }
 }
