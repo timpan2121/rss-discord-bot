@@ -243,6 +243,8 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-18.06-rattfylleri-borlange/",
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-12.05-misshandel-grov-vasteras/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-17.45-trafikolycka-vilt-mariestad/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-17.59-brand-orebro/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-14.12-stold-ostersund/",
@@ -751,7 +753,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795106345.3518977,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795106345.9369261,
-  "https://www.bt.se/rss": 1795108182.3360784,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795108183.083179
+  "https://www.bt.se/rss": 1795108486.7711568,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795108487.637336
  }
 }
