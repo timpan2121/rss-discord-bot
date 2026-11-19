@@ -198,6 +198,11 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-06.44-trafikolycka-eksjo/",
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-06.53-trafikolycka-norrkoping/",
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.10-sammanfattning-natt-ostergotlands-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.10-sammanfattning-natt-sodermanlands-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.10-sammanfattning-natt-jonkopings-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.00-sammanfattning-natt-orebro-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.00-sammanfattning-natt-dalarnas-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.00-sammanfattning-natt-varmlands-lan/",
@@ -632,7 +637,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795065498.1636786,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795065593.0418866,
-  "https://www.bt.se/rss": 1795068650.057313,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795068650.8748305
+  "https://www.bt.se/rss": 1795068954.1117105,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795068954.990981
  }
 }
