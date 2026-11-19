@@ -254,6 +254,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-21.34-trafikkontroll-vasterbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-21.20-trafikolycka-strangnas/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-21.12-forsvunnen-person-gnesta/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-20.29-trafikolycka-falkoping/",
@@ -752,8 +753,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-19.26-trafikolycka-vilt-jamtlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-18.16-motorfordon-stold-ystad/",
   "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-16.42-trafikolycka-karlstad/",
-  "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-20.48-trafikolycka-harnosand/",
-  "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-20.56-trafikolycka-vilt-norrbottens-lan/"
+  "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-20.48-trafikolycka-harnosand/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -769,7 +769,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795117331.448837,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795117341.666771,
-  "https://www.bt.se/rss": 1795120405.5541396,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795120407.7269888
+  "https://www.bt.se/rss": 1795120710.6898925,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795120711.7248352
  }
 }
