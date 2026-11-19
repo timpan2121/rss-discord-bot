@@ -236,6 +236,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-16.22-trafikolycka-linkoping/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-16.18-trafikolycka-orebro/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-16.24-trafikolycka-kumla/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-15.40-trafikolycka-karlstad/",
@@ -728,7 +729,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795102663.2546225,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795102677.567966,
-  "https://www.bt.se/rss": 1795102686.5526693,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795102688.7457557
+  "https://www.bt.se/rss": 1795102993.9836154,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795102994.902226
  }
 }
