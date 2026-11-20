@@ -295,6 +295,8 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-13.14-trafikkontroll-vasterbottens-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-13.10-trafikkontroll-norrbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-12.15-stold-stockholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-11.14-narkotikabrott-karlstad/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-09.23-trafikolycka-soderhamn/",
@@ -792,9 +794,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-12.16-brand-orebro/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-09.55-stoldinbrott-sundsvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-11.58-trafikolycka-personskada-vasteras/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-11.10-stold-skelleftea/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-12.52-trafikolycka-kalmar/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-10.29-brand-soderhamn/"
+  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-11.10-stold-skelleftea/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -809,8 +809,8 @@
  ],
  "_last": {
   "https://eurocop.nu/rss.xml": 1795176175.6060905,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795173129.5623622,
-  "https://www.bt.se/rss": 1795176566.154264,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795176567.139307
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795176869.0990272,
+  "https://www.bt.se/rss": 1795176953.9331675,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795176954.734105
  }
 }
