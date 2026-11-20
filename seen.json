@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "69f900bb-cc9c-4653-8bdf-85d32e5dfaf6",
   "ac6cb2ca-7de9-4d95-8381-7bc58c73b6b0",
   "c0e2d935-ad1d-4292-a25b-076f9294334b",
   "3850c784-f294-4401-802b-20f1d246dd98",
@@ -288,6 +289,8 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-09.38-trafikbrott-kristinehamn/",
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-10.09-ovrigt-eskilstuna/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-11.08-trafikolycka-kungsbacka/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-11.17-trafikkontroll-stockholms-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-11.10-trafikolycka-hoor/",
@@ -785,9 +788,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-07.01-trafikhinder-vasternorrlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-11.00-stold-vastra-gotalands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-08.10-stold-umea/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-07.51-trafikolycka-singel-timra/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-07.55-trafikkontroll-kungsor/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-08.13-rattfylleri-ljusdal/"
+  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-07.51-trafikolycka-singel-timra/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -803,7 +804,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795168817.4922369,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795169465.3950324,
-  "https://www.bt.se/rss": 1795170993.0738451,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795170993.8543065
+  "https://www.bt.se/rss": 1795171297.0075934,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795171298.9516985
  }
 }
