@@ -281,6 +281,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-09.16-trafikolycka-karlstad/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-09.19-trafikolycka-perstorp/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-07.51-trafikolycka-sundsvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-07.58-trafikolycka-karlstad/",
@@ -779,8 +780,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-08.01-trafikolycka-angelholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-06.58-trafikolycka-blekinge-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-06.36-trafikolycka-kalmar/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-06.45-trafikolycka-ostra-goinge/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-08.37-ovrigt-vasterbottens-lan/"
+  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-06.45-trafikolycka-ostra-goinge/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -796,7 +796,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795161472.3895352,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795162101.2585685,
-  "https://www.bt.se/rss": 1795164235.8013394,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795164237.0566053
+  "https://www.bt.se/rss": 1795164539.1063921,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795164539.906141
  }
 }
