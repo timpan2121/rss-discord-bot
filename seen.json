@@ -264,6 +264,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-01.06-rattfylleri-osteraker/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-22.26-knivlagen-kristianstad/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-00.21-inbrott-helsingborg/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-02.12-brand-astorp/",
@@ -762,8 +763,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-06.59-sammanfattning-natt-norrbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-23.02-stold-kalmar/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-01.01-olovlig-korning-ronneby/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-02.44-stold-forsok-vaxjo/",
-  "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-21.34-trafikolycka-singel-kristianstad/"
+  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-02.44-stold-forsok-vaxjo/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -777,9 +777,9 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795150244.4795141,
+  "https://eurocop.nu/rss.xml": 1795154000.0671134,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795150956.4666243,
-  "https://www.bt.se/rss": 1795153696.5001097,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795153697.4424858
+  "https://www.bt.se/rss": 1795154100.138932,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795154100.9433346
  }
 }
