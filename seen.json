@@ -321,6 +321,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-17.39-rattfylleri-kristinehamn/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-20.42-trafikolycka-vilt-jamtlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-16.37-brand-botkyrka/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-19.17-trafikolycka-norrkoping/",
@@ -819,8 +820,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-21.40-misshandel-borlange/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-21.37-narkotikabrott-lindesberg/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-21.37-rattfylleri-arvika/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-21.29-rattfylleri-hagfors/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-17.18-trafikhinder-robertsfors/"
+  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-21.29-rattfylleri-hagfors/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -836,7 +836,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795202357.958863,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795202963.8232045,
-  "https://www.bt.se/rss": 1795204486.49525,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795204488.2670178
+  "https://www.bt.se/rss": 1795204790.465598,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795204791.239609
  }
 }
