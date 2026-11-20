@@ -317,6 +317,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-19.52-trafikolycka-rattvik/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-19.08-brand-kristinehamn/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-19.12-brand-degerfors/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-17.47-misshandel-huddinge/",
@@ -815,8 +816,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-18.35-trafikolycka-harryda/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-20.36-misshandel-eskilstuna/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-19.19-trafikolycka-kalix/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-18.49-valdhot-mot-tjansteman-norrkoping/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-16.51-brand-amal/"
+  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-18.49-valdhot-mot-tjansteman-norrkoping/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -832,7 +832,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795198644.649706,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795199305.3487422,
-  "https://www.bt.se/rss": 1795200841.7231593,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795200842.6228411
+  "https://www.bt.se/rss": 1795201144.5121148,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795201145.4874706
  }
 }
