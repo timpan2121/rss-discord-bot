@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "9c14d4b1-a5ef-4f1d-87c1-47918fa84803",
   "63dfd63d-14cd-4eb0-abf4-535464976629",
   "ea48db29-53fe-4de6-bfb2-0d9821fb9d54",
   "5aa4ec4f-28cc-466b-aba0-0dfebaa16dde",
@@ -297,6 +298,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-13.40-bedrageri-kronobergs-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-13.38-bedrageri-kalmar-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-13.36-bedrageri-blekinge-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-13.35-bedrageri-skane-lan/",
@@ -795,8 +797,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-10.35-rattfylleri-sundsvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-11.40-brand-stromsund/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-13.42-rattfylleri-linkoping/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-12.58-trafikolycka-personskada-norrkoping/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-11.54-brand-burlov/"
+  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-12.58-trafikolycka-personskada-norrkoping/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -812,7 +813,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795176175.6060905,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795176869.0990272,
-  "https://www.bt.se/rss": 1795178477.0535774,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795178477.7885249
+  "https://www.bt.se/rss": 1795178783.6987417,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795178785.6998615
  }
 }
