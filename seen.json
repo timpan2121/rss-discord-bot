@@ -10,6 +10,10 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "3da6600a-3fd5-474e-a825-d5ad4638a397",
+  "1a43e434-97b4-4923-957f-def369f34716",
+  "4a54d16c-acca-49d6-955c-86fadd848127",
+  "df13faea-3024-40ab-91ef-df2beca1024e",
   "f5de50c3-c786-4fde-96f3-8b167abf3fc1",
   "55b701a1-c1d7-4399-8a1b-130701f7b15a",
   "762c17fb-d14f-4482-8074-1d292d83a2a9",
@@ -269,6 +273,10 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-07.31-sammanfattning-natt-jonkopings-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-07.42-sammanfattning-natt-ostergotlands-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-07.43-sammanfattning-natt-sodermanlands-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-07.44-trafikolycka-kil/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-07.20-trafikolycka-harnosand/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-06.25-trafikolycka-nordmaling/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-07.39-sammanfattning-natt-norrbottens-lan/",
@@ -764,11 +772,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-07.38-olaga-hot-astorp/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-06.48-trafikolycka-singel-timra/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-06.43-trafikolycka-umea/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-07.53-sammanfattning-natt-jonkopings-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-07.55-sammanfattning-natt-sodermanlands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-00.16-misshandel-stockholm/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-07.24-sammanfattning-natt-jamtlands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-23.42-fylleri-uppsala/"
+  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-07.53-sammanfattning-natt-jonkopings-lan/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -784,7 +788,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795157786.234071,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795154714.2999067,
-  "https://www.bt.se/rss": 1795157792.4833443,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795157793.321817
+  "https://www.bt.se/rss": 1795158097.4183233,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795158103.4132595
  }
 }
