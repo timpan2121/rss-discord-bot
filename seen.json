@@ -327,6 +327,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-21.37-trafikolycka-vilt-norrbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-19.51-fylleri-lulea/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-20.31-brand-norrtalje/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-19.16-trafikbrott-alvsbyn/",
@@ -825,8 +826,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-20.21-trafikolycka-boras/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-21.45-ovrigt-vastra-gotalands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-21.45-ovrigt-hallands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-20.47-fylleri-ostersund/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-21.40-misshandel-borlange/"
+  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-20.47-fylleri-ostersund/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -842,7 +842,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795206006.2015586,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795206629.0324903,
-  "https://www.bt.se/rss": 1795206943.316156,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795206946.5691118
+  "https://www.bt.se/rss": 1795207248.6070957,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795207249.4820747
  }
 }
