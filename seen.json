@@ -310,6 +310,8 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-17.02-trafikolycka-karlskrona/",
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-14.38-skadegorelse-umea/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-13.49-misshandel-stockholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-16.07-trafikolycka-lulea/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-15.36-narkotikabrott-stockholm/",
@@ -807,9 +809,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-12.46-trafikolycka-saffle/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-15.59-stold-ostersund/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-17.32-trafikolycka-gavle/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-16.36-trafikolycka-lulea/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-14.40-misshandel-grov-stockholm/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-16.12-trafikolycka-timra/"
+  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-16.36-trafikolycka-lulea/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -824,8 +824,8 @@
  ],
  "_last": {
   "https://eurocop.nu/rss.xml": 1795191072.6646223,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795188026.1180584,
-  "https://www.bt.se/rss": 1795191467.3926928,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795191468.2487278
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795191773.3910549,
+  "https://www.bt.se/rss": 1795191857.8415115,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795191858.7735274
  }
 }
