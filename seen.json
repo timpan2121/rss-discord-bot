@@ -297,6 +297,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-11.47-arbetsplatsolycka-lulea/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-12.07-larm-overfall-stockholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-13.14-trafikkontroll-vasterbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-13.10-trafikkontroll-norrbottens-lan/",
@@ -795,8 +796,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-11.54-brand-burlov/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-10.40-stold-ostersund/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-12.16-brand-orebro/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-09.55-stoldinbrott-sundsvall/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-11.58-trafikolycka-personskada-vasteras/"
+  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-09.55-stoldinbrott-sundsvall/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -812,7 +812,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795176175.6060905,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795176869.0990272,
-  "https://www.bt.se/rss": 1795177868.527459,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795177870.5057945
+  "https://www.bt.se/rss": 1795178172.6806886,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795178173.4723315
  }
 }
