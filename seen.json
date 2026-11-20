@@ -308,6 +308,8 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-15.36-narkotikabrott-stockholm/",
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-12.39-misshandel-ostersund/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-14.46-trafikolycka-personskada-lidingo/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-14.39-trafikolycka-ronneby/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-11.12-rattfylleri-harnosand/",
@@ -805,9 +807,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-14.40-misshandel-grov-stockholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-16.12-trafikolycka-timra/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-16.19-trafikolycka-robertsfors/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-15.15-knivlagen-pitea/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-14.37-trafikolycka-harryda/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-14.01-knivlagen-skelleftea/"
+  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-15.15-knivlagen-pitea/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -823,7 +823,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795187392.898532,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795188026.1180584,
-  "https://www.bt.se/rss": 1795188944.0503747,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795188945.2187884
+  "https://www.bt.se/rss": 1795189247.48427,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795189248.714176
  }
 }
