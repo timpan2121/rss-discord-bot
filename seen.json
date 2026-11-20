@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "1001d67d-46c7-4b12-a6bd-d32167c4b9a2",
   "232f95ee-8ade-4624-bf18-b43e75f0e6d5",
   "dbc409f6-7be9-4f21-834d-e0d4bca4a28e",
   "1d0cfbac-c7ae-48d2-80f6-cd0cc2e38706",
@@ -318,6 +319,8 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-16.37-brand-botkyrka/",
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-19.17-trafikolycka-norrkoping/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-19.39-trafikolycka-singel-oskarshamn/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-19.52-trafikolycka-rattvik/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-19.08-brand-kristinehamn/",
@@ -815,9 +818,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-21.37-rattfylleri-arvika/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-21.29-rattfylleri-hagfors/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-17.18-trafikhinder-robertsfors/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-18.35-trafikolycka-harryda/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-20.36-misshandel-eskilstuna/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-19.19-trafikolycka-kalix/"
+  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-18.35-trafikolycka-harryda/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -833,7 +834,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795202357.958863,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795202963.8232045,
-  "https://www.bt.se/rss": 1795202964.2733042,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795202966.1645665
+  "https://www.bt.se/rss": 1795203269.3412054,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795203271.5399523
  }
 }
