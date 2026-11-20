@@ -300,6 +300,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-13.45-brand-kil/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-13.02-arbetsplatsolycka-uppsala/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-13.48-trafikkontroll-vasternorrlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-13.40-bedrageri-kronobergs-lan/",
@@ -798,8 +799,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-16.00-information-dalarnas-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-13.56-stold-almhult/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-11.47-misshandel-koping/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-10.35-rattfylleri-sundsvall/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-11.40-brand-stromsund/"
+  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-10.35-rattfylleri-sundsvall/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -815,7 +815,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795180015.406345,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795180655.611808,
-  "https://www.bt.se/rss": 1795180665.6428409,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795180667.1894164
+  "https://www.bt.se/rss": 1795180969.7480695,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795180970.6288695
  }
 }
