@@ -264,6 +264,8 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-00.21-inbrott-helsingborg/",
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-02.12-brand-astorp/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-06.24-misshandel-hultsfred/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-21.55-ovrigt-vastra-gotalands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-21.55-ovrigt-hallands-lan/",
@@ -761,9 +763,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-01.01-olovlig-korning-ronneby/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-02.44-stold-forsok-vaxjo/",
   "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-21.34-trafikolycka-singel-kristianstad/",
-  "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-22.00-ovrigt-vastra-gotalands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-22.00-ovrigt-hallands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-19.26-trafikolycka-vilt-jamtlands-lan/"
+  "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-22.00-ovrigt-vastra-gotalands-lan/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -779,7 +779,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795150244.4795141,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795150956.4666243,
-  "https://www.bt.se/rss": 1795152780.3807454,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795152781.4141095
+  "https://www.bt.se/rss": 1795153085.8729203,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795153086.6713746
  }
 }
