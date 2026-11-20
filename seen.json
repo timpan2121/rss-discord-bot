@@ -313,6 +313,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-18.13-trafikolycka-personskada-kungsbacka/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-17.56-trafikolycka-personskada-partille/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-17.16-trafikolycka-almhult/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-17.28-bedrageri-varmlands-lan/",
@@ -811,8 +812,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-16.51-brand-amal/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-18.10-brand-solleftea/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-18.58-trafikolycka-singel-odeshog/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-18.41-trafikolycka-falkoping/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-18.14-trafikolycka-linkoping/"
+  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-18.41-trafikolycka-falkoping/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -828,7 +828,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795194905.505679,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795195604.2986727,
-  "https://www.bt.se/rss": 1795195908.3761873,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795195910.6221511
+  "https://www.bt.se/rss": 1795196212.7129755,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795196213.6042306
  }
 }
