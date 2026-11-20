@@ -327,6 +327,8 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-22.00-ovrigt-vastra-gotalands-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-22.00-ovrigt-hallands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-21.14-misshandel-grov-sodertalje/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-20.57-rattfylleri-salem/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-21.37-trafikolycka-vilt-norrbottens-lan/",
@@ -824,9 +826,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-06.27-misshandel-helsingborg/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-23.57-misshandel-hassleholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-02.53-rattfylleri-nybro/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-21.51-trafikolycka-singel-eskilstuna/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-20.21-trafikolycka-boras/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-21.45-ovrigt-vastra-gotalands-lan/"
+  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-21.51-trafikolycka-singel-eskilstuna/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -842,7 +842,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795206006.2015586,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795206629.0324903,
-  "https://www.bt.se/rss": 1795208160.271543,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795208161.1089768
+  "https://www.bt.se/rss": 1795208464.3742287,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795208465.1072338
  }
 }
