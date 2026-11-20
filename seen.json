@@ -289,6 +289,8 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-11.46-trafikolycka-karlstad/",
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-12.09-trafikolycka-malmo/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-09.26-ovrigt-malmo/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-09.38-trafikbrott-kristinehamn/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-10.09-ovrigt-eskilstuna/",
@@ -786,9 +788,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-10.29-brand-soderhamn/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-11.33-brand-habo/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-11.40-brand-uppsala/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-07.01-trafikhinder-vasternorrlands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-11.00-stold-vastra-gotalands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-08.10-stold-umea/"
+  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-07.01-trafikhinder-vasternorrlands-lan/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -804,7 +804,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795172517.4026353,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795173129.5623622,
-  "https://www.bt.se/rss": 1795173438.0779321,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795173438.9223862
+  "https://www.bt.se/rss": 1795173741.0828974,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795173742.2290676
  }
 }
