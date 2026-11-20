@@ -10,6 +10,8 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "5aa4ec4f-28cc-466b-aba0-0dfebaa16dde",
+  "a3ace7c9-a0fb-4739-9d69-10bbfcbb9ca4",
   "9ed81639-c5e1-41fb-bc97-5e0eab8f81cb",
   "dc112e52-57d4-4585-b0b5-fb37f80a00c3",
   "c1a63a5b-f756-418d-8be1-29f267ec0603",
@@ -293,6 +295,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-12.15-stold-stockholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-11.14-narkotikabrott-karlstad/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-09.23-trafikolycka-soderhamn/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-11.46-trafikolycka-karlstad/",
@@ -791,8 +794,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-11.58-trafikolycka-personskada-vasteras/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-11.10-stold-skelleftea/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-12.52-trafikolycka-kalmar/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-10.29-brand-soderhamn/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-11.33-brand-habo/"
+  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-10.29-brand-soderhamn/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -806,9 +808,9 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795172517.4026353,
+  "https://eurocop.nu/rss.xml": 1795176175.6060905,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795173129.5623622,
-  "https://www.bt.se/rss": 1795175870.1766624,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795175873.2667835
+  "https://www.bt.se/rss": 1795176259.022559,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795176262.7939148
  }
 }
