@@ -267,6 +267,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-06.25-trafikolycka-nordmaling/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-07.39-sammanfattning-natt-norrbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-07.38-sammanfattning-natt-vasternorrlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-07.37-sammanfattning-natt-vasterbottens-lan/",
@@ -765,8 +766,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-00.16-misshandel-stockholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-07.24-sammanfattning-natt-jamtlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-23.42-fylleri-uppsala/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-07.13-sammanfattning-natt-vasternorrlands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-21.22-trafikolycka-personskada-uppsala/"
+  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-07.13-sammanfattning-natt-vasternorrlands-lan/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -782,7 +782,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795154000.0671134,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795154714.2999067,
-  "https://www.bt.se/rss": 1795156866.804957,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795156867.6249843
+  "https://www.bt.se/rss": 1795157175.0077424,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795157175.8714645
  }
 }
