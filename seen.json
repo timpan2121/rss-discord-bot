@@ -265,6 +265,10 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-07.10-sammanfattning-natt-dalarnas-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-07.11-sammanfattning-natt-orebro-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-07.12-sammanfattning-natt-varmlands-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-07.10-sammanfattning-kvall-och-natt-hallands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-07.05-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-03.53-stold-vallentuna/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-01.06-rattfylleri-osteraker/",
@@ -760,11 +764,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-07.10-sammanfattning-natt-dalarnas-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-07.10-sammanfattning-natt-varmlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-23.13-skadegorelse-oskarshamn/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-07.00-sammanfattning-natt-hallands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-06.59-sammanfattning-natt-vasterbottens-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-07.00-sammanfattning-natt-vastra-gotalands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-06.59-sammanfattning-natt-norrbottens-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/12/12-november-23.02-stold-kalmar/"
+  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-07.00-sammanfattning-natt-hallands-lan/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -780,7 +780,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795154000.0671134,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795154714.2999067,
-  "https://www.bt.se/rss": 1795155029.3176363,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795155030.2157032
+  "https://www.bt.se/rss": 1795155334.8422606,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795155335.7155957
  }
 }
