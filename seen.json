@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "5ebb20e3-f36a-4742-a1bd-c7d4da61de6f",
   "b4ff7fff-fdaa-49c6-ba32-5d44e41a9bf0",
   "4eba7b4c-c0c5-4770-ade5-b7459b4adfc9",
   "4aab44c5-28bb-4d80-b4d2-ffc72c4f84a0",
@@ -307,6 +308,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-14.39-trafikolycka-ronneby/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-11.12-rattfylleri-harnosand/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-12.26-knivlagen-sundbyberg/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-15.04-trafikolycka-malmo/",
@@ -805,8 +807,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-15.15-knivlagen-pitea/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-14.37-trafikolycka-harryda/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-14.01-knivlagen-skelleftea/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-15.55-rattfylleri-vetlanda/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-16.00-information-dalarnas-lan/"
+  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-15.55-rattfylleri-vetlanda/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -822,7 +823,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795183702.257488,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795184341.7326324,
-  "https://www.bt.se/rss": 1795186784.214893,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795186785.062228
+  "https://www.bt.se/rss": 1795187087.1633165,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795187089.2922876
  }
 }
