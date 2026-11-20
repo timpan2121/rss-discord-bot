@@ -285,6 +285,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-11.10-trafikolycka-hoor/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-04.30-morddrap-forsok-huddinge/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-10.08-trafikolycka-norrkoping/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-09.07-trafikolycka-falkenberg/",
@@ -783,8 +784,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-07.55-trafikkontroll-kungsor/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-08.13-rattfylleri-ljusdal/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-06.44-narkotikabrott-malmo/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-08.09-trafikolycka-personskada-knivsta/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-07.54-sammanfattning-natt-ostergotlands-lan/"
+  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-08.09-trafikolycka-personskada-knivsta/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -800,7 +800,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795168817.4922369,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795169465.3950324,
-  "https://www.bt.se/rss": 1795169471.050801,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795169471.8772545
+  "https://www.bt.se/rss": 1795169774.3314617,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795169775.1086798
  }
 }
