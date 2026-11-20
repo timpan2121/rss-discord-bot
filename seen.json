@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "825bcba7-34eb-48a1-a499-ceb0bcb0e906",
   "32da0a44-ef1b-49a0-b02b-539c2afe9048",
   "6f1c7f96-4ad1-4c3b-8d40-0b045a4703e1",
   "2e49ce63-3597-4509-9805-4b42662c2e74",
@@ -799,7 +800,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795165148.6021547,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795165765.2251503,
-  "https://www.bt.se/rss": 1795167298.686983,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795167299.6102192
+  "https://www.bt.se/rss": 1795167602.9177086,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795167604.921961
  }
 }
