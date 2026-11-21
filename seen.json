@@ -366,6 +366,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-14.28-arbetsplatsolycka-simrishamn/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-12.00-forsvunnen-person-angelholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-13.21-fylleri-lulea/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-07.24-fjallraddning-kiruna/",
@@ -864,8 +865,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-17.51-ovrigt-stockholms-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-16.05-brand-goteborg/",
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-16.27-bedrageri-vastra-gotalands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-15.45-brand-malmo/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-13.31-stold-helsingborg/"
+  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-15.45-brand-malmo/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -881,7 +881,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795275502.5582595,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795276118.3539321,
-  "https://www.bt.se/rss": 1795276425.5321703,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795276428.574222
+  "https://www.bt.se/rss": 1795276730.274938,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795276732.1694193
  }
 }
