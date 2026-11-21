@@ -343,6 +343,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-03.37-trafikbrott-lund/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-08.12-sammanfattning-natt-jamtlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-07.40-trafikolycka-singel-katrineholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-01.32-valdhot-mot-tjansteman-uppsala/",
@@ -841,8 +842,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-08.59-brand-sundsvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-10.33-rattfylleri-norrkoping/",
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-10.05-brand-stockholm/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-20.13-morddrap-forsok-stockholm/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-09.17-brand-kiruna/"
+  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-20.13-morddrap-forsok-stockholm/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -858,7 +858,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795246193.7941298,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795243143.6743531,
-  "https://www.bt.se/rss": 1795246199.4880962,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795246200.3426924
+  "https://www.bt.se/rss": 1795246504.3139508,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795246505.2036743
  }
 }
