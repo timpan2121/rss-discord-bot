@@ -338,6 +338,8 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-23.44-misshandel-malmo/",
+  "https://polisen.se/aktuellt/handelser/2026/november/21/20-november-22.06-bedrageri-malmo/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-22.06-bedrageri-malmo/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-22.00-ovrigt-vastra-gotalands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-22.00-ovrigt-hallands-lan/",
@@ -835,9 +837,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-06.38-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-06.33-misshandel-sjobo/",
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-00.14-rattfylleri-landskrona/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-06.27-misshandel-helsingborg/",
-  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-23.57-misshandel-hassleholm/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-02.53-rattfylleri-nybro/"
+  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-06.27-misshandel-helsingborg/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -853,7 +853,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795238849.4432707,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795239475.4948957,
-  "https://www.bt.se/rss": 1795239780.0793474,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795239780.8373365
+  "https://www.bt.se/rss": 1795240082.5558057,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795240083.2773724
  }
 }
