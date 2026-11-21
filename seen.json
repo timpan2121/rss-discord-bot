@@ -338,6 +338,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-01.52-brand-vastervik/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-00.13-rattfylleri-nybro/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-07.00-sammanfattning-natt-vastra-gotalands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-04.04-rattfylleri-vastervik/",
@@ -836,8 +837,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-02.50-brand-ockelbo/",
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-21.34-stold-gavle/",
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-04.11-morddrap-lulea/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-06.37-olaga-hot-malmo/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-06.39-sammanfattning-kvall-och-natt-hallands-lan/"
+  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-06.37-olaga-hot-malmo/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -853,7 +853,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795238849.4432707,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795239475.4948957,
-  "https://www.bt.se/rss": 1795241601.6306293,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795241602.4007974
+  "https://www.bt.se/rss": 1795241614.2237265,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795241615.0769
  }
 }
