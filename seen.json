@@ -343,6 +343,8 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-07.39-trafikolycka-pitea/",
+  "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-20.13-morddrap-forsok-stockholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-07.02-rattfylleri-boden/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-03.37-trafikbrott-lund/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-08.12-sammanfattning-natt-jamtlands-lan/",
@@ -840,9 +842,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-11.39-trafikolycka-vilhelmina/",
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-11.59-brand-toreboda/",
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-04.48-rattfylleri-mala/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-08.59-brand-sundsvall/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-10.33-rattfylleri-norrkoping/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-10.05-brand-stockholm/"
+  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-08.59-brand-sundsvall/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -858,7 +858,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795246193.7941298,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795246808.8899207,
-  "https://www.bt.se/rss": 1795247719.2732153,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795247720.5771704
+  "https://www.bt.se/rss": 1795248024.0408058,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795248025.0388792
  }
 }
