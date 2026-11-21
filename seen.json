@@ -343,6 +343,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-01.32-valdhot-mot-tjansteman-uppsala/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-01.12-stoldinbrott-stockholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-08.00-sammanfattning-natt-vasternorrlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-23.04-olovlig-korning-ljusdal/",
@@ -841,8 +842,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/13/13-november-20.13-morddrap-forsok-stockholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-09.17-brand-kiruna/",
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-08.11-fylleri-skelleftea/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-07.54-sammanfattning-natt-sodermanlands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-07.54-sammanfattning-natt-ostergotlands-lan/"
+  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-07.54-sammanfattning-natt-sodermanlands-lan/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -858,7 +858,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795242534.8481328,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795243143.6743531,
-  "https://www.bt.se/rss": 1795245277.9591432,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795245280.0944743
+  "https://www.bt.se/rss": 1795245585.0633843,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795245586.2013485
  }
 }
