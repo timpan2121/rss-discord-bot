@@ -385,6 +385,8 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-22.00-ovrigt-vastra-gotalands-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-22.00-ovrigt-hallands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-20.06-trafikbrott-gotlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-21.15-trafikolycka-alvesta/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-20.26-trafikolycka-singel-bjuv/",
@@ -882,9 +884,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-23.29-misshandel-malmo/",
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-22.22-rattfylleri-bjuv/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-00.10-olaga-intrang-karlskrona/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-01.45-rattfylleri-nybro/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-23.01-rattfylleri-emmaboda/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-23.27-ran-linkoping/"
+  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-01.45-rattfylleri-nybro/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -899,8 +899,8 @@
  ],
  "_last": {
   "https://eurocop.nu/rss.xml": 1795294025.4172704,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795290968.5570266,
-  "https://www.bt.se/rss": 1795294357.6256945,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795294358.516733
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795294660.5871608,
+  "https://www.bt.se/rss": 1795294666.0794866,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795294666.970122
  }
 }
