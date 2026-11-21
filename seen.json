@@ -10,6 +10,8 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "1c805da8-d02d-415e-b01e-88ff543ac45a",
+  "069f3503-24eb-42a2-939c-368786d8bb07",
   "7408d6ca-5beb-43b5-bcfb-0abe34e4de27",
   "d678e171-ee93-4673-89f4-60b0c848ec24",
   "74332677-16d4-4702-b217-9d0169a3b02c",
@@ -356,6 +358,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-12.58-trafikolycka-singel-sundsvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-10.53-trafikbrott-ostersund/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-11.17-trafikolycka-hassleholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-13.14-trafikolycka-eslov/",
@@ -854,8 +857,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-15.35-ovrigt-stockholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-13.34-trafikolycka-norrkoping/",
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-14.02-trafikbrott-overtornea/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-13.52-fylleri-lulea/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-11.35-ovrigt-are/"
+  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-13.52-fylleri-lulea/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -871,7 +873,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795264474.0745826,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795265096.283477,
-  "https://www.bt.se/rss": 1795266930.6124454,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795266931.2304301
+  "https://www.bt.se/rss": 1795267234.205519,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795267237.2198212
  }
 }
