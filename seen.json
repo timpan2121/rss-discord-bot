@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "4a885fff-c9b0-4234-b0e1-a159342ae77f",
   "f71b5067-61ff-498a-9b0a-cd55e3745cba",
   "c9ea377e-a68d-4f89-abca-cc6f3c0dfdb7",
   "ee0bf6dd-75ef-40a7-986e-ba8779837af2",
@@ -347,6 +348,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-09.42-rattfylleri-mjolby/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-10.27-trafikolycka-singel-tranas/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-05.01-misshandel-hudiksvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-09.25-trafikolycka-sjobo/",
@@ -845,8 +847,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-13.10-trafikkontroll-vasterbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-13.07-trafikkontroll-norrbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-13.05-trafikkontroll-berg/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-07.56-rattfylleri-ornskoldsvik/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-11.39-trafikolycka-vilhelmina/"
+  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-07.56-rattfylleri-ornskoldsvik/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -862,7 +863,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795253495.9120026,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795254112.6547904,
-  "https://www.bt.se/rss": 1795254726.5884514,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795254728.8626716
+  "https://www.bt.se/rss": 1795255031.2703695,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795255033.5789645
  }
 }
