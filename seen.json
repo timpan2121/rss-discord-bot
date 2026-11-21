@@ -380,6 +380,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-18.19-stoldinbrott-malmo/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-18.37-trafikolycka-vilt-almhult/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-15.58-kontroll-malmo/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-18.12-trafikolycka-personskada-goteborg/",
@@ -878,8 +879,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-21.46-ovrigt-hallands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-21.45-ovrigt-vastra-gotalands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-19.29-trafikbrott-trelleborg/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-19.46-misshandel-stockholm/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-20.16-arbetsplatsolycka-monsteras/"
+  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-19.46-misshandel-stockholm/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -895,7 +895,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795282829.1981773,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795283461.7181995,
-  "https://www.bt.se/rss": 1795285899.920996,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795285901.0729976
+  "https://www.bt.se/rss": 1795286203.0789232,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795286203.955709
  }
 }
