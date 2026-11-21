@@ -351,6 +351,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-11.57-forsvunnen-person-orebro/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-10.51-brand-karlshamn/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-09.37-trafikolycka-singel-skelleftea/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-09.42-rattfylleri-mjolby/",
@@ -849,8 +850,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-11.27-trafikolycka-kalix/",
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-12.36-trafikolycka-personskada-norrtalje/",
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-00.53-forsvunnen-person-kristianstad/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-13.10-trafikkontroll-vasterbottens-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-13.07-trafikkontroll-norrbottens-lan/"
+  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-13.10-trafikkontroll-vasterbottens-lan/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -866,7 +866,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795257159.3633983,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795257766.5590804,
-  "https://www.bt.se/rss": 1795258681.2786183,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795258683.5155911
+  "https://www.bt.se/rss": 1795258986.221474,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795258987.033399
  }
 }
