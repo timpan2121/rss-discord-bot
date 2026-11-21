@@ -10,6 +10,8 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "d2f5cf92-fc7b-4275-8bbb-94f9cd24ae32",
+  "b9dbe546-ac6c-4bc7-aff5-a005ed46cc42",
   "437e891b-e09d-4703-bfbd-40c2ce63e546",
   "9621ddd3-48fe-4d00-89dc-5e592151d32e",
   "fc439f15-55f4-4153-b0b9-01da934d942b",
@@ -374,6 +376,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-18.12-trafikolycka-personskada-goteborg/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-18.14-misshandel-almhult/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-17.36-trafikolycka-singel-boras/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-14.28-arbetsplatsolycka-simrishamn/",
@@ -872,8 +875,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-19.46-misshandel-stockholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-20.16-arbetsplatsolycka-monsteras/",
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-19.26-brand-tjorn/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-17.51-ovrigt-stockholms-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-16.05-brand-goteborg/"
+  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-17.51-ovrigt-stockholms-lan/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -889,7 +891,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795279159.6875217,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795279772.0194411,
-  "https://www.bt.se/rss": 1795281900.2889514,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795281901.0343993
+  "https://www.bt.se/rss": 1795282202.9392753,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795282206.4206645
  }
 }
