@@ -346,6 +346,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-10.27-trafikolycka-singel-tranas/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-05.01-misshandel-hudiksvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-09.25-trafikolycka-sjobo/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-07.39-trafikolycka-pitea/",
@@ -844,8 +845,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-13.07-trafikkontroll-norrbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-13.05-trafikkontroll-berg/",
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-07.56-rattfylleri-ornskoldsvik/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-11.39-trafikolycka-vilhelmina/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-11.59-brand-toreboda/"
+  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-11.39-trafikolycka-vilhelmina/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -860,8 +860,8 @@
  ],
  "_last": {
   "https://eurocop.nu/rss.xml": 1795253495.9120026,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795250456.3651175,
-  "https://www.bt.se/rss": 1795253809.289863,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795253810.1355116
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795254112.6547904,
+  "https://www.bt.se/rss": 1795254118.0644886,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795254118.947469
  }
 }
