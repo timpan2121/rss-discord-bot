@@ -402,6 +402,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-03.09-rattfylleri-malmo/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-08.25-trafikolycka-singel-nykoping/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-08.08-sammanfattning-natt-jamtlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-00.56-misshandel-grov-gotland/",
@@ -900,8 +901,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-08.22-farligt-foremal-misstankt-ostersund/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-07.28-stold-forsok-ornskoldsvik/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-10.00-ovrigt-vastra-gotalands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-10.00-ovrigt-hallands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-09.18-trafikolycka-singel-ostra-goinge/"
+  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-10.00-ovrigt-hallands-lan/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -915,9 +915,9 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795334511.131807,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795334600.685286,
-  "https://www.bt.se/rss": 1795334909.4471962,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795334910.9462304
+  "https://eurocop.nu/rss.xml": 1795335213.430965,
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795335214.241578,
+  "https://www.bt.se/rss": 1795335219.1199172,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795335219.9633684
  }
 }
