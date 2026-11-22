@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "c853ae72-ae48-45a0-992d-c6b395007ede",
   "77fe60ad-42bd-4035-b9ba-bcca6510eaa7",
   "2e716cbc-a058-4d97-82ae-3a1453e7e58d",
   "e3e031c3-f049-4db0-9804-3e9c4db187be",
@@ -396,6 +397,9 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-07.07-sammanfattning-natt-orebro-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-07.07-sammanfattning-natt-dalarnas-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-07.07-sammanfattning-natt-varmlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-02.43-skadegorelse-lund/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-07.15-sammanfattning-natt-norrbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-23.24-misshandel-kristianstad/",
@@ -892,10 +896,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-07.54-sammanfattning-natt-jonkopings-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-07.54-sammanfattning-natt-ostergotlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-07.54-sammanfattning-natt-sodermanlands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-01.42-brand-norrtalje/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-23.31-morddrap-forsok-gotland/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-07.22-sammanfattning-natt-norrbottens-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-07.21-sammanfattning-natt-vasterbottens-lan/"
+  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-01.42-brand-norrtalje/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -911,7 +912,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795328714.065123,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795328719.361917,
-  "https://www.bt.se/rss": 1795328719.847229,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795328721.8315039
+  "https://www.bt.se/rss": 1795329025.5663803,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795329027.639766
  }
 }
