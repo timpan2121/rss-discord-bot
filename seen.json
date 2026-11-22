@@ -408,6 +408,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-10.06-rattfylleri-boden/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-11.33-trafikolycka-singel-haparanda/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-11.52-trafikolycka-singel-katrineholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-09.53-trafikolycka-singel-hallands-lan/",
@@ -906,8 +907,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-13.12-trafikolycka-jonkoping/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-12.14-spridning-smittakemikalier-skelleftea/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-12.58-trafikkontroll-vasterbottens-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-12.57-trafikkontroll-norrbottens-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-11.38-trafikolycka-jarfalla/"
+  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-12.57-trafikkontroll-norrbottens-lan/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -923,7 +923,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795345959.0573084,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795345960.099153,
-  "https://www.bt.se/rss": 1795345960.3748436,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795345961.4007623
+  "https://www.bt.se/rss": 1795346263.5805473,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795346264.449041
  }
 }
