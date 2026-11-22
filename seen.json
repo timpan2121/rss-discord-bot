@@ -399,6 +399,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-08.00-sammanfattning-natt-vasternorrlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/21-november-23.40-misshandel-malmo/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-07.38-sammanfattning-natt-jonkopings-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-07.36-sammanfattning-natt-ostergotlands-lan/",
@@ -897,8 +898,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-09.18-trafikolycka-singel-ostra-goinge/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-08.36-bedrageri-linkoping/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-07.32-brand-motala/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-05.06-morddrap-forsok-stockholm/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-05.58-brand-rattvik/"
+  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-05.06-morddrap-forsok-stockholm/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -912,9 +912,9 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795330752.5533326,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795330782.802817,
-  "https://www.bt.se/rss": 1795331095.5321095,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795331096.3739188
+  "https://eurocop.nu/rss.xml": 1795331398.4582782,
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795331404.3525414,
+  "https://www.bt.se/rss": 1795331405.3298626,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795331406.2191484
  }
 }
