@@ -397,6 +397,9 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-07.38-sammanfattning-natt-jonkopings-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-07.36-sammanfattning-natt-ostergotlands-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-07.37-sammanfattning-natt-sodermanlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-07.17-sammanfattning-natt-vasterbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-07.07-sammanfattning-natt-orebro-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-07.07-sammanfattning-natt-dalarnas-lan/",
@@ -893,10 +896,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-07.32-brand-motala/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-05.06-morddrap-forsok-stockholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-05.58-brand-rattvik/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-12.30-morddrap-forsok-karlskrona/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-07.54-sammanfattning-natt-jonkopings-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-07.54-sammanfattning-natt-ostergotlands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-07.54-sammanfattning-natt-sodermanlands-lan/"
+  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-12.30-morddrap-forsok-karlskrona/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -912,7 +912,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795329337.2249084,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795329338.0496795,
-  "https://www.bt.se/rss": 1795329343.0725136,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795329344.1543663
+  "https://www.bt.se/rss": 1795329648.159151,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795329648.9518576
  }
 }
