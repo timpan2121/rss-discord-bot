@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "2e716cbc-a058-4d97-82ae-3a1453e7e58d",
   "e3e031c3-f049-4db0-9804-3e9c4db187be",
   "26b1b81a-1763-4f4c-86e6-eabadb4ef859",
   "37b44aef-66fa-4de2-a3a8-4f286677c2c4",
@@ -394,6 +395,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-23.24-misshandel-kristianstad/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-22.11-misshandel-vaxjo/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-07.00-sammanfattning-natt-hallands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-07.00-sammanfattning-natt-vastra-gotalands-lan/",
@@ -892,8 +894,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-07.22-sammanfattning-natt-norrbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-07.21-sammanfattning-natt-vasterbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-07.21-sammanfattning-natt-vasternorrlands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-07.21-sammanfattning-natt-jamtlands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-23.39-misshandel-uppsala/"
+  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-07.21-sammanfattning-natt-jamtlands-lan/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -907,9 +908,9 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795327378.1535058,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795327383.3595083,
-  "https://www.bt.se/rss": 1795327692.9571424,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795327693.9449332
+  "https://eurocop.nu/rss.xml": 1795328002.0589995,
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795328096.9182832,
+  "https://www.bt.se/rss": 1795328102.1784713,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795328104.3185143
  }
 }
