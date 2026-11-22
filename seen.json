@@ -394,6 +394,8 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-02.17-rattfylleri-hultsfred/",
+  "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-00.09-skadegorelse-kalmar/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-02.02-rattfylleri-solvesborg/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-03.18-misshandel-karlskrona/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-03.04-brand-hassleholm/",
@@ -891,9 +893,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-23.39-misshandel-uppsala/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-07.05-sammanfattning-natt-orebro-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-07.05-sammanfattning-natt-dalarnas-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-07.05-sammanfattning-natt-varmlands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/"
+  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-07.05-sammanfattning-natt-varmlands-lan/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -909,7 +909,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795326758.1254463,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795326768.4333758,
-  "https://www.bt.se/rss": 1795326769.328834,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795326770.2173035
+  "https://www.bt.se/rss": 1795327072.6955602,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795327073.4364762
  }
 }
