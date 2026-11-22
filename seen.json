@@ -927,6 +927,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-14.35-ovrigt-hallands-lan/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
+  "http://www.eurocop.nu/medlem/?n=2257",
   "http://www.eurocop.nu/medlem/?s=0",
   "http://www.eurocop.nu/medlem/?n=2255",
   "http://www.eurocop.nu/medlem/?n=2254",
@@ -938,9 +939,9 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795362121.6458907,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795362122.47442,
-  "https://www.bt.se/rss": 1795362426.4736087,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795362427.363002
+  "https://eurocop.nu/rss.xml": 1795362729.6527953,
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795362730.6331136,
+  "https://www.bt.se/rss": 1795362732.6462715,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795362733.6477244
  }
 }
