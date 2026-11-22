@@ -395,6 +395,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-07.15-sammanfattning-natt-norrbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-23.24-misshandel-kristianstad/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-22.11-misshandel-vaxjo/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-07.00-sammanfattning-natt-hallands-lan/",
@@ -893,8 +894,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-23.31-morddrap-forsok-gotland/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-07.22-sammanfattning-natt-norrbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-07.21-sammanfattning-natt-vasterbottens-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-07.21-sammanfattning-natt-vasternorrlands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-07.21-sammanfattning-natt-jamtlands-lan/"
+  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-07.21-sammanfattning-natt-vasternorrlands-lan/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -910,7 +910,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795328002.0589995,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795328096.9182832,
-  "https://www.bt.se/rss": 1795328102.1784713,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795328104.3185143
+  "https://www.bt.se/rss": 1795328409.087341,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795328410.2964182
  }
 }
