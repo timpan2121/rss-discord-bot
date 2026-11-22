@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "a67ff128-f288-42c5-88a8-e22c9e5c3d8a",
   "c8df49e1-dd1d-4e45-90c3-de38698c5c85",
   "9aba2edf-fe84-492c-888b-c45834297f4e",
   "cf058863-e13f-4835-9698-75adba7c050c",
@@ -400,6 +401,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-08.08-sammanfattning-natt-jamtlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-00.56-misshandel-grov-gotland/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-08.00-sammanfattning-natt-vasternorrlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/21-november-23.40-misshandel-malmo/",
@@ -898,8 +900,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-10.00-ovrigt-vastra-gotalands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-10.00-ovrigt-hallands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-09.18-trafikolycka-singel-ostra-goinge/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-08.36-bedrageri-linkoping/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-07.32-brand-motala/"
+  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-08.36-bedrageri-linkoping/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -913,9 +914,9 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795332014.5170949,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795332015.5623934,
-  "https://www.bt.se/rss": 1795332323.9704306,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795332326.0195842
+  "https://eurocop.nu/rss.xml": 1795332628.7583554,
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795332669.7223,
+  "https://www.bt.se/rss": 1795332670.3757198,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795332672.4032588
  }
 }
