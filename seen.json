@@ -394,6 +394,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-03.04-brand-hassleholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-21.49-misshandel-grov-stockholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-22.00-ovrigt-vastra-gotalands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/21/21-november-22.00-ovrigt-hallands-lan/",
@@ -892,8 +893,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-07.00-sammanfattning-kvall-och-natt-hallands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-23.29-misshandel-malmo/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-22.22-rattfylleri-bjuv/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-00.10-olaga-intrang-karlskrona/"
+  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-22.22-rattfylleri-bjuv/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -907,9 +907,9 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795324914.458016,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795324915.1474664,
-  "https://www.bt.se/rss": 1795325229.6761637,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795325230.4909887
+  "https://eurocop.nu/rss.xml": 1795325532.9653325,
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795325533.6813695,
+  "https://www.bt.se/rss": 1795325534.5998967,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795325535.4205678
  }
 }
