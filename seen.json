@@ -401,6 +401,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-08.25-trafikolycka-singel-nykoping/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-08.08-sammanfattning-natt-jamtlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-00.56-misshandel-grov-gotland/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-08.00-sammanfattning-natt-vasternorrlands-lan/",
@@ -899,8 +900,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-07.28-stold-forsok-ornskoldsvik/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-10.00-ovrigt-vastra-gotalands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-10.00-ovrigt-hallands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-09.18-trafikolycka-singel-ostra-goinge/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-08.36-bedrageri-linkoping/"
+  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-09.18-trafikolycka-singel-ostra-goinge/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -916,7 +916,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795332628.7583554,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795332669.7223,
-  "https://www.bt.se/rss": 1795332670.3757198,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795332672.4032588
+  "https://www.bt.se/rss": 1795332976.1510139,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795332977.141858
  }
 }
