@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "b57811be-e06e-4a15-85da-cf0e52756a74",
   "95bf9cca-38c2-407d-a5f8-505ffcbe1324",
   "5c213af1-5f53-484f-8924-85ae9aa31615",
   "13153b20-75a5-4ab9-b31e-bc73b88a370f",
@@ -407,6 +408,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-09.53-trafikolycka-singel-hallands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-10.53-trafikolycka-gagnef/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-08.09-stold-ostersund/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-08.40-fylleri-boden/",
@@ -905,8 +907,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-12.57-trafikkontroll-norrbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-11.38-trafikolycka-jarfalla/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-10.04-trafikolycka-boden/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-08.06-forsvunnen-person-goteborg/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-08.22-farligt-foremal-misstankt-ostersund/"
+  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-08.06-forsvunnen-person-goteborg/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -922,7 +923,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795344682.0539246,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795344718.1315525,
-  "https://www.bt.se/rss": 1795344718.420085,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795344719.1763756
+  "https://www.bt.se/rss": 1795345022.284478,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795345024.437013
  }
 }
