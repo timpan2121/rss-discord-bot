@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "e0c2b123-2c49-4a68-b112-43e42a3d7219",
   "a522611a-a2c5-4495-af6d-0c9e8573c4db",
   "18742557-07c0-4cb6-8a78-3740a656a612",
   "1c63c4ce-39c1-47f2-a9e3-c895e35a78ba",
@@ -419,6 +420,8 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-15.00-ovrigt-hallands-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-15.00-ovrigt-vastra-gotalands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-14.00-trafikkontroll-vasternorrlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-12.23-bedrageri-finspang/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-10.06-rattfylleri-boden/",
@@ -916,9 +919,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-20.03-trafikolycka-staffanstorp/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-18.55-trafikolycka-malmo/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-14.35-ovrigt-vastra-gotalands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-14.35-ovrigt-hallands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-13.12-trafikolycka-jonkoping/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-12.14-spridning-smittakemikalier-skelleftea/"
+  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-14.35-ovrigt-hallands-lan/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -932,9 +933,9 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795355881.973841,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795355906.8284729,
-  "https://www.bt.se/rss": 1795356210.3710265,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795356211.308476
+  "https://eurocop.nu/rss.xml": 1795356513.737989,
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795356519.5651238,
+  "https://www.bt.se/rss": 1795356520.6189027,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795356522.6576784
  }
 }
