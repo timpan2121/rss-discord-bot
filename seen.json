@@ -408,6 +408,8 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-11.33-trafikolycka-singel-haparanda/",
+  "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-11.52-trafikolycka-singel-katrineholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-09.53-trafikolycka-singel-hallands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-10.53-trafikolycka-gagnef/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-08.09-stold-ostersund/",
@@ -905,9 +907,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-12.14-spridning-smittakemikalier-skelleftea/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-12.58-trafikkontroll-vasterbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-12.57-trafikkontroll-norrbottens-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-11.38-trafikolycka-jarfalla/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-10.04-trafikolycka-boden/",
-  "https://polisen.se/aktuellt/handelser/2026/november/14/14-november-08.06-forsvunnen-person-goteborg/"
+  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-11.38-trafikolycka-jarfalla/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?s=0",
@@ -923,7 +923,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795345328.5511274,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795345343.321749,
-  "https://www.bt.se/rss": 1795345348.604084,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795345349.5335393
+  "https://www.bt.se/rss": 1795345652.8192253,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795345653.8152936
  }
 }
