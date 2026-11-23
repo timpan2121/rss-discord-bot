@@ -11,13 +11,13 @@ RAW = "https://raw.githubusercontent.com/" + os.environ.get("GITHUB_REPOSITORY",
 
 def fetch(url):
     req = urllib.request.Request(url, headers={"User-Agent": UA})
-    for n in range(4):
+    for n in range(2):
         try:
-            with urllib.request.urlopen(req, timeout=30) as r:
+            with urllib.request.urlopen(req, timeout=15) as r:
                 return r.read()
         except Exception:
-            if n == 3: raise
-            time.sleep(10 * (n + 1))
+            if n == 1: raise
+            time.sleep(5)
 
 def text(el, *tags):
     for t in tags:
