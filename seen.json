@@ -1,6 +1,7 @@
 {
  "https://eurocop.nu/rss.xml": [],
  "https://www.bt.se/rss": [
+  "96ddac0f-2b03-45c7-8609-f08656f99945",
   "7eac776d-3536-4270-bab5-3a07b0e01c54",
   "49689e07-100d-4928-b8f0-6d819a01cea4",
   "042c8ce5-44e4-4078-b7f1-a527249460a1",
@@ -455,6 +456,10 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-08.30-information-dalarnas-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-08.30-information-orebro-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-08.30-information-varmlands-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-06.21-trafikolycka-personskada-halmstad/",
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-06.37-trafikolycka-nordanstig/",
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-05.58-trafikolycka-gavle/",
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-07.45-sammanfattning-natt-norrbottens-lan/",
@@ -950,11 +955,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-16.02-trafikolycka-ornskoldsvik/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-17.50-trafikolycka-kalmar/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-17.22-skadegorelse-sandviken/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-18.55-misshandel-ostersund/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-21.21-trafikolycka-vilt-jamtlands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-19.14-fylleri-skelleftea/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-19.39-brand-ekero/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-14.41-trafikolycka-smedjebacken/"
+  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-18.55-misshandel-ostersund/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -971,12 +972,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795418424.7959578,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795418449.827242,
-  "https://www.bt.se/rss": 1795419393.6380537,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795419395.9548342,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795419396.780934,
-  "https://vallentunanya.se/": 1795419397.086435,
-  "https://elfsborg.se/feed/": 1795419397.6722918,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795419399.1291604
+  "https://www.bt.se/rss": 1795419700.7229662,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795419702.8253398,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795419710.1515517,
+  "https://vallentunanya.se/": 1795419710.2432141,
+  "https://elfsborg.se/feed/": 1795419710.932871,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795419712.332414
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/slog-och-sparkade-liggande-anhorig--far-fangelse-6.3.394352.5f5541a620",
