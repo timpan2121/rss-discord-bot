@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "677f79d2-ac8f-47f8-b778-9c127d30e193",
   "2385fe71-97d5-4734-98cf-5d211e8cf371",
   "b1e1f919-5ebc-435e-b3f8-1c12310792ba",
   "596911f1-a780-454b-aa43-98acd172f121",
@@ -453,6 +454,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-06.29-misshandel-malmo/",
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-06.17-misshandel-hassleholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-15.00-ovrigt-hallands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-15.00-ovrigt-vastra-gotalands-lan/",
@@ -951,8 +953,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-07.38-trafikolycka-skurup/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-21.13-brand-borgholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-20.03-trafikolycka-staffanstorp/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-18.55-trafikolycka-malmo/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-14.35-ovrigt-vastra-gotalands-lan/"
+  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-18.55-trafikolycka-malmo/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -969,7 +970,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795410064.4936864,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795410369.6912317,
-  "https://www.bt.se/rss": 1795411884.0906081,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795411884.8017614
+  "https://www.bt.se/rss": 1795412188.45938,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795412190.186525
  }
 }
