@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "e468de12-3fb7-4a2a-abda-d370db0cfdf2",
   "f25a1382-0668-4525-9fea-6af386c7a1f4",
   "da42e270-5dbd-4685-bdbf-86d9d94c4566",
   "677f79d2-ac8f-47f8-b778-9c127d30e193",
@@ -972,10 +973,10 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795410064.4936864,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795410369.6912317,
-  "https://www.bt.se/rss": 1795413096.9487631,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795413097.8239145,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795413099.9604828,
-  "https://vallentunanya.se/": 1795413104.7696323
+  "https://www.bt.se/rss": 1795413413.5291088,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795413415.599872,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795413416.6924756,
+  "https://vallentunanya.se/": 1795413416.7961662
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/slog-och-sparkade-liggande-anhorig--far-fangelse-6.3.394352.5f5541a620",
