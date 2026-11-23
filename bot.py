@@ -58,7 +58,12 @@ def enrich(item):
         return html.unescape(m.group(1)) if m else ""
     item.update(title=og("title"), summary=og("description"), image=og("image"))
     m = re.search(r'"datePublished"\s*:\s*"([^"]+)"|property="article:published_time"[^>]+content="([^"]+)"', page)
-    item["date"] = (m.group(1) or m.group(2)) if m else datetime.datetime.now(datetime.timezone.utc).isoformat()
+    if m:
+        item["date"] = m.group(1) or m.group(2)
+    elif (m := re.search(r"(\d{4}-\d{2}-\d{2})\s+KL\.?\s+(\d{1,2})[:.](\d{2})", page, re.I)):
+        item["date"] = datetime.datetime.fromisoformat(f"{m.group(1)}T{int(m.group(2)):02d}:{m.group(3)}").replace(tzinfo=ZoneInfo("Europe/Stockholm")).isoformat()
+    else:
+        item["date"] = datetime.datetime.now(datetime.timezone.utc).isoformat()
 
 def excluded(item, patterns):
     t = item["title"] + " | " + clean(item["summary"])
