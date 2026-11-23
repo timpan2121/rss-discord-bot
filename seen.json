@@ -502,6 +502,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-18.26-trafikolycka-vilt-norrbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-17.57-brand-nybro/",
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-15.45-trafikolycka-vellinge/",
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-17.33-trafikhinder-umea/",
@@ -1000,8 +1001,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-17.16-stold-umea/",
   "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-17.58-trafikolycka-orebro/",
   "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-17.47-trafikolycka-karlstad/",
-  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-16.04-misshandel-stockholm/",
-  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-21.48-ovrigt-vastra-gotalands-lan/"
+  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-16.04-misshandel-stockholm/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1018,12 +1018,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795451802.430486,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795451821.95909,
-  "https://www.bt.se/rss": 1795454608.770181,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795454609.4680226,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795454610.113834,
-  "https://vallentunanya.se/": 1795454610.2690768,
-  "https://elfsborg.se/feed/": 1795454610.74576,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795454611.8525178
+  "https://www.bt.se/rss": 1795454913.5055912,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795454914.1530375,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795454916.1822941,
+  "https://vallentunanya.se/": 1795454916.3576066,
+  "https://elfsborg.se/feed/": 1795454916.816725,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795454917.9437895
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/efter-omrostningen--har-ar-namnet-pa-nya-motesplatsen-i-ballstaberg-6.3.396877.3b443a8432",
