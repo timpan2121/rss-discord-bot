@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "464d32e6-f525-40cd-84d6-ed6544cf5c13",
   "54d70205-f511-4bc6-8ac2-cdfca9e56232",
   "171644d1-0db9-4f23-b1b2-373698b0293c",
   "068bdf8f-5e15-493d-a171-5d48574a6f3b",
@@ -497,6 +498,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-17.02-trafikolycka-odeshog/",
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-11.06-arbetsplatsolycka-ostersund/",
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-17.00-trafikolycka-vilt-linkoping/",
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-10.00-stold-sundsvall/",
@@ -995,8 +997,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-17.26-rattfylleri-botkyrka/",
   "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-16.59-trafikolycka-personskada-upplands-vasby/",
   "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-20.21-trafikolycka-umea/",
-  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-20.18-stold-angelholm/",
-  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-16.34-bedrageri-stockholm/"
+  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-20.18-stold-angelholm/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1013,12 +1014,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795448103.537611,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795448114.3674834,
-  "https://www.bt.se/rss": 1795450578.5218313,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795450579.278237,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795450579.9531016,
-  "https://vallentunanya.se/": 1795450580.0799332,
-  "https://elfsborg.se/feed/": 1795450580.6419113,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795450581.6416843
+  "https://www.bt.se/rss": 1795450883.3539402,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795450885.2923107,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795450887.2109575,
+  "https://vallentunanya.se/": 1795450887.4491975,
+  "https://elfsborg.se/feed/": 1795450887.9122076,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795450888.9424736
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/slog-och-sparkade-liggande-anhorig--far-fangelse-6.3.394352.5f5541a620",
