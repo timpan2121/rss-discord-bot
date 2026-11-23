@@ -75,5 +75,21 @@
     "webhook_secret": "WEBHOOK_VALLENTUNA",
     "link_pattern": "/[a-z]+/[a-z0-9-]+/\\d+",
     "avatar": "avatars/vallentunanya.png?v=2"
+  },
+  {
+    "name": "IF Elfsborg",
+    "label": "🟡 ELFSBORG.SE",
+    "color": "#ffd200",
+    "url": "https://elfsborg.se/feed/",
+    "webhook_secret": "WEBHOOK_ELFSBORG",
+    "avatar": "avatars/elfsborg.png"
+  },
+  {
+    "name": "Bollsvenskan",
+    "label": "⚽ BOLLSVENSKAN",
+    "color": "#00427a",
+    "url": "https://bollsvenskan.se/feed/if-elfsborg",
+    "webhook_secret": "WEBHOOK_ELFSBORG",
+    "avatar": "avatars/bollsvenskan.png"
   }
 ]
