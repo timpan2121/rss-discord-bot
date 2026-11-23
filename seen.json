@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "3c7707d5-7fb2-43cb-aa85-2b68f49331c6",
   "985beaf9-c2c8-419e-86b3-dd8df9a50019",
   "20807126-158a-4a05-9dd2-15e844e2a7fc",
   "b070c542-f696-414e-ad27-89c7d0a10621",
@@ -508,8 +509,7 @@
   "0fadb908-587d-4b82-933b-6e3ccb72c127",
   "ffeca773-ed38-4ca6-8a8e-4cd43d0b3eb1",
   "63170486-09d4-4f8e-b28f-def1c43abb24",
-  "6d228e10-6648-4be4-8d9b-8889acc0dda3",
-  "67360259-c94b-4eca-9007-1a82f1c17908"
+  "6d228e10-6648-4be4-8d9b-8889acc0dda3"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-19.00-trafikolycka-borlange/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795459254.5439084,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795459255.0811424,
-  "https://www.bt.se/rss": 1795462304.3679774,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795462306.2744133,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795462306.793601,
-  "https://vallentunanya.se/": 1795462306.815913,
-  "https://elfsborg.se/feed/": 1795462307.3118305,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795462308.2187705
+  "https://www.bt.se/rss": 1795462609.5703053,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795462611.4470663,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795462611.9644928,
+  "https://vallentunanya.se/": 1795462612.0081763,
+  "https://elfsborg.se/feed/": 1795462612.420034,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795462613.3824186
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/efter-omrostningen--har-ar-namnet-pa-nya-motesplatsen-i-ballstaberg-6.3.396877.3b443a8432",
