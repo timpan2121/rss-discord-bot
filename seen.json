@@ -511,6 +511,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-18.38-trafikolycka-heby/",
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-19.27-bedrageri-vasteras/",
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-16.21-trafikolycka-goteborg/",
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-19.19-ovrigt-kronobergs-lan/",
@@ -1009,8 +1010,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-07.18-trafikhinder-sundsvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-07.19-sammanfattning-natt-norrbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-07.18-sammanfattning-natt-vasterbottens-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-07.17-sammanfattning-natt-vasternorrlands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-21.55-trafikkontroll-vasterbottens-lan/"
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-07.17-sammanfattning-natt-vasternorrlands-lan/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1027,12 +1027,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795459254.5439084,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795459255.0811424,
-  "https://www.bt.se/rss": 1795459560.8215191,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795459561.8300068,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795459562.4413033,
-  "https://vallentunanya.se/": 1795459562.5818355,
-  "https://elfsborg.se/feed/": 1795459563.071534,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795459564.150849
+  "https://www.bt.se/rss": 1795459865.717146,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795459866.4552827,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795459868.3442574,
+  "https://vallentunanya.se/": 1795459868.3687904,
+  "https://elfsborg.se/feed/": 1795459868.7790139,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795459869.7215664
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/efter-omrostningen--har-ar-namnet-pa-nya-motesplatsen-i-ballstaberg-6.3.396877.3b443a8432",
