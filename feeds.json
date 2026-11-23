@@ -25,7 +25,7 @@
     "webhook_secret": "WEBHOOK_BT",
     "label": "📰 BORÅS TIDNING",
     "color": "#d1242f",
-    "avatar": "https://www.google.com/s2/favicons?domain=bt.se&sz=256"
+    "avatar": "avatars/bt.png?v=2"
   },
   {
     "name": "Polisen",
@@ -61,7 +61,7 @@
       "molnby",
       "vallentunasjön"
     ],
-    "avatar": "avatars/mitti.png"
+    "avatar": "avatars/mitti.png?v=2"
   },
   {
     "name": "Vallentuna Nya",
@@ -70,6 +70,6 @@
     "url": "https://vallentunanya.se/",
     "webhook_secret": "WEBHOOK_VALLENTUNA",
     "link_pattern": "/[a-z]+/[a-z0-9-]+/\\d+",
-    "avatar": "avatars/vallentunanya.png"
+    "avatar": "avatars/vallentunanya.png?v=2"
   }
 ]
