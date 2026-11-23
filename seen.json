@@ -512,6 +512,8 @@
   "63170486-09d4-4f8e-b28f-def1c43abb24"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-19.40-misshandel-boden/",
+  "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-17.23-trafikolycka-personskada-stockholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-21.04-sexualbrott-stockholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-16.50-inbrott-sundbyberg/",
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-18.51-misshandel-stockholm/",
@@ -1009,9 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-07.00-sammanfattning-natt-dalarnas-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-07.00-sammanfattning-natt-varmlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-07.01-sammanfattning-natt-hallands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-02.44-rattfylleri-vaxjo/",
-  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-07.00-sammanfattning-natt-vastra-gotalands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-23.37-brand-svedala/"
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-02.44-rattfylleri-vaxjo/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795466585.7955396,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795466586.3076642,
-  "https://www.bt.se/rss": 1795466586.5069544,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795466587.2822907,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795466587.7903974,
-  "https://vallentunanya.se/": 1795466587.8138025,
-  "https://elfsborg.se/feed/": 1795466588.2234519,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795466589.218046
+  "https://www.bt.se/rss": 1795466890.5959296,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795466891.3068385,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795466894.265955,
+  "https://vallentunanya.se/": 1795466894.4079103,
+  "https://elfsborg.se/feed/": 1795466894.8206623,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795466895.7462158
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/efter-omrostningen--har-ar-namnet-pa-nya-motesplatsen-i-ballstaberg-6.3.396877.3b443a8432",
