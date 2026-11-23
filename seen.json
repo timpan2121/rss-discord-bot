@@ -453,6 +453,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-06.17-misshandel-hassleholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-15.00-ovrigt-hallands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-15.00-ovrigt-vastra-gotalands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-14.00-trafikkontroll-vasternorrlands-lan/",
@@ -951,8 +952,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-21.13-brand-borgholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-20.03-trafikolycka-staffanstorp/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-18.55-trafikolycka-malmo/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-14.35-ovrigt-vastra-gotalands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-14.35-ovrigt-hallands-lan/"
+  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-14.35-ovrigt-vastra-gotalands-lan/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -969,7 +969,7 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795410064.4936864,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795410369.6912317,
-  "https://www.bt.se/rss": 1795411581.55916,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795411582.2557728
+  "https://www.bt.se/rss": 1795411884.0906081,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795411884.8017614
  }
 }
