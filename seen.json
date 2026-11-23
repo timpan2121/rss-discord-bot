@@ -933,14 +933,7 @@
   "http://www.eurocop.nu/medlem/?n=2249",
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
- "_last": {
-  "https://eurocop.nu/rss.xml": 1795410064.4936864,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795410369.6912317,
-  "https://www.bt.se/rss": 1795413413.5291088,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795413415.599872,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795413416.6924756,
-  "https://vallentunanya.se/": 1795413416.7961662
- },
+ "_last": {},
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [],
  "https://vallentunanya.se/": [
   "https://vallentunanya.se/nyheter/har-ar-julverkstaden-i-full-gaang/5204",
