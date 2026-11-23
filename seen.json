@@ -10,6 +10,8 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "b19a1e23-7d79-4da7-b6d3-8b7052b79e93",
+  "5420c625-3bd4-4f6b-a756-ea07df1b48d7",
   "2993354a-1cb4-4c79-b0c9-988c8bc7e16d",
   "fbe4ffdf-b2dc-45c5-b8f0-a61a223ce28c",
   "1bd8c708-d97a-4b3c-b1f7-df8951a93a1d",
@@ -508,6 +510,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-19.06-ovrigt-skane-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-19.04-trafikkontroll-vasterbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-18.32-trafikolycka-vilt-vasterbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-18.26-trafikolycka-vilt-norrbottens-lan/",
@@ -1006,8 +1009,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-14.52-arbetsplatsolycka-lund/",
   "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-16.03-brand-malmo/",
   "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-16.06-stoldinbrott-ostersund/",
-  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-17.16-stold-umea/",
-  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-17.58-trafikolycka-orebro/"
+  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-17.16-stold-umea/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1024,12 +1026,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795455526.4281936,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795455546.9089012,
-  "https://www.bt.se/rss": 1795457411.542998,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795457414.081443,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795457414.5930715,
-  "https://vallentunanya.se/": 1795457414.6136975,
-  "https://elfsborg.se/feed/": 1795457415.0339298,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795457416.1651766
+  "https://www.bt.se/rss": 1795457718.200196,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795457721.4829898,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795457723.9078536,
+  "https://vallentunanya.se/": 1795457723.9299026,
+  "https://elfsborg.se/feed/": 1795457724.4105797,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795457725.4046042
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/efter-omrostningen--har-ar-namnet-pa-nya-motesplatsen-i-ballstaberg-6.3.396877.3b443a8432",
