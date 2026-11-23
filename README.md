@@ -12,6 +12,6 @@ Ett nytt flöde postar sina 3 senaste inlägg vid första körningen, resten rä
 
 Valfritt per flöde: `"interval": 60` (minuter mellan kontroller) och `"interval_sunday": 10` (söndagar). Utan dessa kontrolleras flödet varje varv (var 5:e minut).
 
-Filtrering: `"keywords": ["vallentuna", …]` postar bara poster där något ord finns i rubrik/ingress/länk. Sidor utan RSS: `"link_pattern": "/[a-z]+/[a-z0-9-]+/\\d+"` läser artikellänkar från sidan och hämtar rubrik/ingress/bild från artikelns og-taggar.
+Filtrering: `"keywords": ["vallentuna", …]` postar bara poster där något ord finns i rubrik/ingress/länk. Sidor utan RSS: `"link_pattern": "/[a-z]+/[a-z0-9-]+/\\d+"` läser artikellänkar från sidan och hämtar rubrik/ingress/bild från artikelns og-taggar. `"exclude": ["regex", …]` tar bort poster där rubrik + " | " + ingress matchar.
 
 Profilbild: `"avatar": "avatars/namn.png"` (fil i repot) eller en full URL.

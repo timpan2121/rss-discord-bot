@@ -60,6 +60,10 @@ def enrich(item):
     m = re.search(r'"datePublished"\s*:\s*"([^"]+)"|property="article:published_time"[^>]+content="([^"]+)"', page)
     item["date"] = (m.group(1) or m.group(2)) if m else datetime.datetime.now(datetime.timezone.utc).isoformat()
 
+def excluded(item, patterns):
+    t = item["title"] + " | " + clean(item["summary"])
+    return any(re.search(p, t, re.I) for p in patterns or [])
+
 def matches(item, keywords):
     if not keywords: return True
     t = " ".join([item["title"], item["summary"], item["link"]]).lower()
@@ -119,7 +123,7 @@ def main():
         try:
             data = fetch(f["url"])
             items = parse_html(data, f["url"], f["link_pattern"]) if f.get("link_pattern") else parse(data)
-            items = [i for i in items if matches(i, f.get("keywords"))]
+            items = [i for i in items if matches(i, f.get("keywords")) and not excluded(i, f.get("exclude"))]
         except Exception as e:
             print(f"[{f['name']}] kunde inte hämta: {e}"); continue
         old = seen.get(f["url"])

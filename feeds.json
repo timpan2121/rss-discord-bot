@@ -33,7 +33,11 @@
     "webhook_secret": "WEBHOOK_POLISEN",
     "label": "🚨 POLISEN",
     "color": "#f0b400",
-    "avatar": "avatars/polisen.png"
+    "avatar": "avatars/polisen.png",
+    "exclude": [
+      "Övrigt,[^|]*\\|.*presstalesperson",
+      "ingen presstalesperson"
+    ]
   },
   {
     "name": "Mitti Vallentuna",
