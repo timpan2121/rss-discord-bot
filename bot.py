@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """RSS -> Discord. Ett flöde per kanal via webhooks. Läser feeds.json, sparar sedda i seen.json."""
 from zoneinfo import ZoneInfo
-import email.utils, datetime, json, os, time, html, re, urllib.request, urllib.error
+import email.utils, datetime, json, os, time, html, re, urllib.request, urllib.error, urllib.parse
 import xml.etree.ElementTree as ET
 
 UA = "Mozilla/5.0 (X11; Linux x86_64) rss-discord-bot"
@@ -32,11 +32,37 @@ def parse(data):
     items = []
     for it in root.iter("item"):
         items.append({"id": text(it, "guid", "link", "title"), "title": text(it, "title"),
-                      "link": text(it, "link"), "summary": text(it, "description"), "date": text(it, "pubDate", "{http://purl.org/dc/elements/1.1/}date")})
+                      "link": text(it, "link"), "summary": text(it, "description"), "date": text(it, "pubDate", "{http://purl.org/dc/elements/1.1/}date"),
+                      "image": next((m.get("url") for m in list(it.iter("{http://search.yahoo.com/mrss/}content")) + list(it.iter("enclosure")) if (m.get("type") or "image").startswith("image")), "")})
     for it in root.iter(A + "entry"):
         items.append({"id": text(it, A + "id", A + "link"), "title": text(it, A + "title"),
                       "link": text(it, A + "link"), "summary": text(it, A + "summary", A + "content"), "date": text(it, A + "published", A + "updated")})
     return items
+
+def parse_html(data, base, pattern):
+    """Sidor utan RSS: plocka artikellänkar som matchar pattern, i sidordning."""
+    items, done = [], set()
+    for m in re.finditer(r'href="(' + pattern + ')"', data.decode("utf-8", "replace"), re.I):
+        link = urllib.parse.urljoin(base, m.group(1))
+        if link not in done:
+            done.add(link); items.append({"id": link, "link": link, "title": "", "summary": "", "date": "", "image": "", "html": True})
+    num = lambda i: int(m.group(1)) if (m := re.search(r"(\d+)\D*$", i["link"])) else 0
+    return sorted(items, key=num, reverse=True)
+
+def enrich(item):
+    """Hämta rubrik/ingress/bild från artikelns og-taggar."""
+    page = fetch(item["link"]).decode("utf-8", "replace")
+    def og(k):
+        m = re.search(r'<meta[^>]+property="og:' + k + r'"[^>]+content="([^"]*)"', page)
+        return html.unescape(m.group(1)) if m else ""
+    item.update(title=og("title"), summary=og("description"), image=og("image"))
+    m = re.search(r'"datePublished"\s*:\s*"([^"]+)"|property="article:published_time"[^>]+content="([^"]+)"', page)
+    item["date"] = (m.group(1) or m.group(2)) if m else datetime.datetime.now(datetime.timezone.utc).isoformat()
+
+def matches(item, keywords):
+    if not keywords: return True
+    t = " ".join([item["title"], item["summary"], item["link"]]).lower()
+    return any(k.lower() in t for k in keywords)
 
 def clean(s, n=4000):
     s = re.sub(r"(?i)<br\s*/?>|</p>|</div>|</li>", "\n", s or "")
@@ -61,6 +87,7 @@ def post(webhook, feed_name, item, color=None, label=None):
     if ts: embed["timestamp"] = ts
     if label: embed["author"] = {"name": label}
     if item["link"]: embed["url"] = item["link"]
+    if item.get("image"): embed["thumbnail"] = {"url": item["image"]}
     body = json.dumps({"username": feed_name, "embeds": [embed]}).encode()
     req = urllib.request.Request(webhook, data=body, headers={"Content-Type": "application/json", "User-Agent": UA})
     for _ in range(3):
@@ -85,7 +112,9 @@ def main():
         if not hook:
             print(f"[{f['name']}] saknar secret {f['webhook_secret']}, hoppar över"); continue
         try:
-            items = parse(fetch(f["url"]))
+            data = fetch(f["url"])
+            items = parse_html(data, f["url"], f["link_pattern"]) if f.get("link_pattern") else parse(data)
+            items = [i for i in items if matches(i, f.get("keywords"))]
         except Exception as e:
             print(f"[{f['name']}] kunde inte hämta: {e}"); continue
         old = seen.get(f["url"])
@@ -95,6 +124,7 @@ def main():
         new = [i for i in items if i["id"] not in old][:MAX_PER_RUN]
         for i in reversed(new):
             try:
+                if i.get("html"): enrich(i)
                 post(hook, f["name"], i, f.get("color"), f.get("label"))
             except Exception as e:
                 print(f"[{f['name']}] post misslyckades: {e}"); break

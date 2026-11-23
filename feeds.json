@@ -30,5 +30,40 @@
     "webhook_secret": "WEBHOOK_POLISEN",
     "label": "🚨 POLISEN",
     "color": "#f0b400"
+  },
+  {
+    "name": "Mitti Vallentuna",
+    "label": "📍 MITTI VALLENTUNA",
+    "color": "#e4007c",
+    "url": "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c",
+    "webhook_secret": "WEBHOOK_VALLENTUNA",
+    "keywords": [
+      "vallentuna",
+      "kårsta",
+      "brottby",
+      "lindholmen",
+      "karby",
+      "bällsta",
+      "ormsta",
+      "kristineberg",
+      "rosendal",
+      "västlunda",
+      "angarn",
+      "frösunda",
+      "össeby",
+      "markim",
+      "orkesta",
+      "kragsta",
+      "molnby",
+      "vallentunasjön"
+    ]
+  },
+  {
+    "name": "Vallentuna Nya",
+    "label": "🗞️ VALLENTUNA NYA",
+    "color": "#2da44e",
+    "url": "https://vallentunanya.se/",
+    "webhook_secret": "WEBHOOK_VALLENTUNA",
+    "link_pattern": "/[a-z]+/[a-z0-9-]+/\\d+"
   }
 ]
