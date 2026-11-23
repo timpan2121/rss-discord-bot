@@ -6,7 +6,8 @@
     "label": "🚓 EUROCOP",
     "color": "#1f6feb",
     "interval": 60,
-    "interval_sunday": 10
+    "interval_sunday": 10,
+    "avatar": "avatars/eurocop.png"
   },
   {
     "name": "LUNARCOP",
@@ -15,21 +16,24 @@
     "url": "http://eurocop.nu/medlem/lunarcoprss.xml",
     "webhook_secret": "WEBHOOK_EUROCOP",
     "interval": 60,
-    "interval_sunday": 10
+    "interval_sunday": 10,
+    "avatar": "avatars/lunarcop.png"
   },
   {
     "name": "Borås Tidning",
     "url": "https://www.bt.se/rss",
     "webhook_secret": "WEBHOOK_BT",
     "label": "📰 BORÅS TIDNING",
-    "color": "#d1242f"
+    "color": "#d1242f",
+    "avatar": "https://www.google.com/s2/favicons?domain=bt.se&sz=256"
   },
   {
     "name": "Polisen",
     "url": "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/",
     "webhook_secret": "WEBHOOK_POLISEN",
     "label": "🚨 POLISEN",
-    "color": "#f0b400"
+    "color": "#f0b400",
+    "avatar": "avatars/polisen.png"
   },
   {
     "name": "Mitti Vallentuna",
@@ -56,7 +60,8 @@
       "kragsta",
       "molnby",
       "vallentunasjön"
-    ]
+    ],
+    "avatar": "avatars/mitti.png"
   },
   {
     "name": "Vallentuna Nya",
@@ -64,6 +69,7 @@
     "color": "#2da44e",
     "url": "https://vallentunanya.se/",
     "webhook_secret": "WEBHOOK_VALLENTUNA",
-    "link_pattern": "/[a-z]+/[a-z0-9-]+/\\d+"
+    "link_pattern": "/[a-z]+/[a-z0-9-]+/\\d+",
+    "avatar": "avatars/vallentunanya.png"
   }
 ]

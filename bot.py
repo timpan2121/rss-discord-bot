@@ -7,6 +7,7 @@ import xml.etree.ElementTree as ET
 UA = "Mozilla/5.0 (X11; Linux x86_64) rss-discord-bot"
 MAX_PER_RUN = 10
 KEEP = 500
+RAW = "https://raw.githubusercontent.com/" + os.environ.get("GITHUB_REPOSITORY", "timpan2121/rss-discord-bot") + "/main/"
 
 def fetch(url):
     req = urllib.request.Request(url, headers={"User-Agent": UA})
@@ -80,7 +81,7 @@ def iso(d):
     if t.tzinfo is None: t = t.replace(tzinfo=datetime.timezone.utc)
     return t.astimezone(datetime.timezone.utc).isoformat()
 
-def post(webhook, feed_name, item, color=None, label=None):
+def post(webhook, feed_name, item, color=None, label=None, avatar=None):
     embed = {"title": clean(item["title"], 250) or "(utan rubrik)", "description": clean(item["summary"])}
     if color: embed["color"] = int(color.lstrip("#"), 16)
     ts = iso(item.get("date"))
@@ -88,7 +89,11 @@ def post(webhook, feed_name, item, color=None, label=None):
     if label: embed["author"] = {"name": label}
     if item["link"]: embed["url"] = item["link"]
     if item.get("image"): embed["thumbnail"] = {"url": item["image"]}
-    body = json.dumps({"username": feed_name, "embeds": [embed]}).encode()
+    msg = {"username": feed_name, "embeds": [embed]}
+    if avatar:
+        msg["avatar_url"] = avatar if avatar.startswith("http") else RAW + avatar
+        embed["author"] = dict(embed.get("author") or {"name": feed_name}, icon_url=msg["avatar_url"])
+    body = json.dumps(msg).encode()
     req = urllib.request.Request(webhook, data=body, headers={"Content-Type": "application/json", "User-Agent": UA})
     for _ in range(3):
         try:
@@ -125,7 +130,7 @@ def main():
         for i in reversed(new):
             try:
                 if i.get("html"): enrich(i)
-                post(hook, f["name"], i, f.get("color"), f.get("label"))
+                post(hook, f["name"], i, f.get("color"), f.get("label"), f.get("avatar"))
             except Exception as e:
                 print(f"[{f['name']}] post misslyckades: {e}"); break
             old.insert(0, i["id"]); time.sleep(1)
