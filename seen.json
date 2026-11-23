@@ -492,6 +492,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-14.00-olovlig-korning-nordmaling/",
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-13.46-stold-lulea/",
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-14.16-trafikolycka-habo/",
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-14.22-trafikolycka-tierp/",
@@ -990,8 +991,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-09.41-misshandel-umea/",
   "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-11.46-trafikolycka-karlstad/",
   "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-10.51-narkotikabrott-karlskoga/",
-  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-05.21-inbrott-botkyrka/",
-  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-10.32-rattfylleri-falun/"
+  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-05.21-inbrott-botkyrka/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1008,12 +1008,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795444423.7697098,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795444429.5955431,
-  "https://www.bt.se/rss": 1795445043.0335667,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795445043.7197032,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795445045.7613897,
-  "https://vallentunanya.se/": 1795445045.8685896,
-  "https://elfsborg.se/feed/": 1795445046.411695,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795445047.498461
+  "https://www.bt.se/rss": 1795445349.1697035,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795445350.0869277,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795445352.126723,
+  "https://vallentunanya.se/": 1795445352.3729064,
+  "https://elfsborg.se/feed/": 1795445352.936931,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795445353.9746542
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/slog-och-sparkade-liggande-anhorig--far-fangelse-6.3.394352.5f5541a620",
