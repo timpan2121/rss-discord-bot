@@ -456,6 +456,7 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-06.35-trafikolycka-vimmerby/",
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-06.29-misshandel-malmo/",
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-06.17-misshandel-hassleholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/22/22-november-15.00-ovrigt-hallands-lan/",
@@ -954,8 +955,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-08.16-trafikolycka-harnosand/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-07.38-trafikolycka-skurup/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-21.13-brand-borgholm/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-20.03-trafikolycka-staffanstorp/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-18.55-trafikolycka-malmo/"
+  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-20.03-trafikolycka-staffanstorp/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -972,7 +972,51 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795410064.4936864,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795410369.6912317,
-  "https://www.bt.se/rss": 1795412795.4456322,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795412798.97577
- }
+  "https://www.bt.se/rss": 1795413096.9487631,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795413097.8239145,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795413099.9604828,
+  "https://vallentunanya.se/": 1795413104.7696323
+ },
+ "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
+  "https://www.mitti.se/nyheter/slog-och-sparkade-liggande-anhorig--far-fangelse-6.3.394352.5f5541a620",
+  "https://www.mitti.se/nyheter/nytt-kommunstyre--efter-tva-manader-6.3.396104.c00a608479",
+  "https://www.mitti.se/nyheter/julstamning-med-marknad-och-tomtebesok-6.3.396892.f61227e7bd",
+  "https://www.mitti.se/nyheter/vallentunas-tom-waits-tillbaka-pa-hemmascenen-6.3.395513.6a280d114b",
+  "https://www.mitti.se/nyheter/karlslundsskolan-far-helt-ny-idrottshall-6.3.395487.d039035aae",
+  "https://www.mitti.se/nyheter/butiksinbrott-i-barkarby-slutade-i-biljakt-och-krasch-6.3.396752.46afe5096f",
+  "https://www.mitti.se/nyheter/regionradets-besked-om-safiren-inga-barn-ska-flyttas-6.3.397090.074d8eef72",
+  "https://www.mitti.se/nyheter/sandra-rudeberg-lamnar-s--blir-vilde-6.3.397092.879bd28ac0",
+  "https://www.mitti.se/nyheter/vallentuna-gymnasium-firar-40-ar-vi-har-en-valdigt-karleksfull-skola-6.3.396117.eb65f8ad16"
+ ],
+ "https://vallentunanya.se/": [
+  "https://vallentunanya.se/nyheter/vandningen-safiren-faar-fortsatta/5214",
+  "https://vallentunanya.se/nyheter/premiar-for-viltveckan-i-vallentuna/5213",
+  "https://vallentunanya.se/nyheter/planerna-paa-bostader-i-centrum-fortsatter/5212",
+  "https://vallentunanya.se/nyheter/extra-maanga-unga-testar-foretagarlivet/5211",
+  "https://vallentunanya.se/nyheter/rekordmaanga-bostadsratter-saalda-i-vallentuna/5210",
+  "https://vallentunanya.se/nyheter/taagstopp-i-kaarsta-paa-lordag/5209",
+  "https://vallentunanya.se/nyheter/regionen-vill-ta-bort-jarnvagskorsningen/5208",
+  "https://vallentunanya.se/nyheter/aatal-vacker-fraagor-om-barns-skydd-mot-pedofiler/5207",
+  "https://vallentunanya.se/noje/har-vallentuna-traktens-basta-sill/5206",
+  "https://vallentunanya.se/nyheter/sandra-rudeberg-lamnar-s-blir-politisk-vilde/5205",
+  "https://vallentunanya.se/nyheter/har-ar-julverkstaden-i-full-gaang/5204",
+  "https://vallentunanya.se/sport/frida-har-hittat-tillbaka-till-gladjen/5203",
+  "https://vallentunanya.se/sport/rasmus-stannade-och-tog-sm-plats/5202",
+  "https://vallentunanya.se/reportage/varldsmusikern-som-landar-i-vallentuna/5201",
+  "https://vallentunanya.se/sport/vinst-mot-ett-av-topplagen-och-vallentuna-besegrade-serieledarna/5200",
+  "https://vallentunanya.se/kronika/nar-jag-slutade-bara-andras-sorg/5199",
+  "https://vallentunanya.se/kronika/nar-tro-moter-rattigheter/5198",
+  "https://vallentunanya.se/recept/ny-tavling/5197",
+  "https://vallentunanya.se/reportage/slaktspaaren-ledde-vaninnorna-samman/5196",
+  "https://vallentunanya.se/nyheter/julgranarna-paa-plats-till-forsta-advent/5195",
+  "https://vallentunanya.se/nyheter/vallentuna-vill-gora-om-valdistrikten/5194",
+  "https://vallentunanya.se/noje/hyllade-showen-aatervander-till-vallentuna-teater/5193",
+  "https://vallentunanya.se/reportage/nisse-lamnade-skolan-men-inte-fotbollsplanen/5192",
+  "https://vallentunanya.se/nyheter/ray-idermark-fortsatter-leda-fullmaktige/5191",
+  "https://vallentunanya.se/nyheter/har-ar-styret-kommande-mandatperioden/5190",
+  "https://vallentunanya.se/nyheter/det-ar-alltid-laskigt-att-gaa-ut-med-barnvagnen/5189",
+  "https://vallentunanya.se/nyheter/saa-ser-planerna-ut-for-vasbyvagen/5188",
+  "https://vallentunanya.se/sport/coach-kilen-nojer-sig-inte-med-lyftet/5187",
+  "https://vallentunanya.se/sport/ny-sportchef-utan-stora-plaanboken/5186"
+ ]
 }
