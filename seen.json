@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "b070c542-f696-414e-ad27-89c7d0a10621",
   "b19a1e23-7d79-4da7-b6d3-8b7052b79e93",
   "5420c625-3bd4-4f6b-a756-ea07df1b48d7",
   "2993354a-1cb4-4c79-b0c9-988c8bc7e16d",
@@ -1026,12 +1027,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795455526.4281936,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795455546.9089012,
-  "https://www.bt.se/rss": 1795458336.1804037,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795458336.7984602,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795458339.6512792,
-  "https://vallentunanya.se/": 1795458339.6739597,
-  "https://elfsborg.se/feed/": 1795458340.1600733,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795458340.9134145
+  "https://www.bt.se/rss": 1795458643.1523082,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795458645.190585,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795458645.70006,
+  "https://vallentunanya.se/": 1795458645.7756262,
+  "https://elfsborg.se/feed/": 1795458646.1904964,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795458647.0070858
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/efter-omrostningen--har-ar-namnet-pa-nya-motesplatsen-i-ballstaberg-6.3.396877.3b443a8432",
