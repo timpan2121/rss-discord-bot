@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "54d70205-f511-4bc6-8ac2-cdfca9e56232",
   "171644d1-0db9-4f23-b1b2-373698b0293c",
   "068bdf8f-5e15-493d-a171-5d48574a6f3b",
   "639defcd-1478-4dd2-a5e6-52dbf5625a75",
@@ -1012,12 +1013,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795448103.537611,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795448114.3674834,
-  "https://www.bt.se/rss": 1795448737.1912677,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795448737.8950381,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795448740.5268505,
-  "https://vallentunanya.se/": 1795448740.6341844,
-  "https://elfsborg.se/feed/": 1795448741.1716995,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795448742.2211542
+  "https://www.bt.se/rss": 1795449043.9258668,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795449045.7096736,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795449046.517574,
+  "https://vallentunanya.se/": 1795449046.644152,
+  "https://elfsborg.se/feed/": 1795449047.1898324,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795449048.2296486
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/slog-och-sparkade-liggande-anhorig--far-fangelse-6.3.394352.5f5541a620",
