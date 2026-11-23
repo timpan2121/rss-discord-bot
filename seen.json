@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "70d2f0cc-afc9-4f8c-99be-bb72090b8ac8",
   "3c7707d5-7fb2-43cb-aa85-2b68f49331c6",
   "985beaf9-c2c8-419e-86b3-dd8df9a50019",
   "20807126-158a-4a05-9dd2-15e844e2a7fc",
@@ -508,8 +509,7 @@
   "ec83395a-4ab2-465d-a1bf-b55e0c2388f5",
   "0fadb908-587d-4b82-933b-6e3ccb72c127",
   "ffeca773-ed38-4ca6-8a8e-4cd43d0b3eb1",
-  "63170486-09d4-4f8e-b28f-def1c43abb24",
-  "6d228e10-6648-4be4-8d9b-8889acc0dda3"
+  "63170486-09d4-4f8e-b28f-def1c43abb24"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-20.31-trafikolycka-emmaboda/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795462914.7498326,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795462915.258013,
-  "https://www.bt.se/rss": 1795462915.4575162,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795462916.0421147,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795462917.6700401,
-  "https://vallentunanya.se/": 1795462917.6958764,
-  "https://elfsborg.se/feed/": 1795462918.1848228,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795462919.083548
+  "https://www.bt.se/rss": 1795463220.4462748,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795463222.9031332,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795463223.4116037,
+  "https://vallentunanya.se/": 1795463223.4361732,
+  "https://elfsborg.se/feed/": 1795463223.8441913,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795463224.8438323
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/efter-omrostningen--har-ar-namnet-pa-nya-motesplatsen-i-ballstaberg-6.3.396877.3b443a8432",
