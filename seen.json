@@ -500,6 +500,11 @@
   "25176add-1b6a-4018-b3cd-1e13a8e67a26"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-15.02-bedrageri-stockholm/",
+  "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-12.58-inbrott-sodertalje/",
+  "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-13.37-trafikolycka-personskada-botkyrka/",
+  "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-14.06-valdhot-mot-tjansteman-stockholm/",
+  "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-13.25-narkotikabrott-stockholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-17.02-trafikolycka-odeshog/",
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-11.06-arbetsplatsolycka-ostersund/",
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-17.00-trafikolycka-vilt-linkoping/",
@@ -994,12 +999,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-21.48-ovrigt-vastra-gotalands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-21.48-ovrigt-hallands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-20.23-brand-hassleholm/",
-  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-20.59-trafikbrott-malmo/",
-  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-21.31-trafikkontroll-vasternorrlands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-17.26-rattfylleri-botkyrka/",
-  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-16.59-trafikolycka-personskada-upplands-vasby/",
-  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-20.21-trafikolycka-umea/",
-  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-20.18-stold-angelholm/"
+  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-20.59-trafikbrott-malmo/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1016,12 +1016,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795451802.430486,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795451821.95909,
-  "https://www.bt.se/rss": 1795452144.7254431,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795452145.5082173,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795452146.2192717,
-  "https://vallentunanya.se/": 1795452146.366981,
-  "https://elfsborg.se/feed/": 1795452146.9115498,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795452147.960962
+  "https://www.bt.se/rss": 1795452449.6991417,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795452450.7123318,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795452467.5919724,
+  "https://vallentunanya.se/": 1795452467.7743716,
+  "https://elfsborg.se/feed/": 1795452468.3073423,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795452469.273549
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/slog-och-sparkade-liggande-anhorig--far-fangelse-6.3.394352.5f5541a620",
