@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "f791c64d-bf81-43ae-a60e-f7646a0f309c",
   "69aceec6-6688-48b0-948c-ba4fdd1260ec",
   "b9f5fb37-93f2-4aa0-96f8-d2f4e619f718",
   "8abcdc22-7c30-462a-b423-047569aabe0b",
@@ -508,8 +509,7 @@
   "a0ef2a13-7097-43c6-b24d-92278de65780",
   "1c7b6a53-7594-4892-9223-21e7880dd407",
   "4ff464bc-c527-4085-87f2-2132e85f5443",
-  "da9d29a9-2d3e-4549-85bb-df9a21fc86ae",
-  "b272a967-d16c-490e-984f-50d2cf5dad03"
+  "da9d29a9-2d3e-4549-85bb-df9a21fc86ae"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-20.38-trafikolycka-vilt-vasternorrlands-lan/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795551803.0125709,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795551808.6924758,
-  "https://www.bt.se/rss": 1795552119.0587482,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795552119.940035,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795552120.6158895,
-  "https://vallentunanya.se/": 1795552120.8333652,
-  "https://elfsborg.se/feed/": 1795552121.3565032,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795552122.344499
+  "https://www.bt.se/rss": 1795552423.8765821,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795552425.8560512,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795552426.5555599,
+  "https://vallentunanya.se/": 1795552426.7974315,
+  "https://elfsborg.se/feed/": 1795552427.212754,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795552428.1183307
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/langtidsarbetslosheten-okar-i-vallentuna-6.3.396974.6a2764d1f9",
