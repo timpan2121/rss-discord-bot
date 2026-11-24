@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "5bba2a68-40db-470a-af8e-be531dc3f787",
   "ee663278-f83c-43c7-8f7a-22efc9611af4",
   "885e609f-db2e-45cb-b4c6-1efbf534ebc6",
   "3b9bb5e9-b1da-459d-9afa-a6cfff8197de",
@@ -508,8 +509,7 @@
   "1f982d14-b09d-4e1b-a938-9542cfee3f4b",
   "4526a12a-8c10-4034-bd53-415eea531d14",
   "2b76c8f1-3e2a-461c-aeb7-1f454dc026bd",
-  "19279f68-0ec6-4543-8d21-681442854281",
-  "9f75b8e3-597e-4f06-b1b0-709d7d99c4c8"
+  "19279f68-0ec6-4543-8d21-681442854281"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-19.41-bedrageri-taby/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795507203.1716115,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795507214.2522128,
-  "https://www.bt.se/rss": 1795509051.3596008,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795509053.3541174,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795509054.310828,
-  "https://vallentunanya.se/": 1795509054.3724918,
-  "https://elfsborg.se/feed/": 1795509055.0575523,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795509056.264395
+  "https://www.bt.se/rss": 1795509359.104019,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795509361.0567641,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795509361.8703496,
+  "https://vallentunanya.se/": 1795509361.9527855,
+  "https://elfsborg.se/feed/": 1795509363.0376754,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795509364.2962627
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/minns-tuff-jul--nu-skanker-emil-kott-till-behovande-6.3.398188.e4bd034736",
