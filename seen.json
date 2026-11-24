@@ -10,6 +10,8 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "65f69eb6-076b-4ed6-98b3-06cea609a492",
+  "6c9adaaa-b207-4082-bea3-13133da40dbb",
   "699247eb-da39-49e7-885b-a3b78d9cb31a",
   "c2a0a1bd-a73f-45a2-89fd-3b9e90e432c6",
   "f5aaed99-b53f-4755-bc7a-45363731f409",
@@ -507,9 +509,7 @@
   "7e173c76-728e-45a3-b338-0e2e293dae1c",
   "7f7488b8-ac26-41ab-ba22-1b6f8cb41fe1",
   "0a748e37-49a7-40f9-9e26-120fda5268d9",
-  "c103d82c-7524-4d7b-8c7e-698ab2509c4b",
-  "f3d7b70b-0ee3-4dd1-bc34-7ba0cf885f31",
-  "f8a877b2-273b-4de7-a62a-baf18365b656"
+  "c103d82c-7524-4d7b-8c7e-698ab2509c4b"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-11.58-trafikbrott-lulea/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795518346.7877982,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795518377.452156,
-  "https://www.bt.se/rss": 1795520519.1423204,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795520520.0023189,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795520523.3322177,
-  "https://vallentunanya.se/": 1795520523.43922,
-  "https://elfsborg.se/feed/": 1795520524.174362,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795520525.3299656
+  "https://www.bt.se/rss": 1795520827.5684824,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795520830.925905,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795520832.0708091,
+  "https://vallentunanya.se/": 1795520832.1412883,
+  "https://elfsborg.se/feed/": 1795520832.8616002,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795520834.0783894
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/minns-tuff-jul--nu-skanker-emil-kott-till-behovande-6.3.398188.e4bd034736",
