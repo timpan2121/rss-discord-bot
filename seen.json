@@ -512,6 +512,7 @@
   "19279f68-0ec6-4543-8d21-681442854281"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-07.47-trafikolycka-linkoping/",
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-19.41-bedrageri-taby/",
   "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-07.40-sammanfattning-natt-sodermanlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-07.40-sammanfattning-natt-ostergotlands-lan/",
@@ -1010,8 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-03.00-forsvunnen-person-hudiksvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-22.30-olaga-hot-stockholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-22.43-misshandel-sodertalje/",
-  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-00.12-rattfylleri-emmaboda/",
-  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-22.04-brand-malmo/"
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-00.12-rattfylleri-emmaboda/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795510888.607966,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795510909.6229663,
-  "https://www.bt.se/rss": 1795512153.55991,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795512154.4626324,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795512155.3300707,
-  "https://vallentunanya.se/": 1795512155.407205,
-  "https://elfsborg.se/feed/": 1795512156.012623,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795512157.323614
+  "https://www.bt.se/rss": 1795512459.2372234,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795512460.0871956,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795512462.3872707,
+  "https://vallentunanya.se/": 1795512462.4542463,
+  "https://elfsborg.se/feed/": 1795512463.2048457,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795512464.4624841
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/minns-tuff-jul--nu-skanker-emil-kott-till-behovande-6.3.398188.e4bd034736",
