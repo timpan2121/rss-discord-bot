@@ -512,6 +512,7 @@
   "0a748e37-49a7-40f9-9e26-120fda5268d9"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-13.17-trafikkontroll-bjurholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-09.18-inbrott-sotenas/",
   "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-11.58-trafikbrott-lulea/",
   "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-07.49-rattfylleri-lulea/",
@@ -1010,8 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-15.10-fylleri-skelleftea/",
   "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-15.03-stold-jonkoping/",
   "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-09.33-vapenlagen-kungsbacka/",
-  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-13.39-rattfylleri-arvika/",
-  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-13.27-rattfylleri-hammaro/"
+  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-13.39-rattfylleri-arvika/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795522055.0123465,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795522084.4559984,
-  "https://www.bt.se/rss": 1795522718.9480247,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795522719.7549672,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795522720.5713189,
-  "https://vallentunanya.se/": 1795522720.69286,
-  "https://elfsborg.se/feed/": 1795522721.3110929,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795522722.5255373
+  "https://www.bt.se/rss": 1795523024.283382,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795523025.0827105,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795523027.2385545,
+  "https://vallentunanya.se/": 1795523027.340159,
+  "https://elfsborg.se/feed/": 1795523028.0079443,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795523029.2235296
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/langtidsarbetslosheten-okar-i-vallentuna-6.3.396974.6a2764d1f9",
