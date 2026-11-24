@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "61c6b435-93fc-417c-9d16-591307d79254",
   "0226cd6e-ad43-4437-82ef-85f0f48e02df",
   "8210b889-2478-4b46-bbbd-bf38ff6747d5",
   "6cefc6d7-b2cc-49a5-81a0-57cbfb41eca5",
@@ -508,8 +509,7 @@
   "900d3f59-3cdc-4d82-a65e-0259ceb65f09",
   "d4826864-77b8-46c6-92ac-1007d1424a64",
   "9148d67e-4e6b-4e39-8d3c-1541256e98ab",
-  "3ff64503-a856-47f7-a0ac-28b501c75765",
-  "9030273f-bc6a-4311-a941-25326957c0ff"
+  "3ff64503-a856-47f7-a0ac-28b501c75765"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-19.40-misshandel-boden/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795492345.4015052,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795492350.9762063,
-  "https://www.bt.se/rss": 1795494494.3570595,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795494495.059062,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795494496.2862391,
-  "https://vallentunanya.se/": 1795494496.5337214,
-  "https://elfsborg.se/feed/": 1795494497.077244,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795494498.3247216
+  "https://www.bt.se/rss": 1795494800.188726,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795494802.436914,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795494803.162153,
+  "https://vallentunanya.se/": 1795494803.3710244,
+  "https://elfsborg.se/feed/": 1795494804.1231227,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795494805.180457
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/efter-omrostningen--har-ar-namnet-pa-nya-motesplatsen-i-ballstaberg-6.3.396877.3b443a8432",
