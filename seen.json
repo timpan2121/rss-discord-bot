@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "2f1ea942-d4ac-434e-a672-f49b9ea95322",
   "f791c64d-bf81-43ae-a60e-f7646a0f309c",
   "69aceec6-6688-48b0-948c-ba4fdd1260ec",
   "b9f5fb37-93f2-4aa0-96f8-d2f4e619f718",
@@ -508,8 +509,7 @@
   "24d82e79-8a83-42c4-94b5-8ff5b76168d6",
   "a0ef2a13-7097-43c6-b24d-92278de65780",
   "1c7b6a53-7594-4892-9223-21e7880dd407",
-  "4ff464bc-c527-4085-87f2-2132e85f5443",
-  "da9d29a9-2d3e-4549-85bb-df9a21fc86ae"
+  "4ff464bc-c527-4085-87f2-2132e85f5443"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-21.19-trafikolycka-personskada-karlskoga/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795551803.0125709,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795551808.6924758,
-  "https://www.bt.se/rss": 1795552729.6465223,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795552730.3063452,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795552732.0794132,
-  "https://vallentunanya.se/": 1795552732.2564473,
-  "https://elfsborg.se/feed/": 1795552732.8463366,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795552733.772219
+  "https://www.bt.se/rss": 1795553035.7709203,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795553037.834633,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795553038.9016762,
+  "https://vallentunanya.se/": 1795553039.1103196,
+  "https://elfsborg.se/feed/": 1795553039.600274,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795553040.5152297
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/langtidsarbetslosheten-okar-i-vallentuna-6.3.396974.6a2764d1f9",
