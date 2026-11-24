@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "6779dc9d-1fab-467f-b831-44ee3b0c5beb",
   "ea8a7aab-8088-4dc9-98dd-c5d2bf79797d",
   "65f69eb6-076b-4ed6-98b3-06cea609a492",
   "6c9adaaa-b207-4082-bea3-13133da40dbb",
@@ -508,8 +509,7 @@
   "c1f1d7f8-5f79-4176-b89f-e22766354aef",
   "7e254456-7fb6-4101-88c2-f1be0f0e57c5",
   "7e173c76-728e-45a3-b338-0e2e293dae1c",
-  "7f7488b8-ac26-41ab-ba22-1b6f8cb41fe1",
-  "0a748e37-49a7-40f9-9e26-120fda5268d9"
+  "7f7488b8-ac26-41ab-ba22-1b6f8cb41fe1"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-13.17-trafikkontroll-bjurholm/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795522055.0123465,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795522084.4559984,
-  "https://www.bt.se/rss": 1795523331.1398983,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795523331.989289,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795523332.9662013,
-  "https://vallentunanya.se/": 1795523333.06285,
-  "https://elfsborg.se/feed/": 1795523333.7189279,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795523335.1763315
+  "https://www.bt.se/rss": 1795523636.9983485,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795523639.6354952,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795523640.4643805,
+  "https://vallentunanya.se/": 1795523640.585596,
+  "https://elfsborg.se/feed/": 1795523641.1970952,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795523642.4573624
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/langtidsarbetslosheten-okar-i-vallentuna-6.3.396974.6a2764d1f9",
