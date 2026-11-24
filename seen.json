@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "2fde228b-b73e-46b9-b1c4-d1b801e7797e",
   "b123f912-5022-4056-a9e0-268bd64b3386",
   "61c6b435-93fc-417c-9d16-591307d79254",
   "0226cd6e-ad43-4437-82ef-85f0f48e02df",
@@ -508,10 +509,13 @@
   "712d4321-60b9-4283-8a0e-99fe20112c78",
   "dc5f2b60-996d-48f0-a1d0-b140bfa321a9",
   "900d3f59-3cdc-4d82-a65e-0259ceb65f09",
-  "d4826864-77b8-46c6-92ac-1007d1424a64",
-  "9148d67e-4e6b-4e39-8d3c-1541256e98ab"
+  "d4826864-77b8-46c6-92ac-1007d1424a64"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-07.00-sammanfattning-natt-vasterbottens-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-07.00-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-07.00-sammanfattning-natt-vasternorrlands-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-07.00-sammanfattning-natt-jamtlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-23.37-rattfylleri-lund/",
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-23.05-narkotikabrott-malmo/",
   "https://polisen.se/aktuellt/handelser/2026/november/23/23-november-19.40-misshandel-boden/",
@@ -1007,11 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-16.51-kontroll-nykoping/",
   "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-16.02-trafikolycka-orebro/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-07.17-sammanfattning-natt-jamtlands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-01.11-stold-stockholm/",
-  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-00.00-rattfylleri-sodertalje/",
-  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-07.00-sammanfattning-natt-orebro-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-07.00-sammanfattning-natt-dalarnas-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-07.00-sammanfattning-natt-varmlands-lan/"
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-01.11-stold-stockholm/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795499751.8598619,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795499767.1831682,
-  "https://www.bt.se/rss": 1795499772.494251,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795499773.4291482,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795499774.557631,
-  "https://vallentunanya.se/": 1795499774.7049804,
-  "https://elfsborg.se/feed/": 1795499775.336924,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795499776.5284383
+  "https://www.bt.se/rss": 1795500078.3120785,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795500081.6451974,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795500093.7754204,
+  "https://vallentunanya.se/": 1795500093.9074767,
+  "https://elfsborg.se/feed/": 1795500094.5965457,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795500095.8057618
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/minns-tuff-jul--nu-skanker-emil-kott-till-behovande-6.3.398188.e4bd034736",
