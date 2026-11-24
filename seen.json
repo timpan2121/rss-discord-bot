@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "ea8a7aab-8088-4dc9-98dd-c5d2bf79797d",
   "65f69eb6-076b-4ed6-98b3-06cea609a492",
   "6c9adaaa-b207-4082-bea3-13133da40dbb",
   "699247eb-da39-49e7-885b-a3b78d9cb31a",
@@ -508,10 +509,10 @@
   "7e254456-7fb6-4101-88c2-f1be0f0e57c5",
   "7e173c76-728e-45a3-b338-0e2e293dae1c",
   "7f7488b8-ac26-41ab-ba22-1b6f8cb41fe1",
-  "0a748e37-49a7-40f9-9e26-120fda5268d9",
-  "c103d82c-7524-4d7b-8c7e-698ab2509c4b"
+  "0a748e37-49a7-40f9-9e26-120fda5268d9"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-09.18-inbrott-sotenas/",
   "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-11.58-trafikbrott-lulea/",
   "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-07.49-rattfylleri-lulea/",
   "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-11.18-trafikkontroll-vasternorrlands-lan/",
@@ -1010,8 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-15.03-stold-jonkoping/",
   "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-09.33-vapenlagen-kungsbacka/",
   "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-13.39-rattfylleri-arvika/",
-  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-13.27-rattfylleri-hammaro/",
-  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-03.00-forsvunnen-person-hudiksvall/"
+  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-13.27-rattfylleri-hammaro/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795518346.7877982,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795518377.452156,
-  "https://www.bt.se/rss": 1795520827.5684824,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795520830.925905,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795520832.0708091,
-  "https://vallentunanya.se/": 1795520832.1412883,
-  "https://elfsborg.se/feed/": 1795520832.8616002,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795520834.0783894
+  "https://www.bt.se/rss": 1795521135.7849927,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795521137.8086407,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795521139.9380496,
+  "https://vallentunanya.se/": 1795521140.2466266,
+  "https://elfsborg.se/feed/": 1795521140.8629413,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795521142.1071267
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/minns-tuff-jul--nu-skanker-emil-kott-till-behovande-6.3.398188.e4bd034736",
