@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "2e7fc968-67cd-4276-8e07-4b320b8a534f",
   "d8a2bec4-de1d-4e76-807b-7ef8d42d64f5",
   "3aa83888-16ac-4cf3-9889-b50903511678",
   "38b5b5be-b1eb-4c03-9111-c36ad21ae350",
@@ -508,10 +509,10 @@
   "6e9e4d26-b394-4a17-8bae-c9edb8463e3d",
   "e3d9a173-5bfb-4acf-8a7a-be0161ac5ad2",
   "346e3f6b-0e19-4e29-9340-1c4f49d07236",
-  "8a162ca6-1752-4a33-9105-13d85a57ec9e",
-  "1df54aa6-ccbd-4abb-8278-0172a7e0e85b"
+  "8a162ca6-1752-4a33-9105-13d85a57ec9e"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-18.26-trafikbrott-mjolby/",
   "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-18.09-trafikolycka-vilt-vasterbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-18.09-trafikolycka-vilt-jamtlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-17.08-misshandel-goteborg/",
@@ -1010,8 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-07.00-sammanfattning-natt-norrbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-07.00-sammanfattning-natt-vastra-gotalands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-07.00-sammanfattning-natt-hallands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-06.55-sammanfattning-natt-vasterbottens-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-01.19-rattfylleri-malmo/"
+  "https://polisen.se/aktuellt/handelser/2026/november/17/17-november-06.55-sammanfattning-natt-vasterbottens-lan/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795540703.7386642,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795540729.3305137,
-  "https://www.bt.se/rss": 1795541055.988366,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795541057.403201,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795541058.0778277,
-  "https://vallentunanya.se/": 1795541058.232651,
-  "https://elfsborg.se/feed/": 1795541058.6781287,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795541059.7067153
+  "https://www.bt.se/rss": 1795541361.361928,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795541363.2152698,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795541365.213027,
+  "https://vallentunanya.se/": 1795541365.372539,
+  "https://elfsborg.se/feed/": 1795541365.9995308,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795541366.9389489
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/langtidsarbetslosheten-okar-i-vallentuna-6.3.396974.6a2764d1f9",
