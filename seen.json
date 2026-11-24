@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "69aceec6-6688-48b0-948c-ba4fdd1260ec",
   "b9f5fb37-93f2-4aa0-96f8-d2f4e619f718",
   "8abcdc22-7c30-462a-b423-047569aabe0b",
   "0603662b-321f-4868-af01-3d4020e1236c",
@@ -508,8 +509,7 @@
   "1c7b6a53-7594-4892-9223-21e7880dd407",
   "4ff464bc-c527-4085-87f2-2132e85f5443",
   "da9d29a9-2d3e-4549-85bb-df9a21fc86ae",
-  "b272a967-d16c-490e-984f-50d2cf5dad03",
-  "af3d7d9e-14ca-4b7a-890c-38e4edd144f7"
+  "b272a967-d16c-490e-984f-50d2cf5dad03"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-10.56-arbetsplatsolycka-vasteras/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795548117.5778034,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795548132.9458678,
-  "https://www.bt.se/rss": 1795548440.3125103,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795548440.999103,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795548441.7072117,
-  "https://vallentunanya.se/": 1795548441.8725433,
-  "https://elfsborg.se/feed/": 1795548442.3123581,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795548443.3419447
+  "https://www.bt.se/rss": 1795548744.8415308,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795548746.7613866,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795548747.3755317,
+  "https://vallentunanya.se/": 1795548747.6454659,
+  "https://elfsborg.se/feed/": 1795548748.1766584,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795548749.0474951
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/langtidsarbetslosheten-okar-i-vallentuna-6.3.396974.6a2764d1f9",
