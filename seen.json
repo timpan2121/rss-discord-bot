@@ -10,6 +10,9 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "53ee1126-be39-4dbf-91a9-d70102d25c1b",
+  "e1331812-c3e3-42d6-9f5c-781173fc9387",
+  "7c0b6883-0577-4dc5-8514-d5c11ca41ccc",
   "4b4e7b60-b836-425d-80b3-751b917f71ee",
   "4a2428f8-daff-46b7-92ee-4879b0f1c9d2",
   "2e7fc968-67cd-4276-8e07-4b320b8a534f",
@@ -506,10 +509,7 @@
   "b55fe80a-bd49-4552-91bb-6fb9b114ddd1",
   "734bff7a-09bc-452b-8534-b606c8c5b525",
   "10937d56-65f3-4324-8d46-e975c2d8f695",
-  "fa6a992a-e725-4c53-8fe2-eb3f8f0de37d",
-  "9ec70196-a3e7-4e58-a5c5-0359b7b71daa",
-  "6e9e4d26-b394-4a17-8bae-c9edb8463e3d",
-  "e3d9a173-5bfb-4acf-8a7a-be0161ac5ad2"
+  "fa6a992a-e725-4c53-8fe2-eb3f8f0de37d"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-18.26-trafikolycka-vilt-umea/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795540703.7386642,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795540729.3305137,
-  "https://www.bt.se/rss": 1795543201.634742,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795543202.4679687,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795543205.0347095,
-  "https://vallentunanya.se/": 1795543205.2346177,
-  "https://elfsborg.se/feed/": 1795543205.766156,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795543206.7710752
+  "https://www.bt.se/rss": 1795543508.4627168,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795543512.8299208,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795543513.5203953,
+  "https://vallentunanya.se/": 1795543513.701258,
+  "https://elfsborg.se/feed/": 1795543514.1382785,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795543515.141528
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/langtidsarbetslosheten-okar-i-vallentuna-6.3.396974.6a2764d1f9",
