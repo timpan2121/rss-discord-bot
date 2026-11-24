@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "4a2428f8-daff-46b7-92ee-4879b0f1c9d2",
   "2e7fc968-67cd-4276-8e07-4b320b8a534f",
   "d8a2bec4-de1d-4e76-807b-7ef8d42d64f5",
   "3aa83888-16ac-4cf3-9889-b50903511678",
@@ -508,8 +509,7 @@
   "9ec70196-a3e7-4e58-a5c5-0359b7b71daa",
   "6e9e4d26-b394-4a17-8bae-c9edb8463e3d",
   "e3d9a173-5bfb-4acf-8a7a-be0161ac5ad2",
-  "346e3f6b-0e19-4e29-9340-1c4f49d07236",
-  "8a162ca6-1752-4a33-9105-13d85a57ec9e"
+  "346e3f6b-0e19-4e29-9340-1c4f49d07236"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-17.47-trafikolycka-stromsund/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795540703.7386642,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795540729.3305137,
-  "https://www.bt.se/rss": 1795541974.7404544,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795541975.4071343,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795541976.0788078,
-  "https://vallentunanya.se/": 1795541976.2567189,
-  "https://elfsborg.se/feed/": 1795541976.6941104,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795541977.690729
+  "https://www.bt.se/rss": 1795542279.312983,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795542283.6650493,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795542284.2440078,
+  "https://vallentunanya.se/": 1795542284.432487,
+  "https://elfsborg.se/feed/": 1795542285.0019472,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795542285.9844863
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/langtidsarbetslosheten-okar-i-vallentuna-6.3.396974.6a2764d1f9",
