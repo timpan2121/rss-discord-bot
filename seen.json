@@ -1026,16 +1026,17 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795518346.7877982,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795518377.452156,
-  "https://www.bt.se/rss": 1795521749.6317282,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795521750.4312406,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795521751.2469718,
-  "https://vallentunanya.se/": 1795521751.4085834,
-  "https://elfsborg.se/feed/": 1795521752.0602522,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795521753.2813241
+  "https://eurocop.nu/rss.xml": 1795522055.0123465,
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795522084.4559984,
+  "https://www.bt.se/rss": 1795522105.277202,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795522106.1175332,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795522107.1905487,
+  "https://vallentunanya.se/": 1795522108.9721098,
+  "https://elfsborg.se/feed/": 1795522109.5795817,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795522110.9349632
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
+  "https://www.mitti.se/nyheter/langtidsarbetslosheten-okar-i-vallentuna-6.3.396974.6a2764d1f9",
   "https://www.mitti.se/nyheter/minns-tuff-jul--nu-skanker-emil-kott-till-behovande-6.3.398188.e4bd034736",
   "https://www.mitti.se/nyheter/vallentuna-samst-i-landet-pa-aldrebostader-6.3.396837.aefd885eb7",
   "https://www.mitti.se/nyheter/efter-omrostningen--har-ar-namnet-pa-nya-motesplatsen-i-ballstaberg-6.3.396877.3b443a8432",
