@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "f73f1776-5bd2-48b3-93b1-eeebdf2d6cf7",
   "41fdec8c-d357-49ba-9510-bab84c162143",
   "6932b630-9ad6-4124-8ccb-b8c311fae102",
   "3dd9a8e3-c86a-4e04-8a75-ae7b0a773ae0",
@@ -508,8 +509,7 @@
   "111f88a4-7987-40ea-839d-26c2e897b2a5",
   "81e3e33a-4caf-44a1-8d32-36c7e81c40c4",
   "990e66e3-1c02-4f6b-9009-6a4261978dde",
-  "f21fe4e6-905b-45a1-8680-7a938a3a668d",
-  "9825d4a4-1928-4eb6-ae4a-f1471fe2af05"
+  "f21fe4e6-905b-45a1-8680-7a938a3a668d"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-14.47-trafikolycka-hagfors/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795529517.4874015,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795529541.6924012,
-  "https://www.bt.se/rss": 1795531714.3557053,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795531715.3035886,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795531716.1379092,
-  "https://vallentunanya.se/": 1795531716.2311208,
-  "https://elfsborg.se/feed/": 1795531716.8762753,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795531718.1434772
+  "https://www.bt.se/rss": 1795532019.9296665,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795532022.262645,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795532023.38616,
+  "https://vallentunanya.se/": 1795532023.5202985,
+  "https://elfsborg.se/feed/": 1795532024.1512995,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795532025.4077754
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/langtidsarbetslosheten-okar-i-vallentuna-6.3.396974.6a2764d1f9",
