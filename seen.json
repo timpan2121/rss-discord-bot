@@ -512,6 +512,7 @@
   "b272a967-d16c-490e-984f-50d2cf5dad03"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-20.38-trafikolycka-vilt-vasternorrlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-10.56-arbetsplatsolycka-vasteras/",
   "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-16.38-trafikbrott-sundsvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-19.21-trafikolycka-uppsala/",
@@ -1010,8 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-14.33-stold-sundsvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-16.44-misshandel-goteborg/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-15.40-arbetsplatsolycka-sigtuna/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-14.21-skadegorelse-vanersborg/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-15.57-trafikolycka-vaxjo/"
+  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-14.21-skadegorelse-vanersborg/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795548117.5778034,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795548132.9458678,
-  "https://www.bt.se/rss": 1795549050.7026157,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795549051.2886224,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795549051.9876294,
-  "https://vallentunanya.se/": 1795549052.249756,
-  "https://elfsborg.se/feed/": 1795549052.8152735,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795549053.8665185
+  "https://www.bt.se/rss": 1795549355.4518957,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795549356.0949523,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795549357.9936512,
+  "https://vallentunanya.se/": 1795549358.214964,
+  "https://elfsborg.se/feed/": 1795549358.732883,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795549359.7571304
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/langtidsarbetslosheten-okar-i-vallentuna-6.3.396974.6a2764d1f9",
