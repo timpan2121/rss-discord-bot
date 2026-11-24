@@ -10,6 +10,11 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "8422be5e-a33b-48cc-99bb-18e1cbbae07d",
+  "3c62d1c8-6394-4315-972c-7aa11be59966",
+  "fc37c1bf-d367-4b9f-9f5c-e4bd57a6bef1",
+  "553746cd-8978-4075-bad6-29af996bc990",
+  "b79cf232-f89a-4b7b-b4c7-b916bb192c89",
   "b7b00d3a-406c-488b-982d-fccbf168dbca",
   "739c7800-c809-40af-b959-bf7640ca6618",
   "84b7c7e3-419d-475f-8a11-425e7b8eb17e",
@@ -504,12 +509,7 @@
   "9f75b8e3-597e-4f06-b1b0-709d7d99c4c8",
   "ed1c00c2-84cb-4c2d-a6d6-954277fd2c21",
   "321efdcc-d890-45bd-bca6-d61dede0ce4b",
-  "9bafba4d-6dec-4856-86e9-187f0f390fe7",
-  "a97e8f9e-c6e5-4cd9-acca-138149a82d71",
-  "865e7af9-dfa8-4495-9148-bb54074ab395",
-  "529df541-77aa-4cd3-9061-be93618beb1b",
-  "f1071a31-47f3-4f89-997e-733128c2bd3c",
-  "4e9b1348-4b3d-430c-943b-a32f266d5d09"
+  "9bafba4d-6dec-4856-86e9-187f0f390fe7"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-07.40-sammanfattning-natt-sodermanlands-lan/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795503472.6477292,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795503497.691245,
-  "https://www.bt.se/rss": 1795503522.616708,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795503523.4238904,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795503524.2450304,
-  "https://vallentunanya.se/": 1795503524.353581,
-  "https://elfsborg.se/feed/": 1795503524.998894,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795503526.1827133
+  "https://www.bt.se/rss": 1795503828.285362,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795503836.5546052,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795503837.409143,
+  "https://vallentunanya.se/": 1795503837.6247315,
+  "https://elfsborg.se/feed/": 1795503838.3022673,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795503839.466401
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/minns-tuff-jul--nu-skanker-emil-kott-till-behovande-6.3.398188.e4bd034736",
