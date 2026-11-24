@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "c2a0a1bd-a73f-45a2-89fd-3b9e90e432c6",
   "f5aaed99-b53f-4755-bc7a-45363731f409",
   "a4b7f93a-fdf3-4825-9c9e-86c51f34ad1e",
   "3244cfae-2c1b-482a-8e67-d5f79b607f78",
@@ -508,8 +509,7 @@
   "c103d82c-7524-4d7b-8c7e-698ab2509c4b",
   "f3d7b70b-0ee3-4dd1-bc34-7ba0cf885f31",
   "f8a877b2-273b-4de7-a62a-baf18365b656",
-  "8a7212a0-3426-4134-8bb3-66a5bd2c5157",
-  "111c58fe-95c4-4eb5-970e-9b096830919d"
+  "8a7212a0-3426-4134-8bb3-66a5bd2c5157"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-07.47-trafikolycka-linkoping/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795514606.0516756,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795514626.3737156,
-  "https://www.bt.se/rss": 1795514646.4978416,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795514654.2454877,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795514655.0546262,
-  "https://vallentunanya.se/": 1795514655.1675344,
-  "https://elfsborg.se/feed/": 1795514655.7590454,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795514657.0199847
+  "https://www.bt.se/rss": 1795514958.7282014,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795514960.7190044,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795514961.5177894,
+  "https://vallentunanya.se/": 1795514961.6088817,
+  "https://elfsborg.se/feed/": 1795514962.4701872,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795514963.6742818
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/minns-tuff-jul--nu-skanker-emil-kott-till-behovande-6.3.398188.e4bd034736",
