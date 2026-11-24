@@ -10,6 +10,8 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "d8a2bec4-de1d-4e76-807b-7ef8d42d64f5",
+  "3aa83888-16ac-4cf3-9889-b50903511678",
   "38b5b5be-b1eb-4c03-9111-c36ad21ae350",
   "5cfd3a98-f8e7-450d-a1ce-1ffb726654f7",
   "b113b42b-66b1-4781-988d-9624238e6daa",
@@ -507,9 +509,7 @@
   "e3d9a173-5bfb-4acf-8a7a-be0161ac5ad2",
   "346e3f6b-0e19-4e29-9340-1c4f49d07236",
   "8a162ca6-1752-4a33-9105-13d85a57ec9e",
-  "1df54aa6-ccbd-4abb-8278-0172a7e0e85b",
-  "2f9d677b-6d53-42e0-994d-b9704ff0d78b",
-  "e1ba08bc-8f17-43c8-bf5c-7727cc6497d2"
+  "1df54aa6-ccbd-4abb-8278-0172a7e0e85b"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-17.08-misshandel-goteborg/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795536967.5707562,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795536991.5349529,
-  "https://www.bt.se/rss": 1795539479.481073,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795539480.1506734,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795539480.862998,
-  "https://vallentunanya.se/": 1795539481.0911276,
-  "https://elfsborg.se/feed/": 1795539481.7765768,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795539482.8326678
+  "https://www.bt.se/rss": 1795539784.8870997,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795539787.9271128,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795539788.707637,
+  "https://vallentunanya.se/": 1795539788.8820496,
+  "https://elfsborg.se/feed/": 1795539789.3285947,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795539790.23514
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/langtidsarbetslosheten-okar-i-vallentuna-6.3.396974.6a2764d1f9",
