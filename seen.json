@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "885e609f-db2e-45cb-b4c6-1efbf534ebc6",
   "3b9bb5e9-b1da-459d-9afa-a6cfff8197de",
   "8422be5e-a33b-48cc-99bb-18e1cbbae07d",
   "3c62d1c8-6394-4315-972c-7aa11be59966",
@@ -508,8 +509,7 @@
   "2b76c8f1-3e2a-461c-aeb7-1f454dc026bd",
   "19279f68-0ec6-4543-8d21-681442854281",
   "9f75b8e3-597e-4f06-b1b0-709d7d99c4c8",
-  "ed1c00c2-84cb-4c2d-a6d6-954277fd2c21",
-  "321efdcc-d890-45bd-bca6-d61dede0ce4b"
+  "ed1c00c2-84cb-4c2d-a6d6-954277fd2c21"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-07.40-sammanfattning-natt-sodermanlands-lan/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795503472.6477292,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795503497.691245,
-  "https://www.bt.se/rss": 1795505670.3043451,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795505671.2716281,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795505672.109271,
-  "https://vallentunanya.se/": 1795505674.2054543,
-  "https://elfsborg.se/feed/": 1795505674.8590617,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795505676.0590582
+  "https://www.bt.se/rss": 1795505977.9522715,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795505980.2023618,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795505981.4577212,
+  "https://vallentunanya.se/": 1795505981.519923,
+  "https://elfsborg.se/feed/": 1795505982.1466603,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795505983.3241985
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/minns-tuff-jul--nu-skanker-emil-kott-till-behovande-6.3.398188.e4bd034736",
