@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "6b07f6f1-9c9b-4c04-a10c-7695f34e083b",
   "83acb990-3f24-4707-9350-d46a30d4ca46",
   "096211f0-55a1-4d42-9317-99d43dd3273d",
   "6dfb2720-a992-4407-83d6-6e4f9d01042f",
@@ -508,8 +509,7 @@
   "d88a75d5-1322-40e3-af62-1f7e2fbf1717",
   "a1a0ee43-bf86-496a-b227-63307a2e6c33",
   "147f9967-3bc5-4fcc-8fcf-474afa4242e5",
-  "7aae4f6b-5586-45f1-8994-cc84363d81cb",
-  "f3fad54f-ffdb-49ee-bb68-346d5e0cca82"
+  "7aae4f6b-5586-45f1-8994-cc84363d81cb"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-08.08-rattfylleri-vaxjo/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795596094.654501,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795596119.6935909,
-  "https://www.bt.se/rss": 1795596755.6668792,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795596760.255599,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795596761.1617782,
-  "https://vallentunanya.se/": 1795596761.3282876,
-  "https://elfsborg.se/feed/": 1795596762.1182697,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795596763.191385
+  "https://www.bt.se/rss": 1795597064.9736025,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795597067.057679,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795597068.062684,
+  "https://vallentunanya.se/": 1795597068.162202,
+  "https://elfsborg.se/feed/": 1795597068.8852994,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795597070.14338
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/har-blir-det-julgranar-ljus-och-pynt-i-vallentuna-6.3.398193.a444951010",
