@@ -512,6 +512,8 @@
   "00e04c70-8cdb-4dff-ac2d-501c78018108"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-17.18-trafikolycka-uppsala/",
+  "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-15.54-trafikkontroll-sundsvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-18.22-trafikolycka-sundsvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-14.30-valdhot-mot-tjansteman-fagersta/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-17.13-trafikolycka-gotlands-lan/",
@@ -1009,9 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-15.51-trafikolycka-sundsvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-16.02-trafikolycka-personskada-haninge/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-15.20-trafikolycka-sundsvall/",
-  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-11.57-valdhot-mot-tjansteman-partille/",
-  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-14.00-ovrigt-stockholm/",
-  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-11.14-stoldinbrott-lund/"
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-11.57-valdhot-mot-tjansteman-partille/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795633048.510759,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795633048.9410186,
-  "https://www.bt.se/rss": 1795634266.9824026,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795634267.707495,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795634268.2499352,
-  "https://vallentunanya.se/": 1795634268.2747433,
-  "https://elfsborg.se/feed/": 1795634268.7539287,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795634269.5389547
+  "https://www.bt.se/rss": 1795634571.1573782,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795634571.7784185,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795634574.7298498,
+  "https://vallentunanya.se/": 1795634574.7560756,
+  "https://elfsborg.se/feed/": 1795634575.1689966,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795634576.0270162
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/slalomdrommen-i-ullna-fastnar-i-ny-konflikt-6.3.397399.eaab4bd91a",
