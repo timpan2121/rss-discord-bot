@@ -512,6 +512,9 @@
   "066410a3-ddf8-4c62-9882-2e264c850ce9"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-07.45-sammanfattning-natt-jonkopings-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-07.46-sammanfattning-natt-ostergotlands-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-07.49-sammanfattning-natt-sodermanlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-07.27-trafikolycka-hoganas/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-07.17-sammanfattning-natt-orebro-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-07.06-sammanfattning-natt-dalarnas-lan/",
@@ -1008,10 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-11.29-trafikolycka-ostersund/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-10.02-olaga-intrang-molndal/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-07.37-trafikolycka-goteborg/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-09.00-ovrigt-vastra-gotalands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-09.00-ovrigt-hallands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-07.34-trafikolycka-kungalv/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-08.49-morddrap-goteborg/"
+  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-09.00-ovrigt-vastra-gotalands-lan/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795588664.27434,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795588670.8958938,
-  "https://www.bt.se/rss": 1795589606.1397882,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795589607.1002173,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795589608.5986297,
-  "https://vallentunanya.se/": 1795589608.729468,
-  "https://elfsborg.se/feed/": 1795589609.4342315,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795589610.6589966
+  "https://www.bt.se/rss": 1795589912.3625767,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795589913.1605763,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795589917.712765,
+  "https://vallentunanya.se/": 1795589917.8187635,
+  "https://elfsborg.se/feed/": 1795589918.5103507,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795589919.8121877
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/langtidsarbetslosheten-okar-i-vallentuna-6.3.396974.6a2764d1f9",
