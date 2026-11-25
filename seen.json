@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "fec955fa-8556-4568-8976-81908fd3e6f6",
   "d872bed0-88c0-4cb9-8a5c-b83519160fdb",
   "e7a53ede-cf77-4a5f-a0f7-cee9477d1a6a",
   "b81c5899-69ca-47af-a6cb-3e0918e2d588",
@@ -508,8 +509,7 @@
   "5847ae6e-5bbb-4d63-8833-3a1c48e509ea",
   "10daa90f-3742-4625-9972-2898a88a4e81",
   "cef82794-e387-415b-9c7e-2b5198103427",
-  "f0f4c40a-eba9-4899-809f-cbcf1ac0b5cd",
-  "02a533c7-bb43-45eb-b502-2f11cd319a32"
+  "f0f4c40a-eba9-4899-809f-cbcf1ac0b5cd"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-16.14-rattfylleri-arjang/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795622048.082518,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795622048.597704,
-  "https://www.bt.se/rss": 1795624194.9845638,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795624195.6324983,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795624196.191515,
-  "https://vallentunanya.se/": 1795624196.213505,
-  "https://elfsborg.se/feed/": 1795624196.6906269,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795624197.6668308
+  "https://www.bt.se/rss": 1795624499.0259192,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795624501.0239794,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795624501.5671215,
+  "https://vallentunanya.se/": 1795624501.5875344,
+  "https://elfsborg.se/feed/": 1795624502.0623605,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795624502.965069
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/slalomdrommen-i-ullna-fastnar-i-ny-konflikt-6.3.397399.eaab4bd91a",
