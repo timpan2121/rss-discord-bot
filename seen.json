@@ -10,6 +10,10 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "3bacc7e0-a11b-4678-8f8a-5d1dce0123b1",
+  "61f59ceb-d0c9-43f4-af03-e7db09ed04af",
+  "c639bb6b-fa7f-472e-90f9-f0dce6a7e03f",
+  "81facb26-c0a7-42ed-87ca-fa79faca1c05",
   "10e41c14-edb7-4290-97ab-c873464cf934",
   "a9f4bfed-3d4f-4ef8-a8c0-a4b791808622",
   "d56dae8a-29a5-4ebf-8350-de1e15e1834c",
@@ -505,13 +509,11 @@
   "00e04c70-8cdb-4dff-ac2d-501c78018108",
   "a1aa3168-1deb-4964-a743-7bb8b959f5c6",
   "109f0864-a8f7-488d-bd76-d24d75eaaf1b",
-  "a377597c-5078-4fff-a9da-2300276f9baf",
-  "238824ee-8fd2-4f92-b67a-93ab5e347dfb",
-  "7d2cf5f6-8125-4623-9210-c5064f2e2d4a",
-  "3a15550e-9625-4923-bec4-0ebb60872562",
-  "5847ae6e-5bbb-4d63-8833-3a1c48e509ea"
+  "a377597c-5078-4fff-a9da-2300276f9baf"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-18.59-trafikolycka-vilt-vasterbottens-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-18.56-misshandel-savsjo/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-18.19-narkotikabrott-filipstad/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-17.06-rattfylleri-vannas/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-16.40-trafikolycka-lulea/",
@@ -1009,9 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-10.24-stold-uppsala/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-11.42-fylleri-ornskoldsvik/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-11.14-trafikolycka-pitea/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-06.45-misshandel-kavlinge/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-23.07-inbrott-vaxjo/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-22.43-narkotikabrott-malmo/"
+  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-06.45-misshandel-kavlinge/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795629382.2711585,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795629382.7195468,
-  "https://www.bt.se/rss": 1795629382.9192371,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795629383.6043136,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795629384.1455035,
-  "https://vallentunanya.se/": 1795629384.167572,
-  "https://elfsborg.se/feed/": 1795629384.5795496,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795629385.4789174
+  "https://www.bt.se/rss": 1795629686.8487556,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795629692.402554,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795629695.3677833,
+  "https://vallentunanya.se/": 1795629695.401352,
+  "https://elfsborg.se/feed/": 1795629695.9102144,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795629696.9088266
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/slalomdrommen-i-ullna-fastnar-i-ny-konflikt-6.3.397399.eaab4bd91a",
