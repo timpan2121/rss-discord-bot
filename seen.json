@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "e7a53ede-cf77-4a5f-a0f7-cee9477d1a6a",
   "b81c5899-69ca-47af-a6cb-3e0918e2d588",
   "b144b929-8363-4f39-80a2-921bc0967e59",
   "6b20956d-61df-400f-bad0-766d920fec1a",
@@ -508,8 +509,7 @@
   "cef82794-e387-415b-9c7e-2b5198103427",
   "f0f4c40a-eba9-4899-809f-cbcf1ac0b5cd",
   "02a533c7-bb43-45eb-b502-2f11cd319a32",
-  "fab21043-6e78-4d30-a433-1ee18db9653c",
-  "98fdc8ab-4ee2-4881-9e25-6a60e1a39f74"
+  "fab21043-6e78-4d30-a433-1ee18db9653c"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-16.30-brand-goteborg/",
@@ -1026,14 +1026,14 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795618310.852612,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795618335.3346071,
-  "https://www.bt.se/rss": 1795621742.5190866,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795621743.2897859,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795621745.0713046,
-  "https://vallentunanya.se/": 1795621745.1137152,
-  "https://elfsborg.se/feed/": 1795621745.5301778,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795621746.5224333
+  "https://eurocop.nu/rss.xml": 1795622048.082518,
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795622048.597704,
+  "https://www.bt.se/rss": 1795622048.7985501,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795622050.5549388,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795622051.0898607,
+  "https://vallentunanya.se/": 1795622051.111786,
+  "https://elfsborg.se/feed/": 1795622051.5338476,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795622052.4126828
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/slalomdrommen-i-ullna-fastnar-i-ny-konflikt-6.3.397399.eaab4bd91a",
