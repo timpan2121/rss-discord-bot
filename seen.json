@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "4f654eee-2453-4633-b1ad-ec1063db102f",
   "8f2390d7-3079-435e-8442-f3d6127acb35",
   "6b07f6f1-9c9b-4c04-a10c-7695f34e083b",
   "83acb990-3f24-4707-9350-d46a30d4ca46",
@@ -508,10 +509,10 @@
   "66eca0c6-fc23-4bbc-9ad8-7713b154f018",
   "623813b8-7306-48cc-a1b5-928fbecdb6f2",
   "d88a75d5-1322-40e3-af62-1f7e2fbf1717",
-  "a1a0ee43-bf86-496a-b227-63307a2e6c33",
-  "147f9967-3bc5-4fcc-8fcf-474afa4242e5"
+  "a1a0ee43-bf86-496a-b227-63307a2e6c33"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-07.55-olaga-intrang-umea/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-10.10-trafikkontroll-vasterbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-09.29-trafikolycka-stockholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-08.08-rattfylleri-vaxjo/",
@@ -1010,8 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-08.00-information-dalarnas-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-08.00-information-varmlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-07.46-sammanfattning-natt-ostergotlands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-07.45-sammanfattning-natt-sodermanlands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/september/26/26-september-21.15-forsvunnen-person-harryda/"
+  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-07.45-sammanfattning-natt-sodermanlands-lan/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795596094.654501,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795596119.6935909,
-  "https://www.bt.se/rss": 1795598295.3145387,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795598296.3634949,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795598300.056866,
-  "https://vallentunanya.se/": 1795598300.166625,
-  "https://elfsborg.se/feed/": 1795598300.8880706,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795598302.3257523
+  "https://www.bt.se/rss": 1795598604.077901,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795598606.0484765,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795598608.54574,
+  "https://vallentunanya.se/": 1795598608.645206,
+  "https://elfsborg.se/feed/": 1795598609.316163,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795598610.642434
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/har-blir-det-julgranar-ljus-och-pynt-i-vallentuna-6.3.398193.a444951010",
