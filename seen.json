@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "2f592e4f-3a6b-4a18-a930-fe5948e743e4",
   "97c7e6c3-1499-45af-bd84-7ff850ba4061",
   "2f1ea942-d4ac-434e-a672-f49b9ea95322",
   "f791c64d-bf81-43ae-a60e-f7646a0f309c",
@@ -508,8 +509,7 @@
   "113fefe2-c47a-48c2-8c57-9ab2f9bec220",
   "b0d00020-4d90-4c3c-963b-661da08b0f29",
   "24d82e79-8a83-42c4-94b5-8ff5b76168d6",
-  "a0ef2a13-7097-43c6-b24d-92278de65780",
-  "1c7b6a53-7594-4892-9223-21e7880dd407"
+  "a0ef2a13-7097-43c6-b24d-92278de65780"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-21.59-bedrageri-boden/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795573851.746014,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795573861.6528738,
-  "https://www.bt.se/rss": 1795575386.7363937,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795575387.379135,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795575388.289177,
-  "https://vallentunanya.se/": 1795575388.4257884,
-  "https://elfsborg.se/feed/": 1795575388.8829546,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795575389.7776976
+  "https://www.bt.se/rss": 1795575691.3151698,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795575693.2591944,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795575693.8895152,
+  "https://vallentunanya.se/": 1795575694.0283797,
+  "https://elfsborg.se/feed/": 1795575694.5246274,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795575695.6808476
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/langtidsarbetslosheten-okar-i-vallentuna-6.3.396974.6a2764d1f9",
