@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "ee63bdc9-ecd3-49af-8563-dc74f962b56a",
   "4f654eee-2453-4633-b1ad-ec1063db102f",
   "8f2390d7-3079-435e-8442-f3d6127acb35",
   "6b07f6f1-9c9b-4c04-a10c-7695f34e083b",
@@ -508,8 +509,7 @@
   "e5954be4-ee24-48c8-a91b-fdd49aa0e27a",
   "66eca0c6-fc23-4bbc-9ad8-7713b154f018",
   "623813b8-7306-48cc-a1b5-928fbecdb6f2",
-  "d88a75d5-1322-40e3-af62-1f7e2fbf1717",
-  "a1a0ee43-bf86-496a-b227-63307a2e6c33"
+  "d88a75d5-1322-40e3-af62-1f7e2fbf1717"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-07.55-olaga-intrang-umea/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795596094.654501,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795596119.6935909,
-  "https://www.bt.se/rss": 1795598604.077901,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795598606.0484765,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795598608.54574,
-  "https://vallentunanya.se/": 1795598608.645206,
-  "https://elfsborg.se/feed/": 1795598609.316163,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795598610.642434
+  "https://www.bt.se/rss": 1795598912.348002,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795598914.4867249,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795598915.5467162,
+  "https://vallentunanya.se/": 1795598915.7048917,
+  "https://elfsborg.se/feed/": 1795598916.384557,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795598917.7044716
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/har-blir-det-julgranar-ljus-och-pynt-i-vallentuna-6.3.398193.a444951010",
