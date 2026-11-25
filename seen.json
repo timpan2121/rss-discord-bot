@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "d56dae8a-29a5-4ebf-8350-de1e15e1834c",
   "fec955fa-8556-4568-8976-81908fd3e6f6",
   "d872bed0-88c0-4cb9-8a5c-b83519160fdb",
   "e7a53ede-cf77-4a5f-a0f7-cee9477d1a6a",
@@ -508,8 +509,7 @@
   "3a15550e-9625-4923-bec4-0ebb60872562",
   "5847ae6e-5bbb-4d63-8833-3a1c48e509ea",
   "10daa90f-3742-4625-9972-2898a88a4e81",
-  "cef82794-e387-415b-9c7e-2b5198103427",
-  "f0f4c40a-eba9-4899-809f-cbcf1ac0b5cd"
+  "cef82794-e387-415b-9c7e-2b5198103427"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-16.40-trafikolycka-lulea/",
@@ -1026,14 +1026,14 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795622048.082518,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795622048.597704,
-  "https://www.bt.se/rss": 1795625415.7052455,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795625416.5875168,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795625417.1321912,
-  "https://vallentunanya.se/": 1795625417.1571653,
-  "https://elfsborg.se/feed/": 1795625417.671399,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795625418.6040335
+  "https://eurocop.nu/rss.xml": 1795625720.4682574,
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795625721.0424106,
+  "https://www.bt.se/rss": 1795625721.2437994,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795625723.2449822,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795625723.7824807,
+  "https://vallentunanya.se/": 1795625723.8027318,
+  "https://elfsborg.se/feed/": 1795625724.2121265,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795625725.0795684
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/slalomdrommen-i-ullna-fastnar-i-ny-konflikt-6.3.397399.eaab4bd91a",
