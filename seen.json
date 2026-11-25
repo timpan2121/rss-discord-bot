@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "271e3681-4a35-470e-a060-f65f7e200277",
   "23c5a9db-c442-4024-8c76-ee0679601b9a",
   "634b4192-624d-4cc8-bdbb-1a9ce2512073",
   "8a916015-7a57-4982-af70-7b0b827ee851",
@@ -508,10 +509,10 @@
   "cf06c62c-8035-4c52-9f50-6ef8bf906f67",
   "066410a3-ddf8-4c62-9882-2e264c850ce9",
   "2cec0806-f24f-4947-884c-56f16c01f99e",
-  "2c7b36ee-bf0a-4fd9-9518-f80ba13dda9f",
-  "113fefe2-c47a-48c2-8c57-9ab2f9bec220"
+  "2c7b36ee-bf0a-4fd9-9518-f80ba13dda9f"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-05.39-trafikolycka-kristianstad/",
   "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-21.59-bedrageri-boden/",
   "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-19.17-trafikolycka-umea/",
   "https://polisen.se/aktuellt/handelser/2026/november/24/24-november-21.19-trafikolycka-personskada-karlskoga/",
@@ -1010,8 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-16.47-trafikolycka-personskada-jarfalla/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-17.42-trafikolycka-vilt-vasternorrlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-15.26-trafikolycka-karlskoga/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-16.43-trafikolycka-helsingborg/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-14.33-stold-sundsvall/"
+  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-16.43-trafikolycka-helsingborg/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795581226.622464,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795581237.3206525,
-  "https://www.bt.se/rss": 1795583388.0558374,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795583388.9453118,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795583389.8084757,
-  "https://vallentunanya.se/": 1795583389.995606,
-  "https://elfsborg.se/feed/": 1795583390.5980616,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795583391.8188603
+  "https://www.bt.se/rss": 1795583693.751692,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795583695.7867548,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795583700.270737,
+  "https://vallentunanya.se/": 1795583700.384893,
+  "https://elfsborg.se/feed/": 1795583700.9732647,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795583702.685624
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/langtidsarbetslosheten-okar-i-vallentuna-6.3.396974.6a2764d1f9",
