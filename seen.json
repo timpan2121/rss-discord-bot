@@ -10,6 +10,9 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "a5b97fa8-258d-46d6-a828-6138dd311a1e",
+  "27555e32-1736-4b5d-964c-9909e444aead",
+  "c6e18293-cd5c-4a5d-afd5-6d73d6bddbdd",
   "a0cb9468-c9b7-4c75-a30f-45396f695cbd",
   "27a92bac-52e3-449f-9548-02f5b18b6074",
   "b30db197-42e6-46a9-bfc3-cbe0cce4ec12",
@@ -506,10 +509,7 @@
   "adc08ea8-0716-416c-b657-d51c8be0094c",
   "f707f804-360f-4d52-af3e-f29d8e667e0a",
   "a02d6b47-9fb2-4bb4-b417-c2cf1e893b37",
-  "81134221-54be-4965-b53e-ddc7724283fe",
-  "8493d772-69f1-4e07-805f-541ddcdf65ef",
-  "c6db67aa-7c93-4b73-9034-9c1a15399fb7",
-  "7faf77ab-fe5e-49d8-95d1-7785994a0d23"
+  "81134221-54be-4965-b53e-ddc7724283fe"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-13.15-trafikkontroll-vasternorrlands-lan/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795607248.7934365,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795607259.3427498,
-  "https://www.bt.se/rss": 1795609716.788507,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795609717.5533233,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795609719.3709006,
-  "https://vallentunanya.se/": 1795609719.5687718,
-  "https://elfsborg.se/feed/": 1795609720.0690613,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795609722.7113674
+  "https://www.bt.se/rss": 1795610024.195016,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795610028.9885197,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795610029.6195817,
+  "https://vallentunanya.se/": 1795610029.7821903,
+  "https://elfsborg.se/feed/": 1795610030.190787,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795610038.8019443
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/slalomdrommen-i-ullna-fastnar-i-ny-konflikt-6.3.397399.eaab4bd91a",
