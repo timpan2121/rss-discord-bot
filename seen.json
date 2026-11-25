@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "b30db197-42e6-46a9-bfc3-cbe0cce4ec12",
   "75365f94-45fd-46c2-b50c-cfe256838f2f",
   "ee63bdc9-ecd3-49af-8563-dc74f962b56a",
   "4f654eee-2453-4633-b1ad-ec1063db102f",
@@ -508,8 +509,7 @@
   "c6db67aa-7c93-4b73-9034-9c1a15399fb7",
   "7faf77ab-fe5e-49d8-95d1-7785994a0d23",
   "e5954be4-ee24-48c8-a91b-fdd49aa0e27a",
-  "66eca0c6-fc23-4bbc-9ad8-7713b154f018",
-  "623813b8-7306-48cc-a1b5-928fbecdb6f2"
+  "66eca0c6-fc23-4bbc-9ad8-7713b154f018"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-08.31-olaga-hot-lindesberg/",
@@ -1026,14 +1026,14 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795599847.280991,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795599862.189828,
-  "https://www.bt.se/rss": 1795603224.8502154,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795603225.5820239,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795603226.2258258,
-  "https://vallentunanya.se/": 1795603226.4243872,
-  "https://elfsborg.se/feed/": 1795603226.8953743,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795603228.1352515
+  "https://eurocop.nu/rss.xml": 1795603529.6289654,
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795603550.013965,
+  "https://www.bt.se/rss": 1795603550.4298189,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795603552.5195045,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795603553.4410505,
+  "https://vallentunanya.se/": 1795603553.6016352,
+  "https://elfsborg.se/feed/": 1795603554.0740387,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795603555.0649776
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/slalomdrommen-i-ullna-fastnar-i-ny-konflikt-6.3.397399.eaab4bd91a",
