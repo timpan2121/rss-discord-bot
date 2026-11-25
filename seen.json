@@ -512,6 +512,7 @@
   "adc08ea8-0716-416c-b657-d51c8be0094c"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-13.49-rattfylleri-borlange/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-13.15-trafikkontroll-vasternorrlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-12.20-trafikbrott-alvsbyn/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-12.42-trafikolycka-vaxjo/",
@@ -1010,8 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-07.00-sammanfattning-natt-norrbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-07.00-sammanfattning-natt-vastra-gotalands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-07.00-sammanfattning-natt-orebro-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-07.00-sammanfattning-natt-dalarnas-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-07.00-sammanfattning-natt-varmlands-lan/"
+  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-07.00-sammanfattning-natt-dalarnas-lan/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795610952.7289991,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795610977.8401682,
-  "https://www.bt.se/rss": 1795612505.6730027,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795612506.4456234,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795612507.6674,
-  "https://vallentunanya.se/": 1795612507.8859217,
-  "https://elfsborg.se/feed/": 1795612508.3628783,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795612509.9404037
+  "https://www.bt.se/rss": 1795612811.5048409,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795612812.24939,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795612813.9817028,
+  "https://vallentunanya.se/": 1795612814.1094434,
+  "https://elfsborg.se/feed/": 1795612814.605272,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795612816.7805436
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/slalomdrommen-i-ullna-fastnar-i-ny-konflikt-6.3.397399.eaab4bd91a",
@@ -1084,6 +1084,7 @@
   "https://vallentunanya.se/sport/ny-sportchef-utan-stora-plaanboken/5186"
  ],
  "https://elfsborg.se/feed/": [
+  "https://elfsborg.se/?p=71351",
   "https://elfsborg.se/?p=71376",
   "https://elfsborg.se/?p=71405",
   "https://elfsborg.se/?p=71403",
