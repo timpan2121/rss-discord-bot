@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "9e515502-f1e6-4704-9f4e-a5e61445a1ec",
   "d7c0f790-c0ec-4ac7-b1cc-5b0101013141",
   "243649cb-7df4-4f25-b8c1-def1d350fde3",
   "e1e241b2-2310-4dbf-92a6-8f425433e240",
@@ -508,8 +509,7 @@
   "98fdc8ab-4ee2-4881-9e25-6a60e1a39f74",
   "07f524c6-ada2-4ad6-a516-33b1735ed687",
   "a1d2962e-7ae2-4259-97aa-5970912a7961",
-  "a27c4fde-c144-4fcb-a048-d2a0a68ae59d",
-  "ef605a99-db58-4ce1-a3c8-119b2601c956"
+  "a27c4fde-c144-4fcb-a048-d2a0a68ae59d"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-14.29-trafikolycka-borlange/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795614643.644534,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795614644.147214,
-  "https://www.bt.se/rss": 1795616177.8350186,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795616178.863818,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795616179.4369605,
-  "https://vallentunanya.se/": 1795616179.580783,
-  "https://elfsborg.se/feed/": 1795616180.052258,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795616181.008356
+  "https://www.bt.se/rss": 1795616482.4859455,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795616484.3001404,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795616484.9366233,
+  "https://vallentunanya.se/": 1795616485.1378174,
+  "https://elfsborg.se/feed/": 1795616485.5242603,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795616486.621026
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/slalomdrommen-i-ullna-fastnar-i-ny-konflikt-6.3.397399.eaab4bd91a",
