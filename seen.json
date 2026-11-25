@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "1829ba2a-4402-4f27-9107-3b727b99a126",
   "da8b5aa8-bf29-458e-9ca3-faf9418777a2",
   "fab4de69-40f3-4cdf-8d53-043bb6f8e69c",
   "24bef657-6f69-4153-a130-78bdb2f39e1d",
@@ -508,10 +509,10 @@
   "82778234-8220-4edd-9701-d5f545f903cc",
   "a5e919e7-67a0-4910-a133-d3d17711a611",
   "2e2a9954-924d-4453-9bcd-7ea77148ffe4",
-  "c0d37b37-ec66-4a56-955c-fef18d4ed589",
-  "f5329430-54ca-4d63-9020-2ba68c7713d0"
+  "c0d37b37-ec66-4a56-955c-fef18d4ed589"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-07.48-arbetsplatsolycka-kristianstad/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-03.50-misshandel-stockholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-07.45-sammanfattning-natt-jonkopings-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-07.46-sammanfattning-natt-ostergotlands-lan/",
@@ -1010,8 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-11.56-arbetsplatsolycka-skara/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-12.22-trafikkontroll-jamtlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-11.29-trafikolycka-ostersund/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-10.02-olaga-intrang-molndal/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-07.37-trafikolycka-goteborg/"
+  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-10.02-olaga-intrang-molndal/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,14 +1028,15 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795588664.27434,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795588670.8958938,
-  "https://www.bt.se/rss": 1795590535.1572137,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795590535.992325,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795590536.818731,
-  "https://vallentunanya.se/": 1795590536.9345214,
-  "https://elfsborg.se/feed/": 1795590537.580114,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795590538.917685
+  "https://www.bt.se/rss": 1795590840.5522532,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795590842.8584065,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795590845.7227807,
+  "https://vallentunanya.se/": 1795590847.0293233,
+  "https://elfsborg.se/feed/": 1795590847.689681,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795590848.9945288
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
+  "https://www.mitti.se/nyheter/har-blir-det-julgranar-ljus-och-pynt-i-vallentuna-6.3.398193.a444951010",
   "https://www.mitti.se/nyheter/langtidsarbetslosheten-okar-i-vallentuna-6.3.396974.6a2764d1f9",
   "https://www.mitti.se/nyheter/minns-tuff-jul--nu-skanker-emil-kott-till-behovande-6.3.398188.e4bd034736",
   "https://www.mitti.se/nyheter/vallentuna-samst-i-landet-pa-aldrebostader-6.3.396837.aefd885eb7",
