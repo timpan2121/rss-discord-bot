@@ -512,6 +512,7 @@
   "623813b8-7306-48cc-a1b5-928fbecdb6f2"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-10.37-trafikolycka-emmaboda/",
   "https://polisen.se/aktuellt/handelser/2026/september/26/26-september-21.15-forsvunnen-person-harryda/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-07.55-olaga-intrang-umea/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-10.10-trafikkontroll-vasterbottens-lan/",
@@ -1010,8 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-06.12-trafikolycka-halmstad/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-08.00-information-orebro-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-08.00-information-dalarnas-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-08.00-information-varmlands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-07.46-sammanfattning-natt-ostergotlands-lan/"
+  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-08.00-information-varmlands-lan/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795599847.280991,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795599862.189828,
-  "https://www.bt.se/rss": 1795600171.9292839,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795600173.8214598,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795600176.090149,
-  "https://vallentunanya.se/": 1795600176.2666104,
-  "https://elfsborg.se/feed/": 1795600176.7442563,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795600177.7146332
+  "https://www.bt.se/rss": 1795600479.2406945,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795600479.8698575,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795600482.2318525,
+  "https://vallentunanya.se/": 1795600482.3012512,
+  "https://elfsborg.se/feed/": 1795600482.7659695,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795600483.697414
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/har-blir-det-julgranar-ljus-och-pynt-i-vallentuna-6.3.398193.a444951010",
