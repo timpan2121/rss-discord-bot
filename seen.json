@@ -10,6 +10,9 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "1d822f08-16d6-443e-9a61-c94ee77a98f0",
+  "5719eb88-3717-42ad-b9bc-1a6ea8ec81fa",
+  "709c453c-7eba-4ab9-ad5d-ec44e6a90625",
   "1623a9df-e11f-43cb-9256-315d647e1ba0",
   "be9c7d39-cf8f-43af-ac6c-21797158c259",
   "06214033-720b-44fe-a73a-86edad8c97bf",
@@ -506,10 +509,7 @@
   "71fff6c2-5d0c-4c55-9989-5e2a4c9ab355",
   "60372540-5625-4e9b-bade-0a67daaf3ada",
   "be86ec3e-6716-4c52-8875-3a0ba3958980",
-  "2a667fcf-8d81-48dc-9596-8244a925a8cc",
-  "183cbd61-2092-4855-9b7c-dc28acaee09f",
-  "d95a9822-ded7-4f70-a21d-e7ee826a5f0d",
-  "00e04c70-8cdb-4dff-ac2d-501c78018108"
+  "2a667fcf-8d81-48dc-9596-8244a925a8cc"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-17.18-trafikolycka-uppsala/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795633048.510759,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795633048.9410186,
-  "https://www.bt.se/rss": 1795634571.1573782,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795634571.7784185,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795634574.7298498,
-  "https://vallentunanya.se/": 1795634574.7560756,
-  "https://elfsborg.se/feed/": 1795634575.1689966,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795634576.0270162
+  "https://www.bt.se/rss": 1795634877.4521708,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795634881.7947283,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795634882.3353074,
+  "https://vallentunanya.se/": 1795634882.3572233,
+  "https://elfsborg.se/feed/": 1795634882.77124,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795634883.752747
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/slalomdrommen-i-ullna-fastnar-i-ny-konflikt-6.3.397399.eaab4bd91a",
