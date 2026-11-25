@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "ecd2556f-3478-4b60-acb4-c7e620c8c93e",
   "271e3681-4a35-470e-a060-f65f7e200277",
   "23c5a9db-c442-4024-8c76-ee0679601b9a",
   "634b4192-624d-4cc8-bdbb-1a9ce2512073",
@@ -508,10 +509,11 @@
   "1f10d158-094e-4de0-b698-f041cd845ddf",
   "cf06c62c-8035-4c52-9f50-6ef8bf906f67",
   "066410a3-ddf8-4c62-9882-2e264c850ce9",
-  "2cec0806-f24f-4947-884c-56f16c01f99e",
-  "2c7b36ee-bf0a-4fd9-9518-f80ba13dda9f"
+  "2cec0806-f24f-4947-884c-56f16c01f99e"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-06.36-sammanfattning-natt-varmlands-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-07.00-sammanfattning-natt-vasternorrlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-07.00-sammanfattning-natt-hallands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-07.00-sammanfattning-natt-vastra-gotalands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-06.50-sammanfattning-natt-vasterbottens-lan/",
@@ -1009,9 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-12.27-ofredandeforargelse-stockholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-15.05-kontroll-linkoping/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-15.13-bedrageri-vastmanlands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-13.15-arbetsplatsolycka-solna/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/15-november-19.15-ovrigt-enkoping/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-12.29-trafikolycka-singel-pitea/"
+  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-13.15-arbetsplatsolycka-solna/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795584926.9336412,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795584951.9475048,
-  "https://www.bt.se/rss": 1795586509.6476939,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795586510.5973628,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795586516.0446026,
-  "https://vallentunanya.se/": 1795586516.11721,
-  "https://elfsborg.se/feed/": 1795586516.7713046,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795586518.1140068
+  "https://www.bt.se/rss": 1795586819.872215,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795586821.9514325,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795586826.1154213,
+  "https://vallentunanya.se/": 1795586826.1953535,
+  "https://elfsborg.se/feed/": 1795586826.9797425,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795586828.194547
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/langtidsarbetslosheten-okar-i-vallentuna-6.3.396974.6a2764d1f9",
