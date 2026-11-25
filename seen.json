@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "b17b3f1d-4f1e-4f5b-abac-cee8891f22e5",
   "00b4d3c6-620a-433a-8c58-c9cac6b8d1ac",
   "2eda4c42-1644-4f73-ab81-ff18bf2f4a90",
   "60ea4bfb-ea3e-467d-9731-031193523b79",
@@ -508,8 +509,7 @@
   "0fab749a-6fb2-4b22-b4ff-b9035d5b6bf8",
   "28421109-97c5-471c-93cc-3a4b15b8a0c8",
   "0afe57ae-7338-47ad-93f0-f966f4f493d1",
-  "78f40548-6af0-4ccc-957b-6a13fac349f0",
-  "233e3398-158c-419f-9e1b-da1d44201c71"
+  "78f40548-6af0-4ccc-957b-6a13fac349f0"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-21.21-trafikolycka-solna/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795640368.0869153,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795640368.511938,
-  "https://www.bt.se/rss": 1795642819.5414522,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795642820.3607152,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795642820.9584658,
-  "https://vallentunanya.se/": 1795642821.1177146,
-  "https://elfsborg.se/feed/": 1795642821.619343,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795642822.5907128
+  "https://www.bt.se/rss": 1795643124.064707,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795643125.9724069,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795643126.662667,
+  "https://vallentunanya.se/": 1795643126.9216223,
+  "https://elfsborg.se/feed/": 1795643127.489834,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795643128.4438019
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/slalomdrommen-i-ullna-fastnar-i-ny-konflikt-6.3.397399.eaab4bd91a",
