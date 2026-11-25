@@ -512,6 +512,7 @@
   "a1aa3168-1deb-4964-a743-7bb8b959f5c6"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-17.13-trafikolycka-gotlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-16.29-misshandel-vasteras/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-14.07-olaga-hot-sundsvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-19.04-trafikolycka-karlskoga/",
@@ -1010,8 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-14.00-ovrigt-stockholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-11.14-stoldinbrott-lund/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-13.11-stoldinbrott-lund/",
-  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-09.50-olaga-hot-skelleftea/",
-  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-10.24-stold-uppsala/"
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-09.50-olaga-hot-skelleftea/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795629382.2711585,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795629382.7195468,
-  "https://www.bt.se/rss": 1795630915.6530929,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795630916.4819736,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795630918.2538183,
-  "https://vallentunanya.se/": 1795630918.2783673,
-  "https://elfsborg.se/feed/": 1795630918.7956514,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795630919.592282
+  "https://www.bt.se/rss": 1795631221.0087872,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795631221.7628133,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795631223.5244534,
+  "https://vallentunanya.se/": 1795631223.5472832,
+  "https://elfsborg.se/feed/": 1795631223.9607933,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795631224.855182
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/slalomdrommen-i-ullna-fastnar-i-ny-konflikt-6.3.397399.eaab4bd91a",
