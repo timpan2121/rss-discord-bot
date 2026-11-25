@@ -512,6 +512,7 @@
   "5847ae6e-5bbb-4d63-8833-3a1c48e509ea"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-18.19-narkotikabrott-filipstad/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-17.06-rattfylleri-vannas/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-16.40-trafikolycka-lulea/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-16.14-rattfylleri-arjang/",
@@ -1010,8 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-11.14-trafikolycka-pitea/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-06.45-misshandel-kavlinge/",
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-23.07-inbrott-vaxjo/",
-  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-22.43-narkotikabrott-malmo/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-06.09-misshandel-malmo/"
+  "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-22.43-narkotikabrott-malmo/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795625720.4682574,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795625721.0424106,
-  "https://www.bt.se/rss": 1795628771.6402419,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795628773.5498655,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795628774.0916743,
-  "https://vallentunanya.se/": 1795628774.1157053,
-  "https://elfsborg.se/feed/": 1795628774.5449796,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795628775.426131
+  "https://www.bt.se/rss": 1795629076.848404,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795629077.6839612,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795629079.4078681,
+  "https://vallentunanya.se/": 1795629079.4347193,
+  "https://elfsborg.se/feed/": 1795629079.945897,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795629080.7491236
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/slalomdrommen-i-ullna-fastnar-i-ny-konflikt-6.3.397399.eaab4bd91a",
