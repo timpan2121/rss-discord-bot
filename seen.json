@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "48f3d9f1-feb2-47ad-8903-a3db199e5dea",
   "1829ba2a-4402-4f27-9107-3b727b99a126",
   "da8b5aa8-bf29-458e-9ca3-faf9418777a2",
   "fab4de69-40f3-4cdf-8d53-043bb6f8e69c",
@@ -508,8 +509,7 @@
   "90ea883a-0d1a-43a0-9515-3469449aa277",
   "82778234-8220-4edd-9701-d5f545f903cc",
   "a5e919e7-67a0-4910-a133-d3d17711a611",
-  "2e2a9954-924d-4453-9bcd-7ea77148ffe4",
-  "c0d37b37-ec66-4a56-955c-fef18d4ed589"
+  "2e2a9954-924d-4453-9bcd-7ea77148ffe4"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-08.17-trafikolycka-sollentuna/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795592374.8461504,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795592404.3894985,
-  "https://www.bt.se/rss": 1795593329.8980281,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795593330.7523794,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795593331.6489708,
-  "https://vallentunanya.se/": 1795593331.730718,
-  "https://elfsborg.se/feed/": 1795593332.403351,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795593333.714374
+  "https://www.bt.se/rss": 1795593635.4104154,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795593637.7532413,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795593638.640486,
+  "https://vallentunanya.se/": 1795593638.7068179,
+  "https://elfsborg.se/feed/": 1795593639.4499156,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795593640.6144702
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/har-blir-det-julgranar-ljus-och-pynt-i-vallentuna-6.3.398193.a444951010",
