@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "f82e8f51-3e5c-4745-9181-9523a647c60f",
   "44318fa8-ce6e-4faf-a863-495d78bab870",
   "918bc5db-6551-4f57-b0c1-1246de840dfe",
   "6b5826be-9c49-45cb-8e79-b6efda9f9801",
@@ -508,8 +509,7 @@
   "f3fad54f-ffdb-49ee-bb68-346d5e0cca82",
   "ccc2b54f-22af-4d16-864d-022ff5aa25ba",
   "e909f557-f65f-4dcd-a771-26f3a9d7c5ec",
-  "d7d64393-ddc8-4022-9c60-ff4e2f7f9af6",
-  "90ea883a-0d1a-43a0-9515-3469449aa277"
+  "d7d64393-ddc8-4022-9c60-ff4e2f7f9af6"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-08.08-rattfylleri-vaxjo/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795592374.8461504,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795592404.3894985,
-  "https://www.bt.se/rss": 1795595476.578875,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795595480.5554261,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795595481.434793,
-  "https://vallentunanya.se/": 1795595481.8030488,
-  "https://elfsborg.se/feed/": 1795595482.5050232,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795595483.8326218
+  "https://www.bt.se/rss": 1795595785.7197146,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795595788.6001685,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795595789.5010452,
+  "https://vallentunanya.se/": 1795595789.854433,
+  "https://elfsborg.se/feed/": 1795595790.6385138,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795595792.901551
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/har-blir-det-julgranar-ljus-och-pynt-i-vallentuna-6.3.398193.a444951010",
@@ -1083,6 +1083,7 @@
   "https://vallentunanya.se/sport/ny-sportchef-utan-stora-plaanboken/5186"
  ],
  "https://elfsborg.se/feed/": [
+  "https://elfsborg.se/?p=71405",
   "https://elfsborg.se/?p=71403",
   "https://elfsborg.se/?p=71337",
   "https://elfsborg.se/?p=71328",
