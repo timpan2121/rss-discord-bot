@@ -512,6 +512,8 @@
   "fab21043-6e78-4d30-a433-1ee18db9653c"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-16.14-rattfylleri-arjang/",
+  "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-16.16-narkotikabrott-karlstad/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-16.30-brand-goteborg/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-14.50-ran-lidkoping/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-10.29-arbetsplatsolycka-arvidsjaur/",
@@ -1009,9 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/15/15-november-22.43-narkotikabrott-malmo/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-06.09-misshandel-malmo/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-03.34-skadegorelse-stockholms-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-07.32-sammanfattning-natt-jamtlands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-06.51-trafikolycka-helsingborg/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-07.18-sammanfattning-natt-vasternorrlands-lan/"
+  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-07.32-sammanfattning-natt-jamtlands-lan/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795622048.082518,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795622048.597704,
-  "https://www.bt.se/rss": 1795622048.7985501,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795622050.5549388,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795622051.0898607,
-  "https://vallentunanya.se/": 1795622051.111786,
-  "https://elfsborg.se/feed/": 1795622051.5338476,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795622052.4126828
+  "https://www.bt.se/rss": 1795622365.4202278,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795622366.1255956,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795622369.0822,
+  "https://vallentunanya.se/": 1795622369.1027143,
+  "https://elfsborg.se/feed/": 1795622369.5995426,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795622370.4086359
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/slalomdrommen-i-ullna-fastnar-i-ny-konflikt-6.3.397399.eaab4bd91a",
