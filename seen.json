@@ -512,6 +512,7 @@
   "623813b8-7306-48cc-a1b5-928fbecdb6f2"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-08.31-olaga-hot-lindesberg/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-10.24-trafikolycka-singel-umea/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-10.37-trafikolycka-emmaboda/",
   "https://polisen.se/aktuellt/handelser/2026/september/26/26-september-21.15-forsvunnen-person-harryda/",
@@ -1010,8 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-04.06-skadegorelse-uppsala/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-03.16-skadegorelse-gavle/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-06.12-trafikolycka-halmstad/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-08.00-information-orebro-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-08.00-information-dalarnas-lan/"
+  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-08.00-information-orebro-lan/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,14 +1028,15 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795599847.280991,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795599862.189828,
-  "https://www.bt.se/rss": 1795602308.504999,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795602309.3249745,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795602309.8907382,
-  "https://vallentunanya.se/": 1795602310.0474489,
-  "https://elfsborg.se/feed/": 1795602310.4560304,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795602311.4000616
+  "https://www.bt.se/rss": 1795602613.7248018,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795602614.3933387,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795602616.16697,
+  "https://vallentunanya.se/": 1795602617.5883865,
+  "https://elfsborg.se/feed/": 1795602618.0562928,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795602619.0965443
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
+  "https://www.mitti.se/nyheter/slalomdrommen-i-ullna-fastnar-i-ny-konflikt-6.3.397399.eaab4bd91a",
   "https://www.mitti.se/nyheter/har-blir-det-julgranar-ljus-och-pynt-i-vallentuna-6.3.398193.a444951010",
   "https://www.mitti.se/nyheter/langtidsarbetslosheten-okar-i-vallentuna-6.3.396974.6a2764d1f9",
   "https://www.mitti.se/nyheter/minns-tuff-jul--nu-skanker-emil-kott-till-behovande-6.3.398188.e4bd034736",
