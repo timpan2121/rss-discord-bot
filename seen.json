@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "10e41c14-edb7-4290-97ab-c873464cf934",
   "a9f4bfed-3d4f-4ef8-a8c0-a4b791808622",
   "d56dae8a-29a5-4ebf-8350-de1e15e1834c",
   "fec955fa-8556-4568-8976-81908fd3e6f6",
@@ -508,8 +509,7 @@
   "238824ee-8fd2-4f92-b67a-93ab5e347dfb",
   "7d2cf5f6-8125-4623-9210-c5064f2e2d4a",
   "3a15550e-9625-4923-bec4-0ebb60872562",
-  "5847ae6e-5bbb-4d63-8833-3a1c48e509ea",
-  "10daa90f-3742-4625-9972-2898a88a4e81"
+  "5847ae6e-5bbb-4d63-8833-3a1c48e509ea"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-17.06-rattfylleri-vannas/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795625720.4682574,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795625721.0424106,
-  "https://www.bt.se/rss": 1795628466.8605003,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795628468.397994,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795628468.9549143,
-  "https://vallentunanya.se/": 1795628468.9748313,
-  "https://elfsborg.se/feed/": 1795628469.5140128,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795628470.2866344
+  "https://www.bt.se/rss": 1795628771.6402419,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795628773.5498655,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795628774.0916743,
+  "https://vallentunanya.se/": 1795628774.1157053,
+  "https://elfsborg.se/feed/": 1795628774.5449796,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795628775.426131
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/slalomdrommen-i-ullna-fastnar-i-ny-konflikt-6.3.397399.eaab4bd91a",
