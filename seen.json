@@ -512,6 +512,8 @@
   "147f9967-3bc5-4fcc-8fcf-474afa4242e5"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-10.10-trafikkontroll-vasterbottens-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-09.29-trafikolycka-stockholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-08.08-rattfylleri-vaxjo/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-08.17-trafikolycka-sollentuna/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-07.48-arbetsplatsolycka-kristianstad/",
@@ -1009,9 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-08.00-information-varmlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-07.46-sammanfattning-natt-ostergotlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-07.45-sammanfattning-natt-sodermanlands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/september/26/26-september-21.15-forsvunnen-person-harryda/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-11.56-arbetsplatsolycka-skara/",
-  "https://polisen.se/aktuellt/handelser/2026/november/16/16-november-12.22-trafikkontroll-jamtlands-lan/"
+  "https://polisen.se/aktuellt/handelser/2026/september/26/26-september-21.15-forsvunnen-person-harryda/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795596094.654501,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795596119.6935909,
-  "https://www.bt.se/rss": 1795597985.8443172,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795597988.2537167,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795597990.890652,
-  "https://vallentunanya.se/": 1795597991.4299152,
-  "https://elfsborg.se/feed/": 1795597992.1556232,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795597993.512692
+  "https://www.bt.se/rss": 1795598295.3145387,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795598296.3634949,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795598300.056866,
+  "https://vallentunanya.se/": 1795598300.166625,
+  "https://elfsborg.se/feed/": 1795598300.8880706,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795598302.3257523
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/har-blir-det-julgranar-ljus-och-pynt-i-vallentuna-6.3.398193.a444951010",
