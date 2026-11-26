@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "c625c877-f576-4cbd-9744-40764cf33a48",
   "1274c8a4-9e0d-45de-a279-192a6a9df4f2",
   "73d26aeb-f924-4d0f-914f-ae632a7cd709",
   "979fb922-8c66-423f-bd6b-1e37cce24c42",
@@ -508,10 +509,11 @@
   "9d621e40-8c3a-4ef8-b1a2-e95645143eae",
   "970ad857-9671-484f-b58c-7f0fc7057153",
   "71979262-30fd-4d11-87bf-8a99d7a72af5",
-  "c0f3a93c-4562-43b1-ba96-0f51b5069cc6",
-  "ec37fa1f-63c9-484a-b39c-112c58925a17"
+  "c0f3a93c-4562-43b1-ba96-0f51b5069cc6"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-16.25-trafikolycka-singel-orebro/",
+  "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-16.27-brand-nybro/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-16.22-trafikolycka-malmo/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-16.08-misshandel-grov-helsingborg/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-16.12-trafikolycka-ornskoldsvik/",
@@ -1009,9 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-11.53-brand-pitea/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-11.16-trafikolycka-sundsvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-10.58-trafikolycka-asele/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-11.29-kontroll-katrineholm/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-06.32-kontroll-stockholm/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-10.22-arbetsplatsolycka-vastervik/"
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-11.29-kontroll-katrineholm/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795707026.2501025,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795707045.913825,
-  "https://www.bt.se/rss": 1795708288.792178,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795708289.6064181,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795708290.1575632,
-  "https://vallentunanya.se/": 1795708290.231092,
-  "https://elfsborg.se/feed/": 1795708290.7632036,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795708291.2100134
+  "https://www.bt.se/rss": 1795708592.9124804,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795708594.9304976,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795708598.017898,
+  "https://vallentunanya.se/": 1795708598.210584,
+  "https://elfsborg.se/feed/": 1795708598.6849964,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795708599.1411128
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/spred-tonvis-med-knark-over-landet--nu-doms-de-6.3.398549.943314cd7a",
