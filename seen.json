@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "acdf0af9-8ab8-46be-8d94-9e7d016a51f7",
   "0b8a7518-501f-4c10-943d-370ba74510c8",
   "24a17c2e-d60d-48f3-9835-25623cb2fab9",
   "0c8b9b37-e738-4d32-9acf-87bb865626ba",
@@ -508,8 +509,7 @@
   "be882e25-ec02-4e3f-840a-21e92b52d03b",
   "fc56c230-e9b0-4ed0-9efd-f90214ab4cfa",
   "2f6c5246-7bfa-4b96-a05d-86f3d3d167f9",
-  "97a47d8a-415b-4d29-bf4a-cbb802f7b697",
-  "da040b8a-ba4d-489a-a5d7-a556bed3f12a"
+  "97a47d8a-415b-4d29-bf4a-cbb802f7b697"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-09.37-trafikolycka-orebro/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795684703.8992121,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795684719.6311297,
-  "https://www.bt.se/rss": 1795684720.2295504,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795684721.2297575,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795684722.2048724,
-  "https://vallentunanya.se/": 1795684722.5186257,
-  "https://elfsborg.se/feed/": 1795684723.0464048,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795684724.746353
+  "https://www.bt.se/rss": 1795685026.315934,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795685028.3036518,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795685029.0962536,
+  "https://vallentunanya.se/": 1795685029.3120883,
+  "https://elfsborg.se/feed/": 1795685029.9381468,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795685031.0219684
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/foraldrarna-larmade--da-upptacktes-flera-brister-6.3.396730.e21c85aadd",
