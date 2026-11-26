@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "979fb922-8c66-423f-bd6b-1e37cce24c42",
   "2c30d189-0c98-41f0-a7d6-1b3eb8767edc",
   "89c79411-8e0b-4b16-a98b-5e59a42e0ff8",
   "b23711e9-5fd6-4db2-b49d-9966eda3320a",
@@ -508,8 +509,7 @@
   "c0f3a93c-4562-43b1-ba96-0f51b5069cc6",
   "ec37fa1f-63c9-484a-b39c-112c58925a17",
   "4db3187e-f08f-41d7-83ee-795dca5eac7f",
-  "768eb450-fa62-4996-b936-ed7204b4150d",
-  "4456cbf8-3a7b-4f7b-84cc-c8a385e8d3c0"
+  "768eb450-fa62-4996-b936-ed7204b4150d"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-14.43-rattfylleri-stockholm/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795703342.4069424,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795703352.9551044,
-  "https://www.bt.se/rss": 1795706413.1899455,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795706413.9062781,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795706418.2406714,
-  "https://vallentunanya.se/": 1795706418.5050604,
-  "https://elfsborg.se/feed/": 1795706419.0543938,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795706419.5750842
+  "https://www.bt.se/rss": 1795706721.1305184,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795706722.9530165,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795706723.6119924,
+  "https://vallentunanya.se/": 1795706723.8383024,
+  "https://elfsborg.se/feed/": 1795706724.311305,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795706724.843556
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/spred-tonvis-med-knark-over-landet--nu-doms-de-6.3.398549.943314cd7a",
