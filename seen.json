@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "4b09f2bd-b73a-4a10-9e85-4ea24c8ab648",
   "de5e2d3f-4a1b-46d2-8859-bcef257609bf",
   "fe9228b7-4add-4b40-9bf3-d72bfde5c11f",
   "9e36649d-8a9b-4331-b4b1-1364266a1ebc",
@@ -508,10 +509,11 @@
   "0285cdbd-892f-4a3e-8cb7-27f9e3d57277",
   "35b4c86d-72bc-48e9-9134-614dab2e6780",
   "0ebcc63f-9e61-4176-b66b-2a3c48458f2b",
-  "ce9a2d33-0597-4fb3-9896-8f57692319aa",
-  "c7887a86-f062-4f88-9739-bf65331c0f4e"
+  "ce9a2d33-0597-4fb3-9896-8f57692319aa"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-07.57-trafikolycka-malmo/",
+  "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-08.00-sammanfattning-natt-jamtlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-07.48-sammanfattning-natt-jonkopings-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-07.49-sammanfattning-natt-ostergotlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-07.51-sammanfattning-natt-sodermanlands-lan/",
@@ -1009,9 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-22.00-ovrigt-hallands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-21.41-trafikkontroll-vasternorrlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-21.41-trafikkontroll-vasterbottens-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-21.40-trafikkontroll-jamtlands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-21.35-olovlig-korning-orebro/",
-  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-21.11-trafikkontroll-norrbottens-lan/"
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-21.40-trafikkontroll-jamtlands-lan/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1026,14 +1026,14 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795673525.1322768,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795673545.677187,
-  "https://www.bt.se/rss": 1795676934.2506444,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795676935.4826758,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795676936.1948242,
-  "https://vallentunanya.se/": 1795676936.492025,
-  "https://elfsborg.se/feed/": 1795676937.0443914,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795676938.1432912
+  "https://eurocop.nu/rss.xml": 1795677239.661916,
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795677260.224764,
+  "https://www.bt.se/rss": 1795677280.3107238,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795677282.3264565,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795677285.8069644,
+  "https://vallentunanya.se/": 1795677286.016657,
+  "https://elfsborg.se/feed/": 1795677288.3985631,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795677289.5466652
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/foraldrarna-larmade--da-upptacktes-flera-brister-6.3.396730.e21c85aadd",
@@ -1054,6 +1054,7 @@
   "https://www.mitti.se/nyheter/vallentuna-gymnasium-firar-40-ar-vi-har-en-valdigt-karleksfull-skola-6.3.396117.eb65f8ad16"
  ],
  "https://vallentunanya.se/": [
+  "https://vallentunanya.se/kronika/forandring-entreprenorskapets-tradgaard/5216",
   "https://vallentunanya.se/nyheter/darfor-kan-du-vakna-av-flygplan-i-december/5227",
   "https://vallentunanya.se/nyheter/vandningen-safiren-faar-fortsatta/5214",
   "https://vallentunanya.se/nyheter/premiar-for-viltveckan-i-vallentuna/5213",
