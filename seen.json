@@ -512,6 +512,8 @@
   "2c2ce3f7-04ab-4191-b5f7-a47aae7abda7"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-02.01-misshandel-helsingborg/",
+  "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-02.20-rattfylleri-simrishamn/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-02.16-rattfylleri-karlshamn/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-01.49-brand-landskrona/",
   "https://polisen.se/aktuellt/handelser/2026/november/25/25-november-23.38-misshandel-landskrona/",
@@ -1009,9 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-18.51-trafikolycka-vilt-jamtlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-18.50-trafikolycka-vilt-vasternorrlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-18.49-trafikolycka-vilt-vasterbottens-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-18.46-trafikolycka-vilt-norrbottens-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-18.08-trafikolycka-lulea/",
-  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-15.29-trafikolycka-personskada-vallentuna/"
+  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-18.46-trafikolycka-vilt-norrbottens-lan/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795669792.1895545,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795669812.1607966,
-  "https://www.bt.se/rss": 1795671670.1337569,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795671672.1648247,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795671674.5227563,
-  "https://vallentunanya.se/": 1795671674.7642906,
-  "https://elfsborg.se/feed/": 1795671675.342576,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795671676.429665
+  "https://www.bt.se/rss": 1795671978.099282,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795671978.8825772,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795671982.4909663,
+  "https://vallentunanya.se/": 1795671982.6860306,
+  "https://elfsborg.se/feed/": 1795671983.257991,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795671984.5073888
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/foraldrarna-larmade--da-upptacktes-flera-brister-6.3.396730.e21c85aadd",
