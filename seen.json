@@ -512,6 +512,7 @@
   "768eb450-fa62-4996-b936-ed7204b4150d"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-16.12-trafikolycka-ornskoldsvik/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-14.43-rattfylleri-stockholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-16.09-trafikolycka-lund/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-15.57-trafikolycka-halmstad/",
@@ -1010,8 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-06.32-kontroll-stockholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-10.22-arbetsplatsolycka-vastervik/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-09.32-farligt-foremal-misstankt-goteborg/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-09.10-trafikolycka-hjo/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-08.45-trafikolycka-lulea/"
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-09.10-trafikolycka-hjo/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1026,14 +1026,14 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795703342.4069424,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795703352.9551044,
-  "https://www.bt.se/rss": 1795706721.1305184,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795706722.9530165,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795706723.6119924,
-  "https://vallentunanya.se/": 1795706723.8383024,
-  "https://elfsborg.se/feed/": 1795706724.311305,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795706724.843556
+  "https://eurocop.nu/rss.xml": 1795707026.2501025,
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795707045.913825,
+  "https://www.bt.se/rss": 1795707060.515173,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795707061.2061293,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795707066.2630465,
+  "https://vallentunanya.se/": 1795707066.5723183,
+  "https://elfsborg.se/feed/": 1795707067.065701,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795707067.5110285
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/spred-tonvis-med-knark-over-landet--nu-doms-de-6.3.398549.943314cd7a",
