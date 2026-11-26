@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "d5c4f5ce-b430-4821-afe2-27229509293d",
   "c625c877-f576-4cbd-9744-40764cf33a48",
   "1274c8a4-9e0d-45de-a279-192a6a9df4f2",
   "73d26aeb-f924-4d0f-914f-ae632a7cd709",
@@ -508,10 +509,10 @@
   "09bc1aa4-be1e-41dd-a0f4-20d3504bcc82",
   "9d621e40-8c3a-4ef8-b1a2-e95645143eae",
   "970ad857-9671-484f-b58c-7f0fc7057153",
-  "71979262-30fd-4d11-87bf-8a99d7a72af5",
-  "c0f3a93c-4562-43b1-ba96-0f51b5069cc6"
+  "71979262-30fd-4d11-87bf-8a99d7a72af5"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-16.22-rattfylleri-sater/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-16.51-trafikolycka-singel-alvdalen/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-16.25-trafikolycka-singel-orebro/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-16.27-brand-nybro/",
@@ -1010,8 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-12.48-ovrigt-vastra-gotalands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-11.35-fylleri-sundsvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-11.53-brand-pitea/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-11.16-trafikolycka-sundsvall/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-10.58-trafikolycka-asele/"
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-11.16-trafikolycka-sundsvall/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795707026.2501025,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795707045.913825,
-  "https://www.bt.se/rss": 1795708900.8201602,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795708901.8120658,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795708903.7674818,
-  "https://vallentunanya.se/": 1795708903.9753637,
-  "https://elfsborg.se/feed/": 1795708904.5471854,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795708904.9779599
+  "https://www.bt.se/rss": 1795709206.5297575,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795709208.5757499,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795709210.5253384,
+  "https://vallentunanya.se/": 1795709210.738467,
+  "https://elfsborg.se/feed/": 1795709212.7566953,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795709213.2704709
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/spred-tonvis-med-knark-over-landet--nu-doms-de-6.3.398549.943314cd7a",
@@ -1055,6 +1055,7 @@
   "https://www.mitti.se/nyheter/vallentuna-gymnasium-firar-40-ar-vi-har-en-valdigt-karleksfull-skola-6.3.396117.eb65f8ad16"
  ],
  "https://vallentunanya.se/": [
+  "https://vallentunanya.se/nyheter/elin-24-startar-bossa-for-alla-boybandalskare/5224",
   "https://vallentunanya.se/nyheter/322-promille-fallde-en-lyktstolpe/5229",
   "https://vallentunanya.se/nyheter/pollinatorsparken-ar-klar/5226",
   "https://vallentunanya.se/reportage/en-aktivitetskompass-for-seniorer/5228",
