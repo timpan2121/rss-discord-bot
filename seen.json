@@ -10,6 +10,11 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "61c7b360-90c4-4220-a822-5ff88cfe6dc5",
+  "d2e4ea05-4712-425d-856a-a63d0a185ad1",
+  "2046c03b-a987-49d2-83bf-ab7eda794147",
+  "059c78cd-042f-4312-8502-fab65751b1e4",
+  "26fa7926-0223-4ad4-a1a1-160a8eae858c",
   "acdf0af9-8ab8-46be-8d94-9e7d016a51f7",
   "0b8a7518-501f-4c10-943d-370ba74510c8",
   "24a17c2e-d60d-48f3-9835-25623cb2fab9",
@@ -504,14 +509,12 @@
   "e070caa8-6fbe-49b8-8c1a-6351d7a88194",
   "04d629df-f44c-4c7c-9f3a-4d607830baca",
   "de679797-14e5-4c72-bebd-4528a0de57f2",
-  "0202f197-b9e1-43f3-a425-37ee2af583f9",
-  "0e4d79c0-a88f-4ce1-b2b2-962caf4080ef",
-  "be882e25-ec02-4e3f-840a-21e92b52d03b",
-  "fc56c230-e9b0-4ed0-9efd-f90214ab4cfa",
-  "2f6c5246-7bfa-4b96-a05d-86f3d3d167f9",
-  "97a47d8a-415b-4d29-bf4a-cbb802f7b697"
+  "0202f197-b9e1-43f3-a425-37ee2af583f9"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-07.41-stoldinbrott-ornskoldsvik/",
+  "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-08.03-arbetsplatsolycka-sundsvall/",
+  "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-10.19-trafikolycka-norrkoping/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-09.37-trafikolycka-orebro/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-10.01-trafikolycka-linkoping/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-07.35-trafikolycka-halmstad/",
@@ -1008,10 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.00-sammanfattning-natt-dalarnas-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.00-sammanfattning-natt-varmlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-06.38-trafikolycka-tingsryd/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-06.26-trafikolycka-vimmerby/",
-  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-21.04-brand-malmo/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-00.51-ovrigt-malmo/",
-  "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-22.00-ovrigt-vastra-gotalands-lan/"
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-06.26-trafikolycka-vimmerby/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795684703.8992121,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795684719.6311297,
-  "https://www.bt.se/rss": 1795685026.315934,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795685028.3036518,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795685029.0962536,
-  "https://vallentunanya.se/": 1795685029.3120883,
-  "https://elfsborg.se/feed/": 1795685029.9381468,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795685031.0219684
+  "https://www.bt.se/rss": 1795685332.4857912,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795685339.169123,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795685344.321626,
+  "https://vallentunanya.se/": 1795685344.6849573,
+  "https://elfsborg.se/feed/": 1795685345.326809,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795685346.7724295
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/foraldrarna-larmade--da-upptacktes-flera-brister-6.3.396730.e21c85aadd",
