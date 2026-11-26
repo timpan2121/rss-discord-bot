@@ -10,6 +10,8 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "b14f0332-ac7d-4df5-8aee-b960e5cbcff2",
+  "e09ba748-8d3f-429a-b1dc-241580bbf162",
   "ea6463e2-ef4f-4c0c-adc6-5d149405a42e",
   "461ec5cd-10e6-4455-b295-b0f3215a5935",
   "9998f747-1396-43b3-a7e9-ba9f2c8eca0e",
@@ -507,9 +509,7 @@
   "d6f33135-e1b8-4628-8c20-0d44b4af3dc5",
   "99c6774c-69f4-4760-a9b0-6ba8d873dd3a",
   "5b4c6f66-b375-4f51-980b-78d2883bc4b7",
-  "18c15e9d-f741-42f8-8021-104577dc3eb0",
-  "f24ef637-11df-49e2-b20a-7e9dc04d4984",
-  "638f5649-38c0-4290-a2f4-82844a890a7e"
+  "18c15e9d-f741-42f8-8021-104577dc3eb0"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-14.02-trafikolycka-arvika/",
@@ -1026,14 +1026,14 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795695835.5978627,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795695841.2099054,
-  "https://www.bt.se/rss": 1795699291.5645928,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795699292.3493125,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795699294.2934022,
-  "https://vallentunanya.se/": 1795699294.6117353,
-  "https://elfsborg.se/feed/": 1795699295.1626523,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795699298.0960708
+  "https://eurocop.nu/rss.xml": 1795699599.7373388,
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795699624.7210736,
+  "https://www.bt.se/rss": 1795699649.5123584,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795699652.7966998,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795699653.5158873,
+  "https://vallentunanya.se/": 1795699653.7305884,
+  "https://elfsborg.se/feed/": 1795699654.385093,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795699657.5136497
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/spred-tonvis-med-knark-over-landet--nu-doms-de-6.3.398549.943314cd7a",
