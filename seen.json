@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795677239.661916,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795677260.224764,
-  "https://www.bt.se/rss": 1795680360.8519406,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795680364.3289065,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795680365.1290119,
-  "https://vallentunanya.se/": 1795680365.6404362,
-  "https://elfsborg.se/feed/": 1795680366.1225884,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795680367.336837
+  "https://www.bt.se/rss": 1795680668.8077133,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795680669.63813,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795680670.442702,
+  "https://vallentunanya.se/": 1795680670.7290478,
+  "https://elfsborg.se/feed/": 1795680673.2477598,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795680674.401608
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/foraldrarna-larmade--da-upptacktes-flera-brister-6.3.396730.e21c85aadd",
@@ -1054,6 +1054,7 @@
   "https://www.mitti.se/nyheter/vallentuna-gymnasium-firar-40-ar-vi-har-en-valdigt-karleksfull-skola-6.3.396117.eb65f8ad16"
  ],
  "https://vallentunanya.se/": [
+  "https://vallentunanya.se/reportage/en-aktivitetskompass-for-seniorer/5228",
   "https://vallentunanya.se/nyheter/storforetag-faar-lamna-plats-aat-nya-bostader/5223",
   "https://vallentunanya.se/nyheter/hemliga-lasare-vacker-boklust/5221",
   "https://vallentunanya.se/reportage/tvaa-motsatser-och-ett-kungamord/5225",
