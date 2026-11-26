@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "f1b0c0a9-581c-49c3-b8f1-1919d586e9fc",
   "412802d0-7739-4514-a4dd-c821315a843c",
   "630fe29a-e0df-4b95-8632-67c6cbe49282",
   "ffadbf72-2989-4f9f-aa58-a1d17672dc49",
@@ -508,8 +509,7 @@
   "4456cbf8-3a7b-4f7b-84cc-c8a385e8d3c0",
   "aa6ad0ce-e27b-4ad2-a587-00da5e183a11",
   "d336ad4a-17bd-4ed4-baac-f88dc6b43d42",
-  "dcf46fa3-5f6f-4757-b563-0e31d8f3190b",
-  "46621912-b20e-405c-abeb-a6815e758857"
+  "dcf46fa3-5f6f-4757-b563-0e31d8f3190b"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-15.18-trafikolycka-singel-mora/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795703342.4069424,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795703352.9551044,
-  "https://www.bt.se/rss": 1795704881.3830981,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795704882.1485996,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795704882.6902952,
-  "https://vallentunanya.se/": 1795704882.8378694,
-  "https://elfsborg.se/feed/": 1795704883.2192867,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795704883.6922603
+  "https://www.bt.se/rss": 1795705185.1632094,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795705187.0667536,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795705187.638761,
+  "https://vallentunanya.se/": 1795705187.8623068,
+  "https://elfsborg.se/feed/": 1795705188.3381925,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795705188.779501
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/spred-tonvis-med-knark-over-landet--nu-doms-de-6.3.398549.943314cd7a",
