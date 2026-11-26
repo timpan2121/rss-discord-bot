@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "c3401032-2e06-4a99-96af-3d5816cfed32",
   "a807d66d-b7e2-4847-af06-dd09a9d592a2",
   "63c50ae6-96e6-45a6-9a29-edb9bd3adfbf",
   "9b18bad1-6878-4f8e-bfb1-8b5115df8173",
@@ -508,10 +509,12 @@
   "3b58514c-1772-44b1-8fcd-686ef20c16c8",
   "cf883fe1-9aeb-46d5-b1ca-4eccbde408ae",
   "91a19974-3c85-4afd-b839-6abda53aa472",
-  "f963eec5-249f-45c8-a8a9-8001dda25d80",
-  "e070caa8-6fbe-49b8-8c1a-6351d7a88194"
+  "f963eec5-249f-45c8-a8a9-8001dda25d80"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-12.47-bedrageri-varmlands-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-12.45-bedrageri-dalarnas-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-12.44-bedrageri-orebro-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-12.33-information-varmlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-12.33-information-dalarnas-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-12.33-information-orebro-lan/",
@@ -1008,10 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.17-sammanfattning-natt-norrbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.16-sammanfattning-natt-vasterbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.16-sammanfattning-natt-vasternorrlands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.16-sammanfattning-natt-jamtlands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-06.56-trafikolycka-jonkoping/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-06.44-trafikolycka-eksjo/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-06.53-trafikolycka-norrkoping/"
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.16-sammanfattning-natt-jamtlands-lan/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795692121.4270873,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795692122.2266438,
-  "https://www.bt.se/rss": 1795693360.194329,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795693361.2467515,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795693362.0529523,
-  "https://vallentunanya.se/": 1795693362.2582073,
-  "https://elfsborg.se/feed/": 1795693362.9697652,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795693364.1092496
+  "https://www.bt.se/rss": 1795693665.9694788,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795693668.0887911,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795693674.069887,
+  "https://vallentunanya.se/": 1795693674.3452358,
+  "https://elfsborg.se/feed/": 1795693674.8976507,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795693677.2738066
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/foraldrarna-larmade--da-upptacktes-flera-brister-6.3.396730.e21c85aadd",
