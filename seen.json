@@ -10,6 +10,8 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "63c50ae6-96e6-45a6-9a29-edb9bd3adfbf",
+  "9b18bad1-6878-4f8e-bfb1-8b5115df8173",
   "61c7b360-90c4-4220-a822-5ff88cfe6dc5",
   "d2e4ea05-4712-425d-856a-a63d0a185ad1",
   "2046c03b-a987-49d2-83bf-ab7eda794147",
@@ -507,9 +509,7 @@
   "91a19974-3c85-4afd-b839-6abda53aa472",
   "f963eec5-249f-45c8-a8a9-8001dda25d80",
   "e070caa8-6fbe-49b8-8c1a-6351d7a88194",
-  "04d629df-f44c-4c7c-9f3a-4d607830baca",
-  "de679797-14e5-4c72-bebd-4528a0de57f2",
-  "0202f197-b9e1-43f3-a425-37ee2af583f9"
+  "04d629df-f44c-4c7c-9f3a-4d607830baca"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-08.53-trafikolycka-singel-harnosand/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795684703.8992121,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795684719.6311297,
-  "https://www.bt.se/rss": 1795686871.9834888,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795686872.9171307,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795686873.877207,
-  "https://vallentunanya.se/": 1795686874.1773987,
-  "https://elfsborg.se/feed/": 1795686874.7140071,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795686876.0057657
+  "https://www.bt.se/rss": 1795687177.593121,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795687180.894773,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795687181.636763,
+  "https://vallentunanya.se/": 1795687181.8509,
+  "https://elfsborg.se/feed/": 1795687182.4746614,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795687183.834853
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/foraldrarna-larmade--da-upptacktes-flera-brister-6.3.396730.e21c85aadd",
