@@ -10,6 +10,8 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "ddafaf27-7cf9-4ddc-9fe8-268114b6aaf5",
+  "950c0d2c-7562-4abd-90f0-fd4f25ddbcce",
   "b14f0332-ac7d-4df5-8aee-b960e5cbcff2",
   "e09ba748-8d3f-429a-b1dc-241580bbf162",
   "ea6463e2-ef4f-4c0c-adc6-5d149405a42e",
@@ -507,9 +509,7 @@
   "46621912-b20e-405c-abeb-a6815e758857",
   "d545f70f-ef33-4d0e-b7ab-6ecc9b9187e3",
   "d6f33135-e1b8-4628-8c20-0d44b4af3dc5",
-  "99c6774c-69f4-4760-a9b0-6ba8d873dd3a",
-  "5b4c6f66-b375-4f51-980b-78d2883bc4b7",
-  "18c15e9d-f741-42f8-8021-104577dc3eb0"
+  "99c6774c-69f4-4760-a9b0-6ba8d873dd3a"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-14.02-trafikolycka-arvika/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795699599.7373388,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795699624.7210736,
-  "https://www.bt.se/rss": 1795700271.3429537,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795700272.1490023,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795700272.9750438,
-  "https://vallentunanya.se/": 1795700273.2342975,
-  "https://elfsborg.se/feed/": 1795700273.8664343,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795700275.0119457
+  "https://www.bt.se/rss": 1795700576.6302187,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795700579.800928,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795700580.5347435,
+  "https://vallentunanya.se/": 1795700580.8656847,
+  "https://elfsborg.se/feed/": 1795700581.397295,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795700582.6722453
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/spred-tonvis-med-knark-over-landet--nu-doms-de-6.3.398549.943314cd7a",
