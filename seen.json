@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "1274c8a4-9e0d-45de-a279-192a6a9df4f2",
   "73d26aeb-f924-4d0f-914f-ae632a7cd709",
   "979fb922-8c66-423f-bd6b-1e37cce24c42",
   "2c30d189-0c98-41f0-a7d6-1b3eb8767edc",
@@ -508,8 +509,7 @@
   "970ad857-9671-484f-b58c-7f0fc7057153",
   "71979262-30fd-4d11-87bf-8a99d7a72af5",
   "c0f3a93c-4562-43b1-ba96-0f51b5069cc6",
-  "ec37fa1f-63c9-484a-b39c-112c58925a17",
-  "4db3187e-f08f-41d7-83ee-795dca5eac7f"
+  "ec37fa1f-63c9-484a-b39c-112c58925a17"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-16.22-trafikolycka-malmo/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795707026.2501025,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795707045.913825,
-  "https://www.bt.se/rss": 1795707679.1364772,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795707679.9124749,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795707680.5919967,
-  "https://vallentunanya.se/": 1795707680.8020577,
-  "https://elfsborg.se/feed/": 1795707681.3447583,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795707681.7928488
+  "https://www.bt.se/rss": 1795707983.3133428,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795707985.3829515,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795707986.0616212,
+  "https://vallentunanya.se/": 1795707986.2751088,
+  "https://elfsborg.se/feed/": 1795707986.7779276,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795707987.2016797
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/spred-tonvis-med-knark-over-landet--nu-doms-de-6.3.398549.943314cd7a",
