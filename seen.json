@@ -10,6 +10,11 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "de5e2d3f-4a1b-46d2-8859-bcef257609bf",
+  "fe9228b7-4add-4b40-9bf3-d72bfde5c11f",
+  "9e36649d-8a9b-4331-b4b1-1364266a1ebc",
+  "940dc765-d62c-4adf-8aa3-bb30e46e0b8f",
+  "0b83d1d3-9a10-480d-848e-f1b3951136c6",
   "921c9501-7e4c-40f3-8581-3d830734485c",
   "b6885120-6139-43a8-8253-ac13118c87fc",
   "4b2efe5d-0cb9-4253-b35c-2ddb735c2bbf",
@@ -504,12 +509,7 @@
   "35b4c86d-72bc-48e9-9134-614dab2e6780",
   "0ebcc63f-9e61-4176-b66b-2a3c48458f2b",
   "ce9a2d33-0597-4fb3-9896-8f57692319aa",
-  "c7887a86-f062-4f88-9739-bf65331c0f4e",
-  "6d6eb5a1-7223-4913-8ce2-39b67baf00ab",
-  "a93fb080-f64f-4f75-ab9f-3ef8352fb0bf",
-  "0a9ac8ea-cb36-44fc-b2b2-5590340fff26",
-  "59dd08b3-bc9a-40aa-9b07-7ec4bb1bcb41",
-  "a9469ed7-2cc4-4634-9655-c52da273bab1"
+  "c7887a86-f062-4f88-9739-bf65331c0f4e"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-07.48-sammanfattning-natt-jonkopings-lan/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795673525.1322768,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795673545.677187,
-  "https://www.bt.se/rss": 1795676313.7686827,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795676315.4839315,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795676319.1501973,
-  "https://vallentunanya.se/": 1795676319.4241219,
-  "https://elfsborg.se/feed/": 1795676319.947349,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795676321.0537393
+  "https://www.bt.se/rss": 1795676622.5976527,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795676629.474585,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795676630.5821786,
+  "https://vallentunanya.se/": 1795676630.8799484,
+  "https://elfsborg.se/feed/": 1795676631.508984,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795676632.7042658
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/foraldrarna-larmade--da-upptacktes-flera-brister-6.3.396730.e21c85aadd",
