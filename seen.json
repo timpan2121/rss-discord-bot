@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "8c35443b-fc2a-42f5-8177-f6c7ab1ac598",
   "b783f615-d1d7-4fca-9189-ff9613d3a25f",
   "f391ecbf-e743-4001-a470-d01748daabb6",
   "d6c03600-a511-478e-9cd8-055ce4096b19",
@@ -508,8 +509,7 @@
   "86a15fa6-aacc-413e-84d6-0e3e3663152f",
   "8c45d6c4-4797-4df2-972c-a3ba9a7946df",
   "79d5dd6c-8fcc-4c08-9803-cbc7e4d4bc52",
-  "efa900a1-bccd-434f-b693-f22ffdb24c53",
-  "51366b00-e261-4589-be3b-9c718e63d539"
+  "efa900a1-bccd-434f-b693-f22ffdb24c53"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-21.55-trafikkontroll-jamtlands-lan/",
@@ -1026,14 +1026,14 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795725446.2746868,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795725492.288804,
-  "https://www.bt.se/rss": 1795728904.2614195,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795728905.3736916,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795728906.5810308,
-  "https://vallentunanya.se/": 1795728906.7953644,
-  "https://elfsborg.se/feed/": 1795728907.4894643,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795728908.1622446
+  "https://eurocop.nu/rss.xml": 1795729210.0845609,
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795729256.0343988,
+  "https://www.bt.se/rss": 1795729290.761822,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795729292.7499876,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795729293.9698133,
+  "https://vallentunanya.se/": 1795729294.276184,
+  "https://elfsborg.se/feed/": 1795729295.0987544,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795729295.7621202
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/spred-tonvis-med-knark-over-landet--nu-doms-de-6.3.398549.943314cd7a",
@@ -1123,6 +1123,7 @@
   "https://elfsborg.se/?p=71160"
  ],
  "https://bollsvenskan.se/feed/if-elfsborg": [
+  "https://bollsvenskan.se/nyhetsflode/?post_id=d73a9331-e477-6a5b-c8b2-954928b077f8",
   "https://bollsvenskan.se/nyhetsflode/?post_id=c5a18b24-556c-6b48-267d-9907bdd8c4ac",
   "https://bollsvenskan.se/nyhetsflode/?post_id=be849113-4f85-fb42-bc98-d54e528798c3",
   "https://bollsvenskan.se/nyhetsflode/?post_id=ce1d8668-b1d2-6f39-9506-ce207ecf9a67",
