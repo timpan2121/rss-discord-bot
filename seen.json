@@ -512,6 +512,8 @@
   "f5b4942d-2d9b-4734-9954-f36fea19d5d7"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-14.00-brand-sodermanlands-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-14.00-brand-ostergotlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-13.49-brand-jonkopings-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-13.45-trafikkontroll-vasterbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-13.30-bedrageri-ostergotlands-lan/",
@@ -1009,9 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-06.45-arbetsplatsolycka-gavle/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-08.25-arbetsplatsolycka-lund/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-08.14-trafikolycka-burlov/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-08.19-trafikolycka-kristianstad/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-08.16-information-varmlands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-08.16-information-dalarnas-lan/"
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-08.19-trafikolycka-kristianstad/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795695835.5978627,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795695841.2099054,
-  "https://www.bt.se/rss": 1795698034.0696266,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795698036.0000672,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795698043.2444112,
-  "https://vallentunanya.se/": 1795698043.4868045,
-  "https://elfsborg.se/feed/": 1795698044.1004248,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795698048.6942756
+  "https://www.bt.se/rss": 1795698350.8262577,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795698351.5818403,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795698355.0135412,
+  "https://vallentunanya.se/": 1795698355.3446844,
+  "https://elfsborg.se/feed/": 1795698355.8924851,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795698360.1155922
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/foraldrarna-larmade--da-upptacktes-flera-brister-6.3.396730.e21c85aadd",
