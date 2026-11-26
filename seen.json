@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "0c8b9b37-e738-4d32-9acf-87bb865626ba",
   "755981d0-2022-458d-99df-4b3345599dd4",
   "67c79386-33cb-4568-b5b1-ad6775cc7a63",
   "4b09f2bd-b73a-4a10-9e85-4ea24c8ab648",
@@ -508,8 +509,7 @@
   "97a47d8a-415b-4d29-bf4a-cbb802f7b697",
   "da040b8a-ba4d-489a-a5d7-a556bed3f12a",
   "852f7b2d-f856-4e35-9369-50ac4f3bf72f",
-  "0285cdbd-892f-4a3e-8cb7-27f9e3d57277",
-  "35b4c86d-72bc-48e9-9134-614dab2e6780"
+  "0285cdbd-892f-4a3e-8cb7-27f9e3d57277"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-07.35-trafikolycka-halmstad/",
@@ -1026,14 +1026,14 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795677239.661916,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795677260.224764,
-  "https://www.bt.se/rss": 1795680668.8077133,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795680669.63813,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795680670.442702,
-  "https://vallentunanya.se/": 1795680670.7290478,
-  "https://elfsborg.se/feed/": 1795680673.2477598,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795680674.401608
+  "https://eurocop.nu/rss.xml": 1795680975.952779,
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795680991.558533,
+  "https://www.bt.se/rss": 1795681015.770539,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795681017.8675592,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795681018.653109,
+  "https://vallentunanya.se/": 1795681018.846007,
+  "https://elfsborg.se/feed/": 1795681019.444035,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795681020.7101936
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/foraldrarna-larmade--da-upptacktes-flera-brister-6.3.396730.e21c85aadd",
