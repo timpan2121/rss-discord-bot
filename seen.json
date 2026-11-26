@@ -10,6 +10,8 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "872ff98a-1a92-4a19-a979-7fa9682d6843",
+  "41e61004-4dbb-430b-91e0-a259669899bd",
   "1da7ef41-0f12-4b01-8de6-ed81f9c3cb84",
   "d5c4f5ce-b430-4821-afe2-27229509293d",
   "c625c877-f576-4cbd-9744-40764cf33a48",
@@ -507,9 +509,7 @@
   "f07e7d31-d97a-4bac-bb91-6b68dee18e4d",
   "ccfccd4d-c7f0-45a1-910f-465e7dae6e02",
   "9fb75f27-c355-4cf6-b395-7158f96fd538",
-  "09bc1aa4-be1e-41dd-a0f4-20d3504bcc82",
-  "9d621e40-8c3a-4ef8-b1a2-e95645143eae",
-  "970ad857-9671-484f-b58c-7f0fc7057153"
+  "09bc1aa4-be1e-41dd-a0f4-20d3504bcc82"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-16.18-trafikbrott-borlange/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795710734.964571,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795710740.9099948,
-  "https://www.bt.se/rss": 1795711350.4198728,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795711351.1602788,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795711352.049025,
-  "https://vallentunanya.se/": 1795711352.2752442,
-  "https://elfsborg.se/feed/": 1795711352.9546134,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795711353.4837039
+  "https://www.bt.se/rss": 1795711655.0044265,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795711658.002587,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795711658.8123593,
+  "https://vallentunanya.se/": 1795711659.0584474,
+  "https://elfsborg.se/feed/": 1795711659.48801,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795711659.9320152
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/spred-tonvis-med-knark-over-landet--nu-doms-de-6.3.398549.943314cd7a",
