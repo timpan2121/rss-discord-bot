@@ -1026,14 +1026,14 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795684703.8992121,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795684719.6311297,
-  "https://www.bt.se/rss": 1795688096.609828,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795688097.4938915,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795688098.227333,
-  "https://vallentunanya.se/": 1795688098.7946184,
-  "https://elfsborg.se/feed/": 1795688099.4246533,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795688100.6109955
+  "https://eurocop.nu/rss.xml": 1795688402.3790789,
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795688418.3617532,
+  "https://www.bt.se/rss": 1795688423.367723,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795688424.2178469,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795688425.0309246,
+  "https://vallentunanya.se/": 1795688425.2595665,
+  "https://elfsborg.se/feed/": 1795688426.1485627,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795688428.561047
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/foraldrarna-larmade--da-upptacktes-flera-brister-6.3.396730.e21c85aadd",
@@ -1098,6 +1098,7 @@
   "https://vallentunanya.se/sport/ny-sportchef-utan-stora-plaanboken/5186"
  ],
  "https://elfsborg.se/feed/": [
+  "https://elfsborg.se/?p=71392",
   "https://elfsborg.se/?p=71388",
   "https://elfsborg.se/?p=71351",
   "https://elfsborg.se/?p=71376",
