@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "76789b6b-b06a-4f1c-b526-293f01bf27d0",
   "762e1caa-5e56-4e8d-8618-570dc97f2f53",
   "4b200477-5496-4f9d-a526-caac4aeb4782",
   "f61a5ab1-9b4e-4d09-86e4-94ae7150ddad",
@@ -508,8 +509,7 @@
   "9d3456e0-904c-4705-9f70-9aaaf5c2124c",
   "2c465a96-8879-4edc-9cab-7afd0a152254",
   "6722d12e-b1bf-4829-9be7-f8ba6fcf138c",
-  "de956704-01c0-4889-898c-f794feea83ea",
-  "e560fbf5-6c72-4ee7-b4ce-a512077d5e7c"
+  "de956704-01c0-4889-898c-f794feea83ea"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-11.46-misshandel-haparanda/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795714398.7220657,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795714414.177309,
-  "https://www.bt.se/rss": 1795716859.6629536,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795716861.624007,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795716862.2635212,
-  "https://vallentunanya.se/": 1795716862.523336,
-  "https://elfsborg.se/feed/": 1795716863.0981038,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795716863.629121
+  "https://www.bt.se/rss": 1795717165.4708254,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795717167.3912218,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795717167.9921381,
+  "https://vallentunanya.se/": 1795717168.1908154,
+  "https://elfsborg.se/feed/": 1795717168.572476,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795717169.0827513
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/spred-tonvis-med-knark-over-landet--nu-doms-de-6.3.398549.943314cd7a",
