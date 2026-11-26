@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "2f4d58fd-ff50-4caf-a6c2-3586b409e456",
   "c3401032-2e06-4a99-96af-3d5816cfed32",
   "a807d66d-b7e2-4847-af06-dd09a9d592a2",
   "63c50ae6-96e6-45a6-9a29-edb9bd3adfbf",
@@ -508,10 +509,11 @@
   "f5b4942d-2d9b-4734-9954-f36fea19d5d7",
   "3b58514c-1772-44b1-8fcd-686ef20c16c8",
   "cf883fe1-9aeb-46d5-b1ca-4eccbde408ae",
-  "91a19974-3c85-4afd-b839-6abda53aa472",
-  "f963eec5-249f-45c8-a8a9-8001dda25d80"
+  "91a19974-3c85-4afd-b839-6abda53aa472"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-12.50-bedrageri-hallands-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-12.50-bedrageri-vastra-gotalands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-08.10-antraffad-dod-huddinge/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-12.47-bedrageri-varmlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-12.45-bedrageri-dalarnas-lan/",
@@ -1009,9 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/18/18-november-20.53-morddrap-enkoping/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.37-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.02-sammanfattning-kvall-och-natt-hallands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.17-sammanfattning-natt-norrbottens-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.16-sammanfattning-natt-vasterbottens-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.16-sammanfattning-natt-vasternorrlands-lan/"
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.17-sammanfattning-natt-norrbottens-lan/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795692121.4270873,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795692122.2266438,
-  "https://www.bt.se/rss": 1795693978.861535,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795693980.0500984,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795693982.2267363,
-  "https://vallentunanya.se/": 1795693982.5117562,
-  "https://elfsborg.se/feed/": 1795693983.0607,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795693985.6122825
+  "https://www.bt.se/rss": 1795694287.247772,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795694289.294999,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795694292.5650988,
+  "https://vallentunanya.se/": 1795694292.8939946,
+  "https://elfsborg.se/feed/": 1795694293.4430988,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795694294.8452764
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/foraldrarna-larmade--da-upptacktes-flera-brister-6.3.396730.e21c85aadd",
