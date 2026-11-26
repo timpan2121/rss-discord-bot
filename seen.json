@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "fd335aba-1670-4753-9aef-de66f68a067e",
   "fcc81566-5ae7-488c-814c-876542e5d557",
   "afa1a3af-d9ba-4bd5-9c37-10304d8f633f",
   "76789b6b-b06a-4f1c-b526-293f01bf27d0",
@@ -508,8 +509,7 @@
   "51366b00-e261-4589-be3b-9c718e63d539",
   "6e1df3c8-4a7e-4dff-bdc5-f8d091357b8e",
   "cd1abad9-a95a-4af5-87a1-d9e7d8140c4b",
-  "9d3456e0-904c-4705-9f70-9aaaf5c2124c",
-  "2c465a96-8879-4edc-9cab-7afd0a152254"
+  "9d3456e0-904c-4705-9f70-9aaaf5c2124c"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-15.04-ran-goteborg/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795718079.242364,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795718090.2377422,
-  "https://www.bt.se/rss": 1795720228.5613275,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795720229.3360033,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795720230.0238485,
-  "https://vallentunanya.se/": 1795720230.2206614,
-  "https://elfsborg.se/feed/": 1795720230.6154122,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795720231.0498214
+  "https://www.bt.se/rss": 1795720532.4935114,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795720534.2538302,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795720534.9394052,
+  "https://vallentunanya.se/": 1795720535.160123,
+  "https://elfsborg.se/feed/": 1795720535.6322958,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795720536.142171
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/spred-tonvis-med-knark-over-landet--nu-doms-de-6.3.398549.943314cd7a",
