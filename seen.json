@@ -512,6 +512,7 @@
   "d6f33135-e1b8-4628-8c20-0d44b4af3dc5"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-14.39-arbetsplatsolycka-hassleholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-14.02-trafikolycka-arvika/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-14.00-brand-sodermanlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-14.00-brand-ostergotlands-lan/",
@@ -1010,8 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-09.03-trafikolycka-kiruna/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.36-trafikolycka-uppsala/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-06.45-arbetsplatsolycka-gavle/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-08.25-arbetsplatsolycka-lund/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-08.14-trafikolycka-burlov/"
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-08.25-arbetsplatsolycka-lund/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795699599.7373388,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795699624.7210736,
-  "https://www.bt.se/rss": 1795701801.8518894,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795701803.9235168,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795701804.7626014,
-  "https://vallentunanya.se/": 1795701804.9546902,
-  "https://elfsborg.se/feed/": 1795701805.6021185,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795701806.1736557
+  "https://www.bt.se/rss": 1795702107.71315,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795702108.6516485,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795702110.6088643,
+  "https://vallentunanya.se/": 1795702110.8122299,
+  "https://elfsborg.se/feed/": 1795702111.5867555,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795702112.2340326
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/spred-tonvis-med-knark-over-landet--nu-doms-de-6.3.398549.943314cd7a",
