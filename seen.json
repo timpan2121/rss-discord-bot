@@ -512,6 +512,7 @@
   "0202f197-b9e1-43f3-a425-37ee2af583f9"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-08.53-trafikolycka-singel-harnosand/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-07.41-stoldinbrott-ornskoldsvik/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-08.03-arbetsplatsolycka-sundsvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-10.19-trafikolycka-norrkoping/",
@@ -1010,8 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.00-sammanfattning-natt-orebro-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.00-sammanfattning-natt-dalarnas-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-07.00-sammanfattning-natt-varmlands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-06.38-trafikolycka-tingsryd/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-06.26-trafikolycka-vimmerby/"
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-06.38-trafikolycka-tingsryd/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795684703.8992121,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795684719.6311297,
-  "https://www.bt.se/rss": 1795685332.4857912,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795685339.169123,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795685344.321626,
-  "https://vallentunanya.se/": 1795685344.6849573,
-  "https://elfsborg.se/feed/": 1795685345.326809,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795685346.7724295
+  "https://www.bt.se/rss": 1795685648.2658935,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795685649.045926,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795685651.0358267,
+  "https://vallentunanya.se/": 1795685651.3174498,
+  "https://elfsborg.se/feed/": 1795685651.9363906,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795685653.1842399
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/foraldrarna-larmade--da-upptacktes-flera-brister-6.3.396730.e21c85aadd",
