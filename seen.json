@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "77397c36-baa1-4529-a326-3da74bd08b37",
   "f572c98d-5cf0-453e-91a1-44c8e286afb8",
   "f269d074-5a52-4dae-8f54-edfbf7bca35a",
   "c722a84d-7f21-45c0-9242-e1b6e6efb849",
@@ -508,10 +509,10 @@
   "7e66ca96-9428-47e6-b5f9-7a22bff70d7b",
   "6439aa16-d201-4c22-958a-d72479ab41ab",
   "8df28191-48c0-464b-a966-9932c80d27b2",
-  "3da6600a-3fd5-474e-a825-d5ad4638a397",
-  "1a43e434-97b4-4923-957f-def369f34716"
+  "3da6600a-3fd5-474e-a825-d5ad4638a397"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/27/27-november-17.07-brand-robertsfors/",
   "https://polisen.se/aktuellt/handelser/2026/november/27/27-november-18.21-fylleri-ostersund/",
   "https://polisen.se/aktuellt/handelser/2026/november/27/27-november-18.52-forsvunnen-person-ostersund/",
   "https://polisen.se/aktuellt/handelser/2026/november/27/27-november-18.33-forsvunnen-person-rattvik/",
@@ -1010,8 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-07.05-sammanfattning-kvall-och-natt-vastra-gotalands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-03.53-stold-vallentuna/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-01.06-rattfylleri-osteraker/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-22.26-knivlagen-kristianstad/",
-  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-00.21-inbrott-helsingborg/"
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-22.26-knivlagen-kristianstad/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,15 +1028,15 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795803939.017354,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795803958.1700108,
-  "https://www.bt.se/rss": 1795806140.0088475,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795806140.925531,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795806141.6354487,
-  "https://vallentunanya.se/": 1795806141.9029458,
-  "https://elfsborg.se/feed/": 1795806142.582516,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795806143.6069303,
-  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795806143.7035785,
-  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795806144.05223,
-  "https://www.dexerto.com/pokemon/feed/": 1795806144.367559
+  "https://www.bt.se/rss": 1795806449.240987,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795806451.4108462,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795806453.865602,
+  "https://vallentunanya.se/": 1795806454.4258735,
+  "https://elfsborg.se/feed/": 1795806454.955033,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795806456.0315697,
+  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795806456.2307794,
+  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795806456.5788882,
+  "https://www.dexerto.com/pokemon/feed/": 1795806456.8827016
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/darfor-drojer-nya-sopkarlen-6.3.397337.028b67a283",
