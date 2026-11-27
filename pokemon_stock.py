@@ -40,7 +40,7 @@ def alphaspel():
             title = html.unescape(title.strip()); stock = re.sub(r"\s+", " ", re.sub(r"<br\s*/?>", " · ", stock)).strip()
             if not wanted(title): continue
             s = stock.lower()
-            ok = ("postorder" in s or "förbok" in s or "beställ" in s) and "fullbokad" not in s and "0 på postorder" not in s
+            ok = ("postorder" in s or "förbok" in s or "beställ" in s) and "fullbokad" not in s and not re.search(r"(^|[^0-9])0 på postorder", s)
             out.append({"id": "as:" + href, "store": "Alphaspel", "title": title, "url": "https://www.alphaspel.se" + href,
                         "price": price.strip(), "ok": ok, "status": stock or "okänd", "img": "https://www.alphaspel.se" + img})
     return out
