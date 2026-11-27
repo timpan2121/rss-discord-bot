@@ -1026,17 +1026,17 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795762625.842076,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795762626.6199381,
-  "https://www.bt.se/rss": 1795765941.0694416,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795765941.7256565,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795765942.6086578,
-  "https://vallentunanya.se/": 1795765942.8089547,
-  "https://elfsborg.se/feed/": 1795765943.3071322,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795765944.223756,
-  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795765944.381528,
-  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795765948.1696796,
-  "https://www.dexerto.com/pokemon/feed/": 1795765953.2407863
+  "https://eurocop.nu/rss.xml": 1795766257.871612,
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795766263.5440245,
+  "https://www.bt.se/rss": 1795766268.8212924,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795766269.7014773,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795766271.0565977,
+  "https://vallentunanya.se/": 1795766271.164541,
+  "https://elfsborg.se/feed/": 1795766271.554337,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795766272.691495,
+  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795766272.8521264,
+  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795766273.2765257,
+  "https://www.dexerto.com/pokemon/feed/": 1795766273.526646
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/spred-tonvis-med-knark-over-landet--nu-doms-de-6.3.398549.943314cd7a",
@@ -1194,6 +1194,10 @@
   "CBMiqwFBVV95cUxOU0tsc1FpVjJkcXQtcVRlUlQtU2ZZd1EyaXFjSW0tb1hCYW1IMU5BWVNLc2ZuMEJlNXNub2pHVVQ0dHF3dzAtZ295WVJ5TXJ0V2tLdXN6cDFZRDZzdG5IM2ZrbTlnNlVIek9ySnZmYWtmSkZRSG1oakpIZm1vV0FsNGVyekRmZHQwZ0std1NZN1NIXzhnbkgtdUhncEt3MWJVSmJZajQ0cnMxVlk"
  ],
  "https://www.dexerto.com/pokemon/feed/": [
+  "https://www.dexerto.com/pokemon/fan-made-pokemon-basketball-game-is-basically-nba-2k-with-291-pokemon-3422224/",
+  "https://www.dexerto.com/pokemon/pokemon-gets-giant-snorlax-and-bewear-body-pillows-designed-by-a-sleep-therapist-3419380/",
+  "https://www.dexerto.com/pokemon/razer-launches-charizard-lucario-sylveon-headsets-for-pokemons-30th-anniversary-3418632/",
+  "https://www.dexerto.com/pokemon/beats-unveils-limited-edition-pokemon-pill-speaker-with-pikachu-and-mimikyu-3418551/",
   "https://www.dexerto.com/pokemon/man-charged-after-allegedly-posing-as-walmart-delivery-driver-to-steal-pokemon-cards-3430116/",
   "https://www.dexerto.com/pokemon/florida-woman-arrested-after-targeting-exs-pokemon-cards-because-he-wasnt-giving-her-attention-3427169/",
   "https://www.dexerto.com/pokemon/pokemon-collectors-fear-fake-psa-slabs-after-aliexpress-sells-custom-labels-and-cases-for-any-card-3427092/",
