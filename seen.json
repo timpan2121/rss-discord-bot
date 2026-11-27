@@ -1028,15 +1028,15 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795777468.2306392,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795777488.3133569,
-  "https://www.bt.se/rss": 1795780267.315789,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795780268.0880604,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795780273.9396963,
-  "https://vallentunanya.se/": 1795780274.2016633,
-  "https://elfsborg.se/feed/": 1795780274.6202507,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795780275.232072,
-  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795780275.3670015,
-  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795780275.799741,
-  "https://www.dexerto.com/pokemon/feed/": 1795780276.0336401
+  "https://www.bt.se/rss": 1795780580.3811374,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795780581.1683555,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795780581.8177173,
+  "https://vallentunanya.se/": 1795780582.1191535,
+  "https://elfsborg.se/feed/": 1795780582.5142379,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795780583.0356016,
+  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795780585.1179464,
+  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795780585.4872997,
+  "https://www.dexerto.com/pokemon/feed/": 1795780585.7118125
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/darfor-drojer-nya-sopkarlen-6.3.397337.028b67a283",
@@ -1130,6 +1130,7 @@
   "https://elfsborg.se/?p=71160"
  ],
  "https://bollsvenskan.se/feed/if-elfsborg": [
+  "https://bollsvenskan.se/nyhetsflode/?post_id=4f72559f-f68c-d9ff-582b-f666f56a8d2b",
   "https://bollsvenskan.se/nyhetsflode/?post_id=d4492a42-f664-11c1-ceb4-1863fd7a2740",
   "https://bollsvenskan.se/nyhetsflode/?post_id=d73a9331-e477-6a5b-c8b2-954928b077f8",
   "https://bollsvenskan.se/nyhetsflode/?post_id=c5a18b24-556c-6b48-267d-9907bdd8c4ac",
