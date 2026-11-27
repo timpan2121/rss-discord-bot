@@ -512,6 +512,7 @@
   "55b701a1-c1d7-4399-8a1b-130701f7b15a"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/27/27-november-17.16-trafikolycka-krokom/",
   "https://polisen.se/aktuellt/handelser/2026/november/27/27-november-17.43-rattfylleri-vaxjo/",
   "https://polisen.se/aktuellt/handelser/2026/november/27/27-november-16.44-fylleri-lulea/",
   "https://polisen.se/aktuellt/handelser/2026/november/27/27-november-16.53-brand-sodertalje/",
@@ -1010,8 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-21.55-ovrigt-vastra-gotalands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-21.55-ovrigt-hallands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-21.34-trafikkontroll-vasterbottens-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-21.20-trafikolycka-strangnas/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-21.12-forsvunnen-person-gnesta/"
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-21.20-trafikolycka-strangnas/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1026,17 +1026,17 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795796268.9511454,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795796289.4535475,
-  "https://www.bt.se/rss": 1795799793.9224782,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795799794.7026842,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795799795.5140367,
-  "https://vallentunanya.se/": 1795799795.7785337,
-  "https://elfsborg.se/feed/": 1795799796.4699607,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795799797.3861368,
-  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795799797.6007497,
-  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795799797.9986794,
-  "https://www.dexerto.com/pokemon/feed/": 1795799798.2775323
+  "https://eurocop.nu/rss.xml": 1795800132.6412811,
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795800157.1787047,
+  "https://www.bt.se/rss": 1795800178.0522373,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795800178.8929436,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795800181.127063,
+  "https://vallentunanya.se/": 1795800181.4812546,
+  "https://elfsborg.se/feed/": 1795800182.0941834,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795800183.2031884,
+  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795800183.4059904,
+  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795800183.892213,
+  "https://www.dexerto.com/pokemon/feed/": 1795800184.2960632
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/darfor-drojer-nya-sopkarlen-6.3.397337.028b67a283",
