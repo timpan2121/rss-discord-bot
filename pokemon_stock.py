@@ -1,6 +1,6 @@
 """Pokémon-kort i svenska butiker -> Discord. Pingar när en förseglad produkt dyker upp eller blir köpbar online.
 Butiker: Dragon's Lair (Shopify products.json), Alphaspel (kategorisida). Status sparas i stock_seen.json."""
-import json, os, re, time, urllib.request, html
+import json, os, re, time, urllib.request, urllib.error, html
 
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
 HOOK = os.environ.get("WEBHOOK_POKEMON")
@@ -30,8 +30,11 @@ def dragonslair():
 
 def alphaspel():
     out = []
-    for page in (1, 2, 3, 4):
-        h = get(f"https://www.alphaspel.se/1762-pokemon-tcg/?page={page}")
+    for page in range(1, 8):
+        try: h = get(f"https://www.alphaspel.se/1762-pokemon-tcg/?page={page}")
+        except urllib.error.HTTPError as e:
+            if e.code == 404 and page > 1: break
+            raise
         for m in re.finditer(r'class="product">.*?href="([^"]+)".*?<img[^>]*src="([^"]+)".*?product-name">\s*([^<]+).*?class="price[^"]*">\s*([^<]*?)\s*</div>.*?class="stock">(.*?)</div>', h, re.S):
             href, img, title, price, stock = m.groups()
             title = html.unescape(title.strip()); stock = re.sub(r"\s+", " ", re.sub(r"<br\s*/?>", " · ", stock)).strip()
