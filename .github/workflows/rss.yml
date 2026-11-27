@@ -24,6 +24,7 @@ jobs:
           WEBHOOK_POLISEN: ${{ secrets.WEBHOOK_POLISEN }}
           WEBHOOK_VALLENTUNA: ${{ secrets.WEBHOOK_VALLENTUNA }}
           WEBHOOK_ELFSBORG: ${{ secrets.WEBHOOK_ELFSBORG }}
+          WEBHOOK_POKEMON: ${{ secrets.WEBHOOK_POKEMON }}
         run: |
           git config user.name "rss-bot"; git config user.email "rss-bot@users.noreply.github.com"
           end=$((SECONDS + 345*60))
