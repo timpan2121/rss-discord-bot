@@ -57,10 +57,14 @@ def post(p, why):
 def main():
     if not HOOK: print("saknar WEBHOOK_POKEMON"); return
     seen = json.load(open(SEEN, encoding="utf-8")) if os.path.exists(SEEN) else {}
-    for name, fn in (("dragonslair", dragonslair), ("alphaspel", alphaspel)):
-        try: items = fn()
-        except Exception as ex: print(f"[{name}] fel: {ex}"); continue
-        first = not any(k.startswith(name[:2] + ":") for k in seen)
+    for name, pre, fn in (("dragonslair", "dl:", dragonslair), ("alphaspel", "as:", alphaspel)):
+        items = None
+        for attempt in range(3):
+            try: items = fn(); break
+            except Exception as ex: print(f"[{name}] fel (försök {attempt+1}): {ex}"); time.sleep(10)
+        if items is None: continue
+        if not items: print(f"[{name}] 0 produkter, hoppar över"); continue
+        first = not any(k.startswith(pre) for k in seen)
         n = 0
         for p in items:
             prev = seen.get(p["id"])
