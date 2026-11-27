@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "cd011099-54ff-4c90-b160-34580f810b01",
   "345e6318-19be-4805-8788-41b960d4ee9c",
   "4a3fd898-a5d3-4724-9b26-e5d5f881bb48",
   "76611f50-397a-4fe7-99da-ac5d7833ac90",
@@ -508,8 +509,7 @@
   "476febf0-8b91-490f-9116-09ab4681d3d3",
   "6a2b6ba7-01cd-4bd7-86c3-ee59e1dac079",
   "0a78301b-d81f-449e-9631-b7f4f922f61d",
-  "58052d17-767c-4e2d-976f-032b23e0f51c",
-  "7c5b567f-90f3-4d0f-8832-632676c609cf"
+  "58052d17-767c-4e2d-976f-032b23e0f51c"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/27/27-november-08.30-trafikolycka-ostersund/",
@@ -1028,17 +1028,18 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795769980.4687567,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795770010.3409202,
-  "https://www.bt.se/rss": 1795770641.8530083,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795770644.8179867,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795770645.3908076,
-  "https://vallentunanya.se/": 1795770645.480487,
-  "https://elfsborg.se/feed/": 1795770645.8998692,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795770646.393295,
-  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795770646.5532265,
-  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795770646.7528522,
-  "https://www.dexerto.com/pokemon/feed/": 1795770647.0281277
+  "https://www.bt.se/rss": 1795770951.2505465,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795770953.162286,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795770954.0230017,
+  "https://vallentunanya.se/": 1795770955.3417766,
+  "https://elfsborg.se/feed/": 1795770955.863221,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795770956.350629,
+  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795770956.4169836,
+  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795770956.7698514,
+  "https://www.dexerto.com/pokemon/feed/": 1795770957.0161211
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
+  "https://www.mitti.se/nyheter/darfor-drojer-nya-sopkarlen-6.3.397337.028b67a283",
   "https://www.mitti.se/nyheter/spred-tonvis-med-knark-over-landet--nu-doms-de-6.3.398549.943314cd7a",
   "https://www.mitti.se/nyheter/foraldrarna-larmade--da-upptacktes-flera-brister-6.3.396730.e21c85aadd",
   "https://www.mitti.se/nyheter/slalomdrommen-i-ullna-fastnar-i-ny-konflikt-6.3.397399.eaab4bd91a",
