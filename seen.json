@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "366a9bf8-a4e9-4f5f-999f-38524a2b74d1",
   "8c9fce7b-a2cf-49b3-9da9-b073dac4901b",
   "77f39f08-e359-42ce-9646-92587559664f",
   "8c35443b-fc2a-42f5-8177-f6c7ab1ac598",
@@ -508,8 +509,7 @@
   "36926c5b-9f77-4af7-b52e-7c3a7470fac5",
   "108a3a0e-ab0b-464d-b262-4c7c10838733",
   "6b8a8fa1-a095-47dd-b739-6a1ebcb544a0",
-  "86a15fa6-aacc-413e-84d6-0e3e3663152f",
-  "8c45d6c4-4797-4df2-972c-a3ba9a7946df"
+  "86a15fa6-aacc-413e-84d6-0e3e3663152f"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/26/26-november-21.55-trafikkontroll-jamtlands-lan/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795751603.6455758,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795751604.4146674,
-  "https://www.bt.se/rss": 1795751909.945967,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795751910.8628442,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795751911.7818441,
-  "https://vallentunanya.se/": 1795751911.852942,
-  "https://elfsborg.se/feed/": 1795751912.7193072,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795751913.273401
+  "https://www.bt.se/rss": 1795752215.1593144,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795752217.1659143,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795752218.0757732,
+  "https://vallentunanya.se/": 1795752218.141845,
+  "https://elfsborg.se/feed/": 1795752218.9154665,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795752219.4704235
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/spred-tonvis-med-knark-over-landet--nu-doms-de-6.3.398549.943314cd7a",
