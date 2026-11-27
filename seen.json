@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "7eb733b9-aa24-4deb-8582-122e4ba02e38",
   "c4f4a16a-ff8c-4d77-b649-cbae7b18705d",
   "8fd6f949-0b14-4f8f-a9ae-7c7c1a866703",
   "d44f410a-37a7-4f7f-96bd-57894ec18f0c",
@@ -508,10 +509,10 @@
   "a3c2d76c-aaff-4b16-aca6-6638b6318907",
   "f807df07-b4fd-4d16-ab98-7646f8658aed",
   "94b9375b-0039-49f2-af4b-5272492c7f15",
-  "0abbee15-8b28-4066-b40a-122a07b9f59a",
-  "9b2fb5fd-e86c-4707-b83a-b6f7d2c68376"
+  "0abbee15-8b28-4066-b40a-122a07b9f59a"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/oktober/31/31-oktober-04.30-ran-arvika/",
   "https://polisen.se/aktuellt/handelser/2026/november/27/27-november-07.22-forsvunnen-person-almhult/",
   "https://polisen.se/aktuellt/handelser/2026/november/27/27-november-07.47-sammanfattning-natt-jonkopings-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/27/27-november-07.48-sammanfattning-natt-ostergotlands-lan/",
@@ -1010,8 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-17.20-trafikolycka-singel-forshaga/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-16.17-trafikolycka-alvsbyn/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-16.45-trafikolycka-lulea/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-16.42-trafikolycka-singel-hedemora/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-16.47-trafikolycka-avesta/"
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-16.42-trafikolycka-singel-hedemora/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,12 +1028,15 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795762625.842076,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795762626.6199381,
-  "https://www.bt.se/rss": 1795765404.8329282,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795765405.6826522,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795765407.7061305,
-  "https://vallentunanya.se/": 1795765407.8986137,
-  "https://elfsborg.se/feed/": 1795765408.5227606,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795765409.6438818
+  "https://www.bt.se/rss": 1795765711.6070983,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795765713.6485598,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795765715.6907144,
+  "https://vallentunanya.se/": 1795765715.756509,
+  "https://elfsborg.se/feed/": 1795765716.383241,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795765717.5639331,
+  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795765717.6845484,
+  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795765717.6845605,
+  "https://www.dexerto.com/pokemon/feed/": 1795765717.6845648
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/spred-tonvis-med-knark-over-landet--nu-doms-de-6.3.398549.943314cd7a",
