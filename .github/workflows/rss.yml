@@ -32,7 +32,8 @@ jobs:
             git rebase --abort 2>/dev/null || true
             git fetch -q origin main && git reset -q --hard origin/main
             python bot.py || true
-            git add seen.json
+            python pokemon_stock.py || true
+            git add seen.json stock_seen.json 2>/dev/null || git add seen.json
             if ! git diff --cached --quiet; then
               git commit -qm "uppdatera seen.json"
               git push -q || { git pull -q --rebase -X theirs origin main && git push -q; } || echo "push misslyckades"
