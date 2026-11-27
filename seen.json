@@ -10,6 +10,8 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "f1167849-7d49-4ff1-b941-529662e22642",
+  "4da32380-cdb7-4e83-9214-1f12ae46c4e0",
   "fcf43b74-379b-44fb-8f96-2fa9684a6189",
   "e782a2d7-be04-4852-a218-33f05708b595",
   "e71923bd-214c-43cf-a67d-3e069c6579af",
@@ -507,11 +509,12 @@
   "0087f609-033d-4a48-85e9-0aab09f9271a",
   "3f9f04af-b8c1-467b-b2a6-b9f0951df1ca",
   "66fbff00-5af0-4c23-9717-8d9e5712fbf4",
-  "9e9e5fe8-e6f6-4cbd-bc3f-66b5febb45cf",
-  "411a6bd7-74a6-409f-8c8d-71728abeb83e",
-  "a491cfaa-e09e-433a-8315-459f0aea4476"
+  "9e9e5fe8-e6f6-4cbd-bc3f-66b5febb45cf"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/27/27-november-13.37-trafikkontroll-norrbottens-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/27/27-november-13.36-trafikkontroll-vasterbottens-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/27/27-november-13.34-trafikkontroll-vasternorrlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/27/27-november-13.30-rattfylleri-torsby/",
   "https://polisen.se/aktuellt/handelser/2026/november/27/27-november-09.39-inbrott-skelleftea/",
   "https://polisen.se/aktuellt/handelser/2026/november/27/27-november-12.54-trafikolycka-landskrona/",
@@ -1008,10 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-18.12-trafikolycka-solleftea/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-17.18-stold-sundsvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-16.51-trafikolycka-personskada-uppsala/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-13.07-stold-sorsele/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-18.06-rattfylleri-borlange/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-12.05-misshandel-grov-vasteras/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-17.45-trafikolycka-vilt-mariestad/"
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-13.07-stold-sorsele/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,15 +1028,15 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795781197.4001517,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795781217.5980937,
-  "https://www.bt.se/rss": 1795782764.07252,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795782767.4767497,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795782770.3633308,
-  "https://vallentunanya.se/": 1795782770.4929922,
-  "https://elfsborg.se/feed/": 1795782771.000248,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795782771.5124516,
-  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795782771.6493683,
-  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795782772.0286772,
-  "https://www.dexerto.com/pokemon/feed/": 1795782772.3025002
+  "https://www.bt.se/rss": 1795783076.3547645,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795783079.551507,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795783085.6007557,
+  "https://vallentunanya.se/": 1795783085.888702,
+  "https://elfsborg.se/feed/": 1795783086.2764773,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795783086.782371,
+  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795783086.841254,
+  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795783087.208709,
+  "https://www.dexerto.com/pokemon/feed/": 1795783087.453918
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/darfor-drojer-nya-sopkarlen-6.3.397337.028b67a283",
