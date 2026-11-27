@@ -10,6 +10,8 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "1ee36c5d-87a1-4e49-8026-bf9742b29c2e",
+  "1dfa997f-df7d-408d-9ffa-579243a1792b",
   "2e2fb99e-b2a7-4c49-8fbd-e1177aab5158",
   "07fbe014-b020-433e-95bf-c11d4fd3ca0f",
   "5331701a-71ba-419b-8c26-a9f55bca547c",
@@ -507,9 +509,7 @@
   "ebd30e41-e25a-4791-b6ab-dccd75538987",
   "3fde9edc-e831-454c-a346-db294464e353",
   "9be03c79-df5b-4261-88b8-91691a0f1fd3",
-  "f7132a62-f9d3-48d6-bc2e-6cefae78c88d",
-  "e8a6a0de-022a-4e2f-90da-254d281196bb",
-  "bbebe663-a35a-4573-940d-1158fa4e74e6"
+  "f7132a62-f9d3-48d6-bc2e-6cefae78c88d"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/27/27-november-10.02-rattfylleri-ostersund/",
@@ -1028,15 +1028,15 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795788703.0708613,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795788728.114387,
-  "https://www.bt.se/rss": 1795790933.4420626,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795790934.5401819,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795790935.3448563,
-  "https://vallentunanya.se/": 1795790935.6265833,
-  "https://elfsborg.se/feed/": 1795790936.3184564,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795790937.8483224,
-  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795790938.0440874,
-  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795790938.4367638,
-  "https://www.dexerto.com/pokemon/feed/": 1795790938.775775
+  "https://www.bt.se/rss": 1795791244.4945855,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795791250.0572379,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795791250.8450649,
+  "https://vallentunanya.se/": 1795791251.1637568,
+  "https://elfsborg.se/feed/": 1795791251.7751112,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795791252.8201783,
+  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795791253.0057495,
+  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795791253.328189,
+  "https://www.dexerto.com/pokemon/feed/": 1795791253.6148052
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/darfor-drojer-nya-sopkarlen-6.3.397337.028b67a283",
