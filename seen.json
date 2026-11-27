@@ -10,6 +10,8 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "723a9e12-bc1b-480b-92b9-d9c05f9194ac",
+  "ad1f8fd2-02d0-4588-bd5b-e840cc26612a",
   "6b4022f8-036d-403b-88ce-c3a171408385",
   "b4436813-80e2-472a-b21c-6497d60f9d8b",
   "708b434b-0a07-42fa-bc67-a476bbc31d3d",
@@ -507,9 +509,7 @@
   "528b3ebd-f122-42b3-9d27-be150ddd157f",
   "57682b4c-79c6-429f-8077-cc19b490984e",
   "99b5c907-b215-4435-a151-6243c415fc80",
-  "8e53e29a-24be-4075-9ddf-f05d0461b5e4",
-  "98c521f1-81ea-47c9-80ad-bcc3816c1ab6",
-  "4b804daf-32f0-4b71-a954-a820d0a747c0"
+  "8e53e29a-24be-4075-9ddf-f05d0461b5e4"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/27/27-november-00.45-misshandel-grov-stockholm/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795758937.910599,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795758938.8125753,
-  "https://www.bt.se/rss": 1795759866.5742848,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795759867.3319945,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795759869.8762062,
-  "https://vallentunanya.se/": 1795759869.9780667,
-  "https://elfsborg.se/feed/": 1795759870.743829,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795759871.2999666
+  "https://www.bt.se/rss": 1795760173.2449086,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795760176.3718462,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795760177.2777908,
+  "https://vallentunanya.se/": 1795760177.347755,
+  "https://elfsborg.se/feed/": 1795760178.1869204,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795760178.7424684
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/spred-tonvis-med-knark-over-landet--nu-doms-de-6.3.398549.943314cd7a",
