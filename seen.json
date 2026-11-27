@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "c4f4a16a-ff8c-4d77-b649-cbae7b18705d",
   "8fd6f949-0b14-4f8f-a9ae-7c7c1a866703",
   "d44f410a-37a7-4f7f-96bd-57894ec18f0c",
   "b61d9054-b664-46f3-9784-e0769de0d12b",
@@ -508,8 +509,7 @@
   "f807df07-b4fd-4d16-ab98-7646f8658aed",
   "94b9375b-0039-49f2-af4b-5272492c7f15",
   "0abbee15-8b28-4066-b40a-122a07b9f59a",
-  "9b2fb5fd-e86c-4707-b83a-b6f7d2c68376",
-  "204119df-b73e-4471-ba23-6d3827b51a68"
+  "9b2fb5fd-e86c-4707-b83a-b6f7d2c68376"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/27/27-november-07.47-sammanfattning-natt-jonkopings-lan/",
@@ -1028,12 +1028,12 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795762625.842076,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795762626.6199381,
-  "https://www.bt.se/rss": 1795764792.4482815,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795764793.2559245,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795764794.236924,
-  "https://vallentunanya.se/": 1795764794.33608,
-  "https://elfsborg.se/feed/": 1795764795.0487695,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795764796.1398008
+  "https://www.bt.se/rss": 1795765097.7825003,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795765100.0021162,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795765101.0821166,
+  "https://vallentunanya.se/": 1795765101.3181796,
+  "https://elfsborg.se/feed/": 1795765101.9607468,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795765103.159575
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/spred-tonvis-med-knark-over-landet--nu-doms-de-6.3.398549.943314cd7a",
