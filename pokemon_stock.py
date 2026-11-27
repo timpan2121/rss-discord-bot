@@ -35,6 +35,9 @@ def alphaspel():
         except urllib.error.HTTPError as e:
             if e.code == 404 and page > 1: break
             raise
+        if page == 1:
+            t = re.search(r"<title>(.*?)</title>", h, re.S)
+            print(f"[alphaspel] sida1 {len(h)} tecken, {h.count('class=\"product\"')} produkter, titel: {t.group(1).strip()[:60] if t else '-'}")
         for m in re.finditer(r'class="product">.*?href="([^"]+)".*?<img[^>]*src="([^"]+)".*?product-name">\s*([^<]+).*?class="price[^"]*">\s*([^<]*?)\s*</div>.*?class="stock">(.*?)</div>', h, re.S):
             href, img, title, price, stock = m.groups()
             title = html.unescape(title.strip()); stock = re.sub(r"\s+", " ", re.sub(r"<br\s*/?>", " · ", stock)).strip()
