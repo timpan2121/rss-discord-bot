@@ -54,6 +54,11 @@ def post(p, why):
     urllib.request.urlopen(urllib.request.Request(HOOK, body, {"Content-Type": "application/json", "User-Agent": UA}), timeout=30)
     time.sleep(1.2)
 
+LOG = []
+_p = print
+def print(*a):
+    LOG.append(" ".join(map(str, a))); _p(*a)
+
 def main():
     if not HOOK: print("saknar WEBHOOK_POKEMON"); return
     seen = json.load(open(SEEN, encoding="utf-8")) if os.path.exists(SEEN) else {}
@@ -73,6 +78,7 @@ def main():
                 except Exception as ex: print(f"[{name}] post fel: {ex}"); continue
             seen[p["id"]] = p["ok"]
         print(f"[{name}] {len(items)} produkter, {n} pingar" + (" (första körning, tyst)" if first else ""))
+    seen["_status"] = time.strftime("%Y-%m-%d %H:%M UTC") + " | " + " | ".join(LOG)[-600:]
     json.dump(seen, open(SEEN, "w", encoding="utf-8"), indent=0, ensure_ascii=False)
 
 if __name__ == "__main__":

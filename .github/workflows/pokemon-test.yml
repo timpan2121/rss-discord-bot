@@ -1,8 +1,0 @@
-name: Pokémon lagertest
-on: workflow_dispatch
-jobs:
-  test:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - run: python -c "import pokemon_stock as s; i=s.alphaspel(); print('ALPHA', len(i), sum(x['ok'] for x in i))"
