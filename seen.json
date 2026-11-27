@@ -10,6 +10,8 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "06c8f982-5106-4288-b630-ee2a37d962b7",
+  "a9996119-70c6-4e18-a7e5-08cc0c830e6d",
   "891c631c-80d9-43e8-9973-ecc1afb10ff1",
   "1ee36c5d-87a1-4e49-8026-bf9742b29c2e",
   "1dfa997f-df7d-408d-9ffa-579243a1792b",
@@ -507,11 +509,10 @@
   "a907635c-4981-42eb-b5ca-8a75fe4bfbde",
   "902d4724-019b-46d7-af7c-e444084f9da2",
   "cec23ebb-37a4-408e-83b1-e426d732c38f",
-  "ebd30e41-e25a-4791-b6ab-dccd75538987",
-  "3fde9edc-e831-454c-a346-db294464e353",
-  "9be03c79-df5b-4261-88b8-91691a0f1fd3"
+  "ebd30e41-e25a-4791-b6ab-dccd75538987"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/27/27-november-14.19-fylleri-ostersund/",
   "https://polisen.se/aktuellt/handelser/2026/november/27/27-november-11.29-rattfylleri-solleftea/",
   "https://polisen.se/aktuellt/handelser/2026/november/27/27-november-13.43-trafikbrott-asele/",
   "https://polisen.se/aktuellt/handelser/2026/november/27/27-november-10.02-rattfylleri-ostersund/",
@@ -1010,8 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-18.26-misshandel-molndal/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-17.12-misshandel-sundsvall/",
   "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-16.11-bedrageri-vannas/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-17.11-trafikolycka-nynashamn/",
-  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-18.12-trafikolycka-solleftea/"
+  "https://polisen.se/aktuellt/handelser/2026/november/19/19-november-17.11-trafikolycka-nynashamn/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,15 +1028,15 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795792492.0858948,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795792516.314361,
-  "https://www.bt.se/rss": 1795792848.8888097,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795792849.8212287,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795792850.5534997,
-  "https://vallentunanya.se/": 1795792850.811678,
-  "https://elfsborg.se/feed/": 1795792851.4351542,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795792852.483544,
-  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795792852.7285507,
-  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795792853.0825043,
-  "https://www.dexerto.com/pokemon/feed/": 1795792853.407821
+  "https://www.bt.se/rss": 1795793158.7230525,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795793162.0819523,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795793164.1794744,
+  "https://vallentunanya.se/": 1795793164.3655744,
+  "https://elfsborg.se/feed/": 1795793164.891509,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795793165.9739604,
+  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795793166.1364903,
+  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795793166.638626,
+  "https://www.dexerto.com/pokemon/feed/": 1795793166.9601068
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/darfor-drojer-nya-sopkarlen-6.3.397337.028b67a283",
