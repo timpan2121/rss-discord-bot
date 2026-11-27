@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "75c7ea04-23aa-41b3-a556-ba4c3d274192",
   "13edd718-75f1-43ba-b2e4-d3350a713f65",
   "ad796a99-96d6-4483-bf77-1edb8d22ec6a",
   "50155c04-97d2-41be-9346-97c94b758c6d",
@@ -508,8 +509,7 @@
   "825bcba7-34eb-48a1-a499-ceb0bcb0e906",
   "32da0a44-ef1b-49a0-b02b-539c2afe9048",
   "6f1c7f96-4ad1-4c3b-8d40-0b045a4703e1",
-  "2e49ce63-3597-4509-9805-4b42662c2e74",
-  "ea543e71-4225-4efc-9401-fa6551760828"
+  "2e49ce63-3597-4509-9805-4b42662c2e74"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/27/27-november-19.37-kontroll-malmo/",
@@ -1026,17 +1026,17 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795807692.2947428,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795807698.2570827,
-  "https://www.bt.se/rss": 1795811121.412526,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795811123.2780206,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795811123.817859,
-  "https://vallentunanya.se/": 1795811123.9806716,
-  "https://elfsborg.se/feed/": 1795811124.3729746,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795811124.8982556,
-  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795811124.9860587,
-  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795811125.3550534,
-  "https://www.dexerto.com/pokemon/feed/": 1795811125.7005293
+  "https://eurocop.nu/rss.xml": 1795811430.0273998,
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795811430.5418181,
+  "https://www.bt.se/rss": 1795811435.6923711,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795811437.7847052,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795811438.4174771,
+  "https://vallentunanya.se/": 1795811438.578743,
+  "https://elfsborg.se/feed/": 1795811439.0547905,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795811439.5029883,
+  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795811439.6748376,
+  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795811440.0363042,
+  "https://www.dexerto.com/pokemon/feed/": 1795811440.2480783
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/darfor-drojer-nya-sopkarlen-6.3.397337.028b67a283",
