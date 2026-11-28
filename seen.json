@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "d05335df-2783-4a99-a549-09bfd5203a7d",
   "9b4d98ab-c3a9-4f21-b73e-840a788d1b59",
   "ec034e9f-a767-4292-9e12-5e13bc7dffb2",
   "8147ac19-a2c6-46ec-8d97-054195420744",
@@ -508,8 +509,7 @@
   "0298e4f9-34e4-4729-b43a-76d9bfa3c7dd",
   "1001d67d-46c7-4b12-a6bd-d32167c4b9a2",
   "232f95ee-8ade-4624-bf18-b43e75f0e6d5",
-  "dbc409f6-7be9-4f21-834d-e0d4bca4a28e",
-  "1d0cfbac-c7ae-48d2-80f6-cd0cc2e38706"
+  "dbc409f6-7be9-4f21-834d-e0d4bca4a28e"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/28/28-november-11.59-inbrott-lilla-edet/",
@@ -1026,17 +1026,17 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795867250.2084017,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795867250.6427596,
-  "https://www.bt.se/rss": 1795870784.5001447,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795870785.5168018,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795870787.5859275,
-  "https://vallentunanya.se/": 1795870787.7684789,
-  "https://elfsborg.se/feed/": 1795870788.5270686,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795870789.1879852,
-  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795870789.2646477,
-  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795870789.4321954,
-  "https://www.dexerto.com/pokemon/feed/": 1795870789.7003727
+  "https://eurocop.nu/rss.xml": 1795871095.505735,
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795871120.545679,
+  "https://www.bt.se/rss": 1795871149.1841588,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795871151.4428475,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795871152.456593,
+  "https://vallentunanya.se/": 1795871152.7912483,
+  "https://elfsborg.se/feed/": 1795871153.4023232,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795871154.0565252,
+  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795871154.299105,
+  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795871154.506058,
+  "https://www.dexerto.com/pokemon/feed/": 1795871154.797764
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/roslagsbanan-vill-bygga-ut-pa-douglas-mark-6.3.398112.8d00652e9b",
