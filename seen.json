@@ -512,6 +512,7 @@
   "c2b66e01-127c-48e7-90b5-98f22aa26aa7"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/28/28-november-10.23-trafikolycka-stockholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/28/28-november-06.54-brand-skelleftea/",
   "https://polisen.se/aktuellt/handelser/2026/november/28/28-november-07.59-sammanfattning-natt-norrbottens-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/28/28-november-07.58-sammanfattning-natt-vasterbottens-lan/",
@@ -1010,8 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-11.08-trafikolycka-kungsbacka/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-11.17-trafikkontroll-stockholms-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-11.10-trafikolycka-hoor/",
-  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-04.30-morddrap-forsok-huddinge/",
-  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-10.08-trafikolycka-norrkoping/"
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-04.30-morddrap-forsok-huddinge/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1026,17 +1026,17 @@
   "http://www.eurocop.nu/medlem/?n=2248"
  ],
  "_last": {
-  "https://eurocop.nu/rss.xml": 1795859876.06767,
-  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795859876.514351,
-  "https://www.bt.se/rss": 1795863253.916813,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795863255.9401422,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795863256.4524593,
-  "https://vallentunanya.se/": 1795863256.476553,
-  "https://elfsborg.se/feed/": 1795863256.8883097,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795863257.2876713,
-  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795863257.3195958,
-  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795863257.6167338,
-  "https://www.dexerto.com/pokemon/feed/": 1795863257.8424528
+  "https://eurocop.nu/rss.xml": 1795863561.8697977,
+  "http://eurocop.nu/medlem/lunarcoprss.xml": 1795863562.3696835,
+  "https://www.bt.se/rss": 1795863562.5710113,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795863563.172092,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795863565.3280385,
+  "https://vallentunanya.se/": 1795863565.3524294,
+  "https://elfsborg.se/feed/": 1795863565.763318,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795863566.0674412,
+  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795863566.1041758,
+  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795863566.5776565,
+  "https://www.dexerto.com/pokemon/feed/": 1795863566.825648
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/fran-strang-fasta-till-mys-julkalendrar-och-stress-6.3.396851.a7f7a8bfa6",
