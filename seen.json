@@ -512,6 +512,7 @@
   "dad4e789-15df-4b57-a85b-533834b316e9"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/28/28-november-18.17-misshandel-trelleborg/",
   "https://polisen.se/aktuellt/handelser/2026/november/28/28-november-18.00-polisinsatskommendering-stockholm/",
   "https://polisen.se/aktuellt/handelser/2026/november/28/28-november-14.37-misshandel-grov-nybro/",
   "https://polisen.se/aktuellt/handelser/2026/november/28/28-november-16.17-ovrigt-solvesborg/",
@@ -1010,8 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-13.48-trafikkontroll-vasternorrlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-13.40-bedrageri-kronobergs-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-13.38-bedrageri-kalmar-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-13.36-bedrageri-blekinge-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-13.35-bedrageri-skane-lan/"
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-13.36-bedrageri-blekinge-lan/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,15 +1028,15 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795886281.4237843,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795886306.289147,
-  "https://www.bt.se/rss": 1795888814.9853556,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795888816.1271563,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795888817.111406,
-  "https://vallentunanya.se/": 1795888817.2377777,
-  "https://elfsborg.se/feed/": 1795888817.9445426,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795888819.2800484,
-  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795888819.343051,
-  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795888819.4992733,
-  "https://www.dexerto.com/pokemon/feed/": 1795888819.777746
+  "https://www.bt.se/rss": 1795889125.1949217,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795889127.5552192,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795889130.4955883,
+  "https://vallentunanya.se/": 1795889130.6792367,
+  "https://elfsborg.se/feed/": 1795889131.5319002,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795889136.2163677,
+  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795889136.4267864,
+  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795889136.573885,
+  "https://www.dexerto.com/pokemon/feed/": 1795889136.8116345
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/roslagsbanan-vill-bygga-ut-pa-douglas-mark-6.3.398112.8d00652e9b",
@@ -1110,6 +1110,8 @@
   "https://vallentunanya.se/sport/ny-sportchef-utan-stora-plaanboken/5186"
  ],
  "https://elfsborg.se/feed/": [
+  "https://elfsborg.se/?p=71459",
+  "https://elfsborg.se/?p=71464",
   "https://elfsborg.se/?p=71454",
   "https://elfsborg.se/?p=71420",
   "https://elfsborg.se/?p=71366",
