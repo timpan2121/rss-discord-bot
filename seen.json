@@ -10,6 +10,8 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "a91f548a-9b81-4a8f-98d4-386667e29c4b",
+  "468a8731-3667-4ff4-8c20-472ae2af6e0a",
   "fee975ee-89d9-468f-9bfb-d6d3f34dc216",
   "d49fd226-5f11-4c0c-b2a5-078e745e5726",
   "aa26fff1-8321-465f-bb15-25edf244e57e",
@@ -507,11 +509,12 @@
   "69fc3057-d520-49fc-b144-257936be2b76",
   "8f2f5e50-e929-4a88-95cf-a78b25104b27",
   "c2474d3a-feb7-4a30-a8dc-41e46ba04344",
-  "9c14d4b1-a5ef-4f1d-87c1-47918fa84803",
-  "63dfd63d-14cd-4eb0-abf4-535464976629",
-  "ea48db29-53fe-4de6-bfb2-0d9821fb9d54"
+  "9c14d4b1-a5ef-4f1d-87c1-47918fa84803"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/28/28-november-07.59-sammanfattning-natt-norrbottens-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/28/28-november-07.58-sammanfattning-natt-vasterbottens-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/28/28-november-07.58-sammanfattning-natt-vasternorrlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/28/28-november-07.56-sammanfattning-natt-jamtlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/28/28-november-07.41-sammanfattning-natt-ostergotlands-lan/",
   "https://polisen.se/aktuellt/handelser/2026/november/28/28-november-07.41-sammanfattning-natt-sodermanlands-lan/",
@@ -1008,10 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-11.10-trafikolycka-hoor/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-04.30-morddrap-forsok-huddinge/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-10.08-trafikolycka-norrkoping/",
-  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-09.07-trafikolycka-falkenberg/",
-  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-09.06-trafikolycka-skelleftea/",
-  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-09.16-trafikolycka-karlstad/",
-  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-09.19-trafikolycka-perstorp/"
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-09.07-trafikolycka-falkenberg/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,15 +1028,15 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795848763.741148,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795848788.4261246,
-  "https://www.bt.se/rss": 1795849123.205532,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795849123.7781973,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795849125.934674,
-  "https://vallentunanya.se/": 1795849125.9663904,
-  "https://elfsborg.se/feed/": 1795849126.4631639,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795849126.7677033,
-  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795849126.8040392,
-  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795849127.093473,
-  "https://www.dexerto.com/pokemon/feed/": 1795849127.3188627
+  "https://www.bt.se/rss": 1795849431.7143323,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795849434.5335042,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795849438.4820867,
+  "https://vallentunanya.se/": 1795849438.506021,
+  "https://elfsborg.se/feed/": 1795849438.9828355,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795849439.379288,
+  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795849439.4286704,
+  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795849439.7734308,
+  "https://www.dexerto.com/pokemon/feed/": 1795849439.9921396
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/fran-strang-fasta-till-mys-julkalendrar-och-stress-6.3.396851.a7f7a8bfa6",
