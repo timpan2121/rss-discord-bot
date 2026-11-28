@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "0e5e5c67-839e-44cf-93c7-0a33566522c5",
   "6c1154d4-9757-443d-9709-471ab83386df",
   "7feec8a8-9da3-4c2e-b78e-607c0d4417f6",
   "7dea9e9b-a84f-4727-8fca-d19b8888259d",
@@ -508,8 +509,7 @@
   "ebe4dc7c-b841-4284-9ae6-2631afb406a2",
   "dd4d37e5-c917-4136-969f-7b27c949e57c",
   "fe8ba2d1-05ac-44a5-a30d-bfb22847aa06",
-  "003f35b4-b576-4cc8-8aa5-157c93e4146e",
-  "3bfcef19-3f22-438e-8735-20e47fc5def5"
+  "003f35b4-b576-4cc8-8aa5-157c93e4146e"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/28/28-november-14.31-trafikolycka-ljungby/",
@@ -1028,15 +1028,15 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795874912.6710472,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795874937.708381,
-  "https://www.bt.se/rss": 1795875895.1547663,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795875897.4965007,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795875898.4679365,
-  "https://vallentunanya.se/": 1795875898.7755322,
-  "https://elfsborg.se/feed/": 1795875899.4128976,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795875900.5705938,
-  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795875900.6485405,
-  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795875900.8290586,
-  "https://www.dexerto.com/pokemon/feed/": 1795875901.0433896
+  "https://www.bt.se/rss": 1795876206.3788984,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795876208.8014412,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795876209.7710366,
+  "https://vallentunanya.se/": 1795876212.2865925,
+  "https://elfsborg.se/feed/": 1795876213.0286071,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795876214.1888435,
+  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795876214.389966,
+  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795876214.5425053,
+  "https://www.dexerto.com/pokemon/feed/": 1795876214.7732866
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/roslagsbanan-vill-bygga-ut-pa-douglas-mark-6.3.398112.8d00652e9b",
