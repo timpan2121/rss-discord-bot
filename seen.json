@@ -10,6 +10,7 @@
   "http://www.eurocop.nu/?n=1488"
  ],
  "https://www.bt.se/rss": [
+  "759593b2-f121-4e2e-8381-40cbee224005",
   "2279da32-ac19-4777-92e9-d02cef1610c8",
   "5b143a7e-9b10-45d1-91a5-1696fd5e7967",
   "949f5098-13db-406a-9980-a286d8061cec",
@@ -508,8 +509,7 @@
   "4eba7b4c-c0c5-4770-ade5-b7459b4adfc9",
   "4aab44c5-28bb-4d80-b4d2-ffc72c4f84a0",
   "950cfdab-d71a-4ef7-9e8e-eb2ab5d1b2a1",
-  "c185fe32-342e-4a95-ac65-c04f8fec9ddd",
-  "f799c348-e510-4f73-af2c-bb31c1d10928"
+  "c185fe32-342e-4a95-ac65-c04f8fec9ddd"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
   "https://polisen.se/aktuellt/handelser/2026/november/28/28-november-07.59-sammanfattning-natt-norrbottens-lan/",
@@ -1028,15 +1028,15 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795852503.6181927,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795852504.1275787,
-  "https://www.bt.se/rss": 1795855267.100754,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795855267.826525,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795855268.3388898,
-  "https://vallentunanya.se/": 1795855268.3624508,
-  "https://elfsborg.se/feed/": 1795855268.7757328,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795855269.1715298,
-  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795855269.2149491,
-  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795855269.5079901,
-  "https://www.dexerto.com/pokemon/feed/": 1795855269.738517
+  "https://www.bt.se/rss": 1795855573.7604744,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795855575.6254923,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795855576.1311626,
+  "https://vallentunanya.se/": 1795855576.256159,
+  "https://elfsborg.se/feed/": 1795855576.7338107,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795855577.1320274,
+  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795855577.1635814,
+  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795855577.5928268,
+  "https://www.dexerto.com/pokemon/feed/": 1795855577.8143604
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/fran-strang-fasta-till-mys-julkalendrar-och-stress-6.3.396851.a7f7a8bfa6",
