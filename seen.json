@@ -512,6 +512,9 @@
   "5aa4ec4f-28cc-466b-aba0-0dfebaa16dde"
  ],
  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": [
+  "https://polisen.se/aktuellt/handelser/2026/november/28/28-november-07.00-sammanfattning-natt-vastra-gotalands-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/28/28-november-07.04-sammanfattning-natt-hallands-lan/",
+  "https://polisen.se/aktuellt/handelser/2026/november/27/27-november-23.59-brand-vasteras/",
   "https://polisen.se/aktuellt/handelser/2026/november/28/28-november-00.06-brand-vasteras/",
   "https://polisen.se/aktuellt/handelser/2026/november/28/28-november-05.24-brand-vasteras/",
   "https://polisen.se/aktuellt/handelser/2026/november/28/28-november-01.10-rattfylleri-kalmar/",
@@ -1008,10 +1011,7 @@
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-07.20-trafikolycka-harnosand/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-06.25-trafikolycka-nordmaling/",
   "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-07.39-sammanfattning-natt-norrbottens-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-07.38-sammanfattning-natt-vasternorrlands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-07.37-sammanfattning-natt-vasterbottens-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-07.37-sammanfattning-natt-jamtlands-lan/",
-  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-06.47-trafikolycka-gagnef/"
+  "https://polisen.se/aktuellt/handelser/2026/november/20/20-november-07.38-sammanfattning-natt-vasternorrlands-lan/"
  ],
  "http://eurocop.nu/medlem/lunarcoprss.xml": [
   "http://www.eurocop.nu/medlem/?n=2257",
@@ -1028,15 +1028,15 @@
  "_last": {
   "https://eurocop.nu/rss.xml": 1795844980.6208959,
   "http://eurocop.nu/medlem/lunarcoprss.xml": 1795845000.3265147,
-  "https://www.bt.se/rss": 1795845648.5335846,
-  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795845649.273693,
-  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795845651.4142027,
-  "https://vallentunanya.se/": 1795845651.597981,
-  "https://elfsborg.se/feed/": 1795845652.2378123,
-  "https://bollsvenskan.se/feed/if-elfsborg": 1795845652.8845637,
-  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795845652.9888027,
-  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795845653.3163345,
-  "https://www.dexerto.com/pokemon/feed/": 1795845653.5535917
+  "https://www.bt.se/rss": 1795845958.723472,
+  "https://polisen.se/aktuellt/rss/hela-landet/handelser-i-hela-landet/": 1795845959.445095,
+  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": 1795845964.6113052,
+  "https://vallentunanya.se/": 1795845964.9144254,
+  "https://elfsborg.se/feed/": 1795845965.535692,
+  "https://bollsvenskan.se/feed/if-elfsborg": 1795845966.0851903,
+  "https://www.pokebeach.com/forums/forums/-/index.rss": 1795845966.4635568,
+  "https://news.google.com/rss/search?q=%22Pok%C3%A9mon+Center%22+(pre-order+OR+restock+OR+release+OR+drop)+when:2d&hl=en-GB&gl=GB&ceid=GB:en": 1795845966.771466,
+  "https://www.dexerto.com/pokemon/feed/": 1795845967.0891302
  },
  "https://www.mitti.se/rss-6.8.0.0.e70d15cb3c": [
   "https://www.mitti.se/nyheter/darfor-drojer-nya-sopkarlen-6.3.397337.028b67a283",
